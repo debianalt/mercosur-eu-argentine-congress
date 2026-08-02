@@ -1,0 +1,221 @@
+bloque,familia,duda,nota
+FRENTE PARA LA VICTORIA - PJ,kirchnerismo,no,
+FRENTE DE TODOS,kirchnerismo,no,
+UNION POR LA PATRIA,kirchnerismo,no,
+NUEVO ENCUENTRO POPULAR Y SOLIDARIO,kirchnerismo,no,Sabbatella; aliado estable del FpV
+NUEVO ENCUENTRO,kirchnerismo,no,
+SOLIDARIO SI,kirchnerismo,no,Heller/Junio (Partido Solidario); aliado estable del FpV
+PERONISMO PARA LA VICTORIA,kirchnerismo,no,verificar integrantes y epoca; verificado 2026-08-02
+FRENTE PERONISTA,peronismo_federal,no,peronismo disidente 2011-2013
+PERONISMO FEDERAL,peronismo_federal,no,
+COMPROMISO FEDERAL,peronismo_federal,no,rodriguez-saaismo
+CORDOBA FEDERAL,peronismo_federal,no,schiarettismo
+UNION POR CORDOBA,peronismo_federal,no,delasotismo
+FRENTE RENOVADOR,peronismo_federal,no,massismo pre-FdT
+FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,peronismo_federal,no,UNA/massismo
+UNIDOS POR UNA NUEVA ARGENTINA,peronismo_federal,no,UNA/massismo
+IDENTIDAD BONAERENSE,peronismo_federal,no,Camano/Randazzo 2021
+JUSTICIALISTA,peronismo_federal,no,bloque PJ no-K 2016-2019 (Bossio); verificar epoca; verificado 2026-08-02
+UNIDAD JUSTICIALISTA,peronismo_federal,no,verificado 2026-08-02
+PARTIDO JUSTICIALISTA LA PAMPA,peronismo_federal,no,
+UNION PERONISTA,peronismo_federal,no,verificado 2026-08-02
+PERONISTA,peronismo_federal,no,verificado 2026-08-02
+FRENTE JUSTICIA UNION Y LIBERTAD - FREJULI,peronismo_federal,no,verificado 2026-08-02
+ENCUENTRO FEDERAL,peronismo_federal,no,Pichetto 2024; bloque mixto: PS/GEN via familia_overrides.csv; verificado 2026-08-02
+HACEMOS COALICION FEDERAL,peronismo_federal,si,Pichetto 2023; bloque mixto
+UCR,ucr,no,
+UCR - UNION CIVICA RADICAL,ucr,no,
+EVOLUCION RADICAL,ucr,no,radicalismo Lousteau
+UDESO SALTA,ucr,no,alianza UCR salta 2011; verificado 2026-08-02
+SUMA + UNEN,ucr,no,Lousteau/Carrizo; radicalismo porteno via UNEN; verificado 2026-08-02
+MOVIMIENTO NACIONAL ALFONSINISTA,ucr,no,desprendimiento radical; verificado 2026-08-02
+FRENTE CIVICO Y SOCIAL DE CATAMARCA,ucr,no,radicalismo catamarqueno; verificado 2026-08-02
+PRO,pro,no,
+UNION PRO,pro,no,
+UNION POR TODOS,pro,no,Bullrich pre-PRO; verificado 2026-08-02
+COALICION CIVICA,cc_ari,no,
+COALICION CIVICA - ARI,cc_ari,no,
+COALICION CIVICA - ARI - GEN - UPT,cc_ari,no,bloque conjunto; incluye GEN; verificado 2026-08-02
+COALICION CIVICA ARI - UNEN,cc_ari,no,
+GEN,izquierda_progresista,no,Stolbizer; socialdemocracia; verificado 2026-08-02
+PARTIDO SOCIALISTA,izquierda_progresista,no,
+SOCIALISTA,izquierda_progresista,no,
+FRENTE PROGRESISTA CIVICO Y SOCIAL,izquierda_progresista,no,socialismo santafesino
+LIBRES DEL SUR,izquierda_progresista,no,
+UNIDAD POPULAR,izquierda_progresista,no,Lozano/De Gennaro (CTA)
+DIALOGO POR BUENOS AIRES,izquierda_progresista,no,Bonasso post-K; verificado 2026-08-02
+PROYECTO SUR - UNEN,izquierda_progresista,no,
+MOVIMIENTO PROYECTO SUR,izquierda_progresista,no,
+PARTIDO OBRERO FRENTE DE IZQUIERDA Y DE TRABAJADORES UNIDAD,izquierda_progresista,no,FIT
+FRENTE DE IZQUIERDA Y DE TRABAJADORES UNIDAD,izquierda_progresista,no,FIT
+PARTIDO OBRERO -FRENTE DE IZQUIERDA Y DE TRABAJADORES -UNIDA,izquierda_progresista,no,FIT; nombre truncado en fuente
+LA LIBERTAD AVANZA,lla,no,
+FRENTE DE LA CONCORDIA MISIONERO,provinciales,no,renovacion misionera
+INNOVACION FEDERAL,provinciales,no,renovacion misionera + Salta
+MOV POP NEUQUINO,provinciales,no,MPN
+PARTIDO FEDERAL FUEGUINO,provinciales,no,
+PARTIDO LIBERAL DE CORRIENTES,provinciales,no,
+RENOVADOR DE SALTA,provinciales,no,romerismo
+TRABAJO Y DIGNIDAD,provinciales,no,Das Neves; Chubut
+LA UNION MENDOCINA,provinciales,no,
+DEMOCRATA DE MENDOZA,provinciales,no,conservadurismo mendocino; verificado 2026-08-02
+FRENTE CIVICO - CORDOBA,provinciales,no,juecismo; verificado 2026-08-02
+FRENTE CIVICO POR SANTIAGO,provinciales,no,oficialismo santiagueno
+UNIR,otros,no,Asseff; nacionalismo conservador; bloque unipersonal; verificado 2026-08-02
+CONSERVADOR POPULAR,otros,no,Durand Cornejo; Salta; verificado 2026-08-02
+SOLIDARIDAD E IGUALDAD,izquierda_progresista,no,SI; escision del ARI (Macaluse/Raimundi); era 2005-2009
+UNION PERONISTA - PJ,peronismo_federal,no,peronismo disidente 2007-09 (Sarghini)
+FREJULI - PJ,peronismo_federal,no,San Luis; rodriguez-saaismo; era 2005-2009; verificado 2026-08-02
+DE LA CONCERTACION - FORJA,kirchnerismo,si,radicales K de la Concertacion
+DE LA CONCERTACION,kirchnerismo,si,radicales K de la Concertacion
+CONCERTACION ENTRERRIANA,kirchnerismo,si,radicales K Entre Rios
+"PARTIDO NUEVO CONTRA LA CORRUPCION, POR LA HONESTIDAD Y LA TRANSPARENCIA",provinciales,si,Partido Nuevo Cordoba; juecismo
+MOVIMIENTO POPULAR NEUQUINO,provinciales,no,MPN; grafia larga
+RECREAR,pro,si,Lopez Murphy; se fusiona con PRO en 2008
+ENCUENTRO POPULAR Y SOCIAL,izquierda_progresista,si,era 2007-09
+NACIONAL SINDICAL - PJ,peronismo_federal,si,
+UNION CELESTE Y BLANCO - PJ,peronismo_federal,no,De Narvaez
+CORRIENTE PERONISTA FEDERAL - PJ,peronismo_federal,no,
+GUARDIA PERONISTA - PJ,peronismo_federal,si,
+PERONISTA FEDERAL - PJ,peronismo_federal,no,
+DIGNIDAD PERONISTA - PJ,peronismo_federal,si,
+JUSTICIALISMO REPUBLICANO - PJ,peronismo_federal,si,
+SANTA FE FEDERAL,peronismo_federal,no,reutemannismo
+CONSENSO FEDERAL,peronismo_federal,si,era 2007-09
+UNIDAD FEDERALISTA (PAUFE),otros,si,Pa.U.Fe bonaerense
+FRENTE POR LOS DERECHOS CIUDADANOS,otros,si,unipersonal era 2007-09
+MOVIMIENTO INDEPENDIENTE,otros,si,unipersonal era 2007-09
+POR LA VERDAD,otros,si,unipersonal era 2007-09
+MEMORIA Y DEMOCRACIA,otros,si,unipersonal era 2007-09
+PROYECTO PROGRESISTA,izquierda_progresista,si,era 2007-09
+FRENTE DE TODOS (CORRIENTES 2005),provinciales,si,frente correntino; NO es el FdT kirchnerista de 2019
+DEMOCRATA MENDOZA,provinciales,si,conservadurismo mendocino; grafia sin DE
+PARTIDO RENOVADOR DE SALTA,provinciales,no,romerismo; grafia larga
+FRENTE PRODUCCION Y TRABAJO,provinciales,si,San Juan (giojismo); aliado del FpV
+FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES,izquierda_progresista,no,FIT
+FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD,izquierda_progresista,no,FIT
+PTS - FRENTE DE IZQUIERDA,izquierda_progresista,no,FIT
+PTS - FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD,izquierda_progresista,no,FIT
+PTS-FRENTE DE IZQUIERDA UNIDAD,izquierda_progresista,no,FIT
+IZQUIERDA SOCIALISTA - FRENTE DE IZQUIERDA,izquierda_progresista,no,FIT
+IZQUIERDA SOCIALISTA FIT-UNIDAD,izquierda_progresista,no,FIT
+MST - FRENTE DE IZQUIERDA Y TRABAJADORES UNIDAD,izquierda_progresista,no,FIT
+BUENOS AIRES PARA TODOS EN PROYECTO SUR,izquierda_progresista,no,
+SI POR LA UNIDAD POPULAR,izquierda_progresista,no,
+SOLIDARIDAD E IGUALDAD (SI) - ARI (T.D.F.),izquierda_progresista,no,
+SOCIALISTA DEL MIJD,izquierda_progresista,si,
+PARTIDO INTRANSIGENTE,izquierda_progresista,si,
+DEMOCRATA PROGRESISTA,otros,si,PDP santafesino
+MOVIMIENTO EVITA,kirchnerismo,no,
+FRENTE NUEVO ENCUENTRO,kirchnerismo,no,Sabbatella
+DEL BICENTENARIO,kirchnerismo,si,
+HACEMOS POR NUESTRO PAIS,peronismo_federal,no,schiarettismo 2023
+PERONISMO CORDOBES,peronismo_federal,no,
+PERONISTA CORDOBA CIUDADANA,peronismo_federal,si,
+CORDOBA TRABAJO Y PRODUCCION,peronismo_federal,si,
+JUSTICIALISTA POR TUCUMAN,peronismo_federal,no,
+PRIMERO TUCUMAN,peronismo_federal,si,
+PARTIDO JUSTICIALISTA PAMPEANO,peronismo_federal,no,
+NUCLEO UNIDAD PERONISTA,peronismo_federal,si,
+FRENTE RENOVADOR PERONISTA,peronismo_federal,si,
+FRENTE PERONISTA FEDERAL,peronismo_federal,no,
+UNION CELESTE Y BLANCO,peronismo_federal,no,De Narvaez
+CORRIENTE DE PENSAMIENTO FEDERAL,peronismo_federal,si,
+PERONISMO MAS AL SUR,peronismo_federal,si,
+PRIMERO ARGENTINA,peronismo_federal,si,peronismo 2016
+FE,peronismo_federal,si,Venegas; sindical rural aliado de Cambiemos
+PARTIDO DE LA CONCERTACION - FORJA,kirchnerismo,si,radicales K
+CONCERTACION FORJA,kirchnerismo,si,radicales K
+DEMOCRACIA PARA SIEMPRE,ucr,no,radicales 2024
+EVOLUCION RADICAL,ucr,no,
+LIGA DEL INTERIOR ELI,ucr,si,radicales del interior
+AVANZA LIBERTAD,lla,si,Espert pre-LLA
+AHORA PATRIA,lla,si,orbita libertaria-nacionalista
+BUENOS AIRES LIBRE,lla,si,orbita libertaria
+LIBERTAD VALORES Y CAMBIO,lla,si,orbita libertaria
+FUTURO Y LIBERTAD,lla,si,orbita libertaria
+REPUBLICANOS UNIDOS,pro,si,Lopez Murphy 2021
+CREO,provinciales,si,Tucuman
+ELIJO CATAMARCA,provinciales,no,
+ENCUENTRO POR CORRIENTES,provinciales,no,
+JUNTOS SOMOS RIO NEGRO,provinciales,no,
+LA NEUQUINIDAD,provinciales,no,
+MOV POP FUEGUINO,provinciales,no,
+SOMOS FUEGUINOS,provinciales,no,
+POR SANTA CRUZ,provinciales,no,
+CHUBUT SOMOS TODOS,provinciales,no,Das Neves
+INTEGRACION Y DESARROLLO CHUBUTENSE,provinciales,no,
+SOCIAL PATAGONICO,provinciales,si,
+MISIONES,provinciales,no,renovacion misionera
+SALTA SOMOS TODOS,provinciales,no,urtubeicismo
+PARTIDO PROPUESTA SALTENA,provinciales,si,
+FRENTE NORTE,provinciales,si,
+PARTIDO BLOQUISTA DE SAN JUAN,provinciales,no,
+COMPROMISO CON SAN JUAN,provinciales,no,
+SOMOS SAN JUAN,provinciales,no,
+UNION POR SAN JUAN,provinciales,no,
+TODOS JUNTOS POR SAN JUAN,provinciales,no,
+PRODUCCION Y TRABAJO,provinciales,si,San Juan
+AVANZAR SAN LUIS,provinciales,no,
+SOMOS MENDOZA,provinciales,si,
+BLOQUE PROTECTORA,provinciales,si,Mendoza
+DEFENDAMOS SANTA FE,provinciales,si,
+SANTA FE EN MOVIMIENTO,provinciales,si,
+NUEVO ESPACIO SANTAFESINO,provinciales,si,
+UNION POR ENTRE RIOS,provinciales,si,
+BRIGADIER GENERAL JUAN BAUTISTA BUSTOS,provinciales,si,Cordoba
+BUENOS AIRES POR EL CAMBIO,otros,si,
+PROVINCIAS UNIDAS,provinciales,si,
+DEMOCRATA,provinciales,si,Mendoza
+VALORES PARA MI PAIS,otros,si,Hotton
+MID - MOVIMIENTO DE INTEGRACION Y DESARROLLO,otros,si,
+UNIDOS,otros,si,
+SOMOS,otros,si,
+SER - SOMOS ENERGIA PARA RENOVAR,otros,si,
+RED POR ARGENTINA,otros,si,
+JUNTOS POR ARGENTINA,otros,si,
+UNIDAD Y EQUIDAD FEDERAL,otros,si,
+UNIDAD PARA EL DESARROLLO SOCIAL Y LA EQUIDAD,otros,si,
+FRENTE POR LA INCLUSION SOCIAL,otros,si,
+MOVIMIENTO SOLIDARIO POPULAR,otros,si,
+BLOQUE DE LOS TRABAJADORES,otros,si,
+BLOQUE SOCIAL CRISTIANO,otros,si,
+DEMOCRACIA IGUALITARIA Y PARTICIPATIVA (D.I.P.),otros,si,
+DIALOGO Y TRABAJO,otros,si,
+"CULTURA, EDUCACION Y TRABAJO",otros,si,
+ENCUENTRO POPULAR,otros,si,
+CAMBIO FEDERAL,otros,si,
+ACCION FEDERAL,otros,si,
+PAIS FEDERAL,otros,si,
+INDEPENDENCIA,otros,si,Tucuman
+TRANSFORMACION,otros,si,
+PERONISMO JUJENO,peronismo_federal,si,
+NO INTEGRA BLOQUE,otros,no,sin bloque
+SIN BLOQUE,otros,no,sin bloque
+UNIPERSONAL,otros,si,
+BLOQUE UNIPERSONAL,otros,si,
+PARTIDO OBRERO - FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNI,izquierda_progresista,no,FIT; nombre truncado
+PARTIDO OBRERO-FRENTE DE IZQUIERDA Y TRABAJADORES UNIDAD,izquierda_progresista,no,FIT
+SOLIDARIDAD E IGUALDAD (SI),izquierda_progresista,no,
+SOLIDARIDAD E IGUALDAD (SI) - PROYECTO PROGRESISTA,izquierda_progresista,no,
+ARI AUTONOMO 8 +,cc_ari,si,
+NACIONAL Y POPULAR,kirchnerismo,si,
+JUSTICIALISTA DE LA PROVINCIA DE BUENOS AIRES,peronismo_federal,no,
+CORRIENTE PERONISTA FEDERAL,peronismo_federal,no,
+PERONISTA SALTENO,peronismo_federal,si,
+ADELANTE BUENOS AIRES,peronismo_federal,si,
+PRO Y UNION POR ENTRE RIOS,pro,no,
+JUNTOS POR EL CAMBIO CHUBUT,pro,si,bloque provincial de la coalicion JxC
+LIGA DEL INTERIOR,ucr,si,radicales del interior
+FUERZAS DEL CIELO - ESPACIO LIBERAL,lla,no,
+FUERZAS DEL CIELO - ESPACIO LIBERAL F.C.E,lla,no,
+F.C.E.,lla,no,Fuerzas del Cielo
+LIBERTAD Y DEMOCRACIA,lla,si,ex-LLA (MID Zago)
+COHERENCIA,otros,si,ex-LLA 2025
+DEFENDAMOS CORDOBA,provinciales,si,
+EL CHACHO,provinciales,si,La Rioja
+UNIDOS POR SAN LUIS,provinciales,no,
+PARTIDO POR LA JUSTICIA SOCIAL,provinciales,si,Tucuman
+RENOVADOR SOCIAL CRISTIANO,otros,si,
+TRANSFORMACION B.T,otros,si,
+VALORES REPUBLICANOS,otros,si,

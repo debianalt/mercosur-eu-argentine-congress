@@ -1,0 +1,113 @@
+"""Figure 1 del manuscrito — serie de atencion (Paper A, seccion 4.1).
+
+    python fig1_attention_series.py
+
+Lee analisis/serie_atencion.csv, escribe manuscript/figures/Figure_1.png.
+
+Version de manuscrito de figura_serie_atencion.py (que queda como exploratoria
+en espanol). Diferencias: etiquetas en ingles, sin titulo embebido (el caption
+vive en el .md), 300 dpi.
+
+ESTANDAR TIPOGRAFICO DE LAS FIGURAS DEL ARTICULO — toda figura nueva lo respeta
+(el style guide exige tamanos y nombres de categoria identicos entre figuras):
+    etiquetas de eje 10 pt · ticks 9 pt · leyenda 9 pt · anotaciones 8 pt
+    tinta #444444 · grilla #e6e6e6 · sin spines superior ni derecho
+    nombres de dominio: los de ETIQUETAS, sin abreviar ni reordenar
+
+PALETA — validada, no elegida a ojo. `validate_palette.js --mode light` sobre
+#1f5c99,#c25e1e,#3f8f5f,#c9a227 devuelve ALL CHECKS PASS (banda de luminosidad,
+piso de croma, separacion CVD 8,0 deutan, piso de vision normal 19,5). Dos
+salvedades que obligan a encoding secundario, y por eso van las TRAMAS:
+  (1) la separacion CVD 8,0 cae en la banda piso 6-8, legal solo con encoding
+      secundario;
+  (2) en ESCALA DE GRISES los dominios B y C quedan en luminancia 0,191 y
+      0,204, practicamente indistinguibles — y la revista cobra GBP 300 por
+      figura a color impresa, asi que la version en grises es la probable.
+La trama resuelve ambas. El WARN de contraste de #c9a227 (2,36) queda cubierto
+por las etiquetas directas sobre las barras.
+"""
+
+import csv
+from pathlib import Path
+
+import matplotlib.pyplot as plt
+
+BASE = Path(__file__).resolve().parents[1]
+SERIE = BASE / "analisis" / "serie_atencion.csv"
+DESTINO = BASE / "manuscript" / "figures" / "Figure_1.png"
+
+COLORES = {"A": "#1f5c99", "B": "#c25e1e", "C": "#3f8f5f", "D": "#c9a227"}
+TRAMAS = {"A": "", "B": "///", "C": "...", "D": "xxx"}
+ETIQUETAS = {"A": "A  Explicit agreement", "B": "B  Sectoral trade with the EU",
+             "C": "C  Mercosur as an institution",
+             "D": "D  Traceability and forest regulation"}
+TINTA = "#444444"
+HITOS = {2010: "Madrid summit", 2016: "exchange of offers",
+         2019: "political agreement", 2024: "close of negotiations"}
+DESTACAR = {2010, 2012, 2014, 2023, 2024}
+
+PT_EJE, PT_TICK, PT_LEYENDA, PT_ANOT = 10, 9, 9, 8
+
+
+def main():
+    with open(SERIE, encoding="utf-8") as f:
+        filas = list(csv.DictReader(f))
+    anios = [int(r["anio"]) for r in filas]
+
+    fig, (ax1, ax2) = plt.subplots(2, 1, sharex=True, figsize=(9, 6.5),
+                                   height_ratios=[2, 1])
+    fig.subplots_adjust(hspace=0.12)
+
+    plt.rcParams["hatch.linewidth"] = 0.6
+    base = [0] * len(filas)
+    for dom in "ABCD":
+        vals = [int(r[f"dom_{dom}"]) for r in filas]
+        # el borde blanco es el separador de 2 px entre segmentos apilados
+        ax1.bar(anios, vals, bottom=base, width=0.75, color=COLORES[dom],
+                edgecolor="white", linewidth=1.4, hatch=TRAMAS[dom],
+                label=ETIQUETAS[dom])
+        base = [b + v for b, v in zip(base, vals)]
+    for a, total in zip(anios, base):
+        if a in DESTACAR:
+            ax1.annotate(str(total), (a, total), textcoords="offset points",
+                         xytext=(0, 3), ha="center", fontsize=PT_ANOT, color=TINTA)
+
+    tasa = [float(r["tasa_1000"]) for r in filas]
+    ax2.plot(anios, tasa, color="#2a78d6", linewidth=2, marker="o", markersize=4)
+    ax2.set_ylabel("Relevant items per 1,000\nitems tabled", fontsize=PT_EJE,
+                   color=TINTA)
+    ax2.set_ylim(0, max(tasa) * 1.25)
+
+    for ax in (ax1, ax2):
+        for a in HITOS:
+            ax.axvline(a, color="#999999", linestyle="--", linewidth=0.8, zorder=0)
+        ax.grid(axis="y", color="#e6e6e6", linewidth=0.6, zorder=0)
+        ax.set_axisbelow(True)
+        for lado in ("top", "right"):
+            ax.spines[lado].set_visible(False)
+        ax.tick_params(colors=TINTA, labelsize=PT_TICK)
+    # 2016 y 2019 estan a tres anios: las etiquetas se pisan en una sola linea
+    for i, (a, txt) in enumerate(sorted(HITOS.items())):
+        ax1.annotate(txt, (a, 1.0), xycoords=("data", "axes fraction"),
+                     xytext=(0, 4 + 12 * (i % 2)), textcoords="offset points",
+                     ha="center", va="bottom", fontsize=PT_ANOT, color="#777777")
+
+    electorales = [a for a in anios if a % 2 == 1]
+    ax2.plot(electorales, [0.06] * len(electorales), linestyle="none", marker="^",
+             markersize=5, markerfacecolor="none", markeredgecolor="#999999",
+             clip_on=False)
+
+    ax1.set_ylabel("Relevant items", fontsize=PT_EJE, color=TINTA)
+    ax1.legend(fontsize=PT_LEYENDA, frameon=False, loc="upper right",
+               labelcolor=TINTA)
+    ax1.margins(y=0.18)  # aire para las anotaciones de hito
+    ax2.set_xticks(anios)
+    ax2.set_xticklabels(anios, rotation=45)
+
+    DESTINO.parent.mkdir(parents=True, exist_ok=True)
+    fig.savefig(DESTINO, dpi=300, bbox_inches="tight", facecolor="white")
+    print(f"-> {DESTINO}")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,36 @@
+Analizás títulos de proyectos parlamentarios de la Cámara de Diputados de Argentina (2008-2025) sobre sectores productivos con historia de disputas comerciales con la Unión Europea: biodiesel/biocombustibles, carne, limones y cítricos, acero. Este es un chequeo de robustez: el filtro principal del estudio solo admite proyectos cuyo título menciona a la UE o su ecosistema regulatorio; tu tarea acá es detectar los que se vinculan a la UE AUNQUE el título no la nombre.
+
+A diferencia del filtro principal, acá SÍ podés usar conocimiento de contexto sobre la relación comercial argentina-europea. Referencias útiles:
+- Biodiesel: la UE fue el principal destino de exportación hasta los derechos antidumping europeos (2013-2017, disputa OMC ganada por Argentina en 2016); las crisis del sector en esos años están ligadas a ese cierre de mercado.
+- Carne vacuna: Cuota Hilton y cuota 481 (cupos UE), restricciones sanitarias europeas, y el capítulo de carne del acuerdo UE-Mercosur.
+- Limones y cítricos: barreras fitosanitarias de la UE (mancha negra), aperturas y cierres del mercado europeo.
+- Acero y aluminio: disputas por salvaguardas y antidumping con varias contrapartes; la UE es una de ellas (no la única — Estados Unidos fue central; no asumas UE sin señal).
+
+Marcá vinculo_ue = true si el proyecto plausiblemente se relaciona con la UE como mercado de exportación, como contraparte de una disputa comercial, o como fuente de regulación para ese sector — aunque el título no la mencione. Ejemplos de señales: crisis del sector biodiesel en años de antidumping europeo, cupos o cuotas de carne, barreras sanitarias a cítricos, pedidos de apertura de mercados europeos.
+
+Marcá vinculo_ue = false cuando el proyecto es política doméstica sin conexión europea plausible: porcentaje de mezcla o corte de biocombustibles, promoción provincial, precios internos de la carne, abigeato, sanidad animal doméstica sin eje exportador, aranceles de importación propios, disputas claramente con otras contrapartes (p. ej. antidumping de Perú o Estados Unidos).
+
+tipo_vinculo:
+- disputa_comercial_ue: antidumping, salvaguardas, reclamos ante la OMC contra o por la UE.
+- acceso_mercado_ue: cupos, cuotas, aperturas, barreras sanitarias o técnicas del mercado europeo.
+- regulacion_ue: normativa europea que alcanza al sector (EUDR, trazabilidad exigida por la UE).
+- ninguno: sin vínculo europeo plausible.
+
+Ejemplos:
+
+Título: "EXPRESAR PREOCUPACION POR LA SITUACION CRITICA QUE ATRAVIESAN LAS PYMES PRODUCTORAS DE BIODIESEL."
+-> {"vinculo_ue": true, "tipo_vinculo": "disputa_comercial_ue", "confianza": "media"}
+
+Título: "EXPRESAR PREOCUPACION POR EL INCUMPLIMIENTO DE LA CUOTA HILTON."
+-> {"vinculo_ue": true, "tipo_vinculo": "acceso_mercado_ue", "confianza": "alta"}
+
+Título: "BIOCOMBUSTIBLES - LEY 27640 -. MODIFICACIONES, SOBRE PORCENTAJE EN LA MEZCLA DE BIODIESEL Y ABASTECIMIENTO."
+-> {"vinculo_ue": false, "tipo_vinculo": "ninguno", "confianza": "alta"}
+
+Título: "EXPRESAR PREOCUPACION POR LA RESOLUCION DE LA REPUBLICA DE PERU, DONDE IMPONE DERECHOS ANTIDUMPING A LOS ENVIOS DE BIODIESEL DESDE LA REPUBLICA ARGENTINA."
+-> {"vinculo_ue": false, "tipo_vinculo": "ninguno", "confianza": "alta"}
+
+Título: "PROHIBICION DE LA VENTA DE CARNE CON HUESO EN ZONAS DE RIESGO DE AFTOSA."
+-> {"vinculo_ue": true, "tipo_vinculo": "acceso_mercado_ue", "confianza": "media"}
+
+Respondé únicamente con el JSON pedido.

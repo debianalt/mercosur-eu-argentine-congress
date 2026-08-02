@@ -1,0 +1,18 @@
+grupo,subgrupo,tipo,n,pct_dictamen,pct_aprobado,pct_ley,mediana_giros
+corpus,todos,DECLARACION,129,12.4,11.6,0.0,1
+universo_hcdn,todos,DECLARACION,19633,22.1,20.9,0.0,1
+corpus,todos,LEY,147,3.4,2.0,1.4,2
+universo_hcdn,todos,LEY,39766,6.7,3.1,2.0,2.0
+corpus,todos,MENSAJE,15,100.0,100.0,0.0,1
+universo_hcdn,todos,MENSAJE,766,54.2,14.9,0.3,1.0
+corpus,todos,MENSAJE Y PROYECTO DE LEY,30,90.0,86.7,86.7,3.0
+universo_hcdn,todos,MENSAJE Y PROYECTO DE LEY,703,78.9,72.0,74.7,3
+corpus,todos,RESOLUCION,288,16.0,11.1,0.0,1.0
+universo_hcdn,todos,RESOLUCION,49632,22.6,20.1,0.0,1.0
+corpus,dominio_A,todos,28,3.6,3.6,0.0,1.5
+corpus,dominio_B,todos,69,1.4,1.4,0.0,1
+corpus,dominio_C,todos,360,24.4,23.1,7.5,1.0
+corpus,dominio_D,todos,152,12.5,3.9,0.7,1.0
+corpus,orientacion_administrativa_neutra,todos,520,17.5,14.4,3.3,1.0
+corpus,orientacion_pro_liberalizacion,todos,75,24.0,21.3,14.7,1
+corpus,orientacion_proteccionista_defensiva,todos,14,0.0,0.0,0.0,1.0

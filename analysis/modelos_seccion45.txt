@@ -1,0 +1,208 @@
+==============================================================================
+M1 Poisson conteo total (dispersion Pearson/gl = 1.38)
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  n_rel   No. Observations:                 5660
+Model:                            GLM   Df Residuals:                     5640
+Model Family:                 Poisson   Df Model:                           19
+Link Function:                    Log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -1801.0
+Date:                Sun, 02 Aug 2026   Deviance:                       2731.1
+Time:                        15:38:40   Pearson chi2:                 7.79e+03
+No. Iterations:                     7   Pseudo R-squ. (CS):            0.03675
+Covariance Type:              cluster                                         
+==================================================================================================================================
+                                                                     coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------------------------------------------------------
+Intercept                                                         -1.8731      0.281     -6.660      0.000      -2.424      -1.322
+C(fase, Treatment('f1_impasse'))[T.f2_relanzamiento]               0.4322      0.235      1.840      0.066      -0.028       0.893
+C(fase, Treatment('f1_impasse'))[T.f3_reactivacion]               -0.2863      0.251     -1.140      0.254      -0.778       0.206
+C(fase, Treatment('f1_impasse'))[T.f4_paralisis]                  -0.4331      0.258     -1.676      0.094      -0.940       0.073
+C(fase, Treatment('f1_impasse'))[T.f5_cierre]                     -0.2379      0.288     -0.826      0.409      -0.803       0.327
+C(familia, Treatment('kirchnerismo'))[T.cc_ari]                    0.1563      0.362      0.432      0.666      -0.553       0.865
+C(familia, Treatment('kirchnerismo'))[T.izquierda_progresista]    -0.1650      0.340     -0.485      0.628      -0.832       0.502
+C(familia, Treatment('kirchnerismo'))[T.lla]                      -1.9156      1.009     -1.899      0.058      -3.893       0.062
+C(familia, Treatment('kirchnerismo'))[T.otros]                     0.5760      0.931      0.619      0.536      -1.248       2.400
+C(familia, Treatment('kirchnerismo'))[T.peronismo_federal]        -0.0328      0.339     -0.097      0.923      -0.697       0.631
+C(familia, Treatment('kirchnerismo'))[T.pro]                       0.4186      0.270      1.550      0.121      -0.111       0.948
+C(familia, Treatment('kirchnerismo'))[T.provinciales]             -0.5137      0.387     -1.328      0.184      -1.272       0.244
+C(familia, Treatment('kirchnerismo'))[T.ucr]                      -0.1055      0.293     -0.361      0.718      -0.679       0.468
+C(region, Treatment('PAMPEANA'))[T.CABA]                           0.4499      0.306      1.470      0.142      -0.150       1.050
+C(region, Treatment('PAMPEANA'))[T.CUYO]                           0.5153      0.351      1.468      0.142      -0.173       1.203
+C(region, Treatment('PAMPEANA'))[T.NEA]                            0.4111      0.237      1.733      0.083      -0.054       0.876
+C(region, Treatment('PAMPEANA'))[T.NOA]                            0.0128      0.384      0.033      0.973      -0.740       0.765
+C(region, Treatment('PAMPEANA'))[T.PATAGONIA]                     -0.2719      0.297     -0.916      0.360      -0.854       0.310
+electoral                                                         -0.4033      0.093     -4.314      0.000      -0.587      -0.220
+gobierno                                                          -0.6746      0.238     -2.839      0.005      -1.140      -0.209
+==================================================================================================================================
+IRR (exp(beta)) con IC95:
+                                                                  IRR  IC95_lo  IC95_hi      p
+Intercept                                                       0.154    0.089    0.267  0.000
+C(fase, Treatment('f1_impasse'))[T.f2_relanzamiento]            1.541    0.972    2.442  0.066
+C(fase, Treatment('f1_impasse'))[T.f3_reactivacion]             0.751    0.459    1.229  0.254
+C(fase, Treatment('f1_impasse'))[T.f4_paralisis]                0.648    0.391    1.076  0.094
+C(fase, Treatment('f1_impasse'))[T.f5_cierre]                   0.788    0.448    1.386  0.409
+C(familia, Treatment('kirchnerismo'))[T.cc_ari]                 1.169    0.575    2.376  0.666
+C(familia, Treatment('kirchnerismo'))[T.izquierda_progresista]  0.848    0.435    1.652  0.628
+C(familia, Treatment('kirchnerismo'))[T.lla]                    0.147    0.020    1.064  0.058
+C(familia, Treatment('kirchnerismo'))[T.otros]                  1.779    0.287   11.021  0.536
+C(familia, Treatment('kirchnerismo'))[T.peronismo_federal]      0.968    0.498    1.880  0.923
+C(familia, Treatment('kirchnerismo'))[T.pro]                    1.520    0.895    2.580  0.121
+C(familia, Treatment('kirchnerismo'))[T.provinciales]           0.598    0.280    1.277  0.184
+C(familia, Treatment('kirchnerismo'))[T.ucr]                    0.900    0.507    1.597  0.718
+C(region, Treatment('PAMPEANA'))[T.CABA]                        1.568    0.861    2.857  0.142
+C(region, Treatment('PAMPEANA'))[T.CUYO]                        1.674    0.842    3.331  0.142
+C(region, Treatment('PAMPEANA'))[T.NEA]                         1.508    0.948    2.401  0.083
+C(region, Treatment('PAMPEANA'))[T.NOA]                         1.013    0.477    2.149  0.973
+C(region, Treatment('PAMPEANA'))[T.PATAGONIA]                   0.762    0.426    1.364  0.360
+electoral                                                       0.668    0.556    0.802  0.000
+gobierno                                                        0.509    0.320    0.811  0.005
+==============================================================================
+M2 Poisson dominio D (dispersion = 1.04)
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                n_rel_d   No. Observations:                 5660
+Model:                            GLM   Df Residuals:                     5640
+Model Family:                 Poisson   Df Model:                           19
+Link Function:                    Log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -642.31
+Date:                Sun, 02 Aug 2026   Deviance:                       1018.4
+Time:                        15:38:40   Pearson chi2:                 5.87e+03
+No. Iterations:                    22   Pseudo R-squ. (CS):            0.01559
+Covariance Type:              cluster                                         
+==================================================================================================================================
+                                                                     coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------------------------------------------------------
+Intercept                                                         -4.0476      0.486     -8.325      0.000      -5.001      -3.095
+C(fase, Treatment('f1_impasse'))[T.f2_relanzamiento]               0.3657      0.346      1.057      0.291      -0.313       1.044
+C(fase, Treatment('f1_impasse'))[T.f3_reactivacion]                0.2310      0.431      0.536      0.592      -0.614       1.076
+C(fase, Treatment('f1_impasse'))[T.f4_paralisis]                   0.2819      0.446      0.632      0.528      -0.593       1.157
+C(fase, Treatment('f1_impasse'))[T.f5_cierre]                      0.7688      0.440      1.746      0.081      -0.094       1.632
+C(familia, Treatment('kirchnerismo'))[T.cc_ari]                    0.5179      0.781      0.663      0.507      -1.012       2.048
+C(familia, Treatment('kirchnerismo'))[T.izquierda_progresista]     1.5153      0.421      3.599      0.000       0.690       2.340
+C(familia, Treatment('kirchnerismo'))[T.lla]                     -21.0054      0.372    -56.400      0.000     -21.735     -20.275
+C(familia, Treatment('kirchnerismo'))[T.otros]                    -0.1849      1.044     -0.177      0.859      -2.231       1.862
+C(familia, Treatment('kirchnerismo'))[T.peronismo_federal]         0.8699      0.463      1.878      0.060      -0.038       1.778
+C(familia, Treatment('kirchnerismo'))[T.pro]                       0.0011      0.491      0.002      0.998      -0.962       0.964
+C(familia, Treatment('kirchnerismo'))[T.provinciales]              0.1319      0.554      0.238      0.812      -0.953       1.217
+C(familia, Treatment('kirchnerismo'))[T.ucr]                       0.4260      0.394      1.080      0.280      -0.347       1.199
+C(region, Treatment('PAMPEANA'))[T.CABA]                          -0.1087      0.438     -0.248      0.804      -0.967       0.749
+C(region, Treatment('PAMPEANA'))[T.CUYO]                           0.6035      0.541      1.115      0.265      -0.457       1.664
+C(region, Treatment('PAMPEANA'))[T.NEA]                            0.6129      0.435      1.408      0.159      -0.241       1.466
+C(region, Treatment('PAMPEANA'))[T.NOA]                            0.3169      0.479      0.661      0.508      -0.622       1.256
+C(region, Treatment('PAMPEANA'))[T.PATAGONIA]                      0.7960      0.391      2.036      0.042       0.030       1.562
+electoral                                                         -0.3162      0.214     -1.474      0.140      -0.736       0.104
+gobierno                                                          -0.7633      0.371     -2.057      0.040      -1.491      -0.036
+==================================================================================================================================
+IRR (exp(beta)) con IC95:
+                                                                  IRR  IC95_lo  IC95_hi      p
+Intercept                                                       0.017    0.007    0.045  0.000
+C(fase, Treatment('f1_impasse'))[T.f2_relanzamiento]            1.441    0.732    2.840  0.291
+C(fase, Treatment('f1_impasse'))[T.f3_reactivacion]             1.260    0.541    2.934  0.592
+C(fase, Treatment('f1_impasse'))[T.f4_paralisis]                1.326    0.553    3.179  0.528
+C(fase, Treatment('f1_impasse'))[T.f5_cierre]                   2.157    0.910    5.113  0.081
+C(familia, Treatment('kirchnerismo'))[T.cc_ari]                 1.679    0.363    7.753  0.507
+C(familia, Treatment('kirchnerismo'))[T.izquierda_progresista]  4.551    1.994   10.386  0.000
+C(familia, Treatment('kirchnerismo'))[T.lla]                    0.000    0.000    0.000  0.000
+C(familia, Treatment('kirchnerismo'))[T.otros]                  0.831    0.107    6.435  0.859
+C(familia, Treatment('kirchnerismo'))[T.peronismo_federal]      2.387    0.963    5.916  0.060
+C(familia, Treatment('kirchnerismo'))[T.pro]                    1.001    0.382    2.622  0.998
+C(familia, Treatment('kirchnerismo'))[T.provinciales]           1.141    0.385    3.378  0.812
+C(familia, Treatment('kirchnerismo'))[T.ucr]                    1.531    0.707    3.316  0.280
+C(region, Treatment('PAMPEANA'))[T.CABA]                        0.897    0.380    2.116  0.804
+C(region, Treatment('PAMPEANA'))[T.CUYO]                        1.828    0.633    5.282  0.265
+C(region, Treatment('PAMPEANA'))[T.NEA]                         1.846    0.786    4.334  0.159
+C(region, Treatment('PAMPEANA'))[T.NOA]                         1.373    0.537    3.511  0.508
+C(region, Treatment('PAMPEANA'))[T.PATAGONIA]                   2.217    1.030    4.770  0.042
+electoral                                                       0.729    0.479    1.110  0.140
+gobierno                                                        0.466    0.225    0.965  0.040
+==============================================================================
+M2b Poisson dominio D con dummy Misiones (en vez de region)
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                n_rel_d   No. Observations:                 5660
+Model:                            GLM   Df Residuals:                     5644
+Model Family:                 Poisson   Df Model:                           15
+Link Function:                    Log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -643.63
+Date:                Sun, 02 Aug 2026   Deviance:                       1021.0
+Time:                        15:38:40   Pearson chi2:                 5.67e+03
+No. Iterations:                    22   Pseudo R-squ. (CS):            0.01513
+Covariance Type:              cluster                                         
+==================================================================================================================================
+                                                                     coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------------------------------------------------------
+Intercept                                                         -3.7503      0.449     -8.351      0.000      -4.631      -2.870
+C(fase, Treatment('f1_impasse'))[T.f2_relanzamiento]               0.3497      0.342      1.021      0.307      -0.321       1.021
+C(fase, Treatment('f1_impasse'))[T.f3_reactivacion]                0.2286      0.413      0.554      0.580      -0.580       1.038
+C(fase, Treatment('f1_impasse'))[T.f4_paralisis]                   0.2467      0.437      0.565      0.572      -0.609       1.103
+C(fase, Treatment('f1_impasse'))[T.f5_cierre]                      0.7214      0.429      1.683      0.092      -0.119       1.562
+C(familia, Treatment('kirchnerismo'))[T.cc_ari]                    0.2657      0.777      0.342      0.732      -1.256       1.788
+C(familia, Treatment('kirchnerismo'))[T.izquierda_progresista]     1.2776      0.438      2.919      0.004       0.420       2.136
+C(familia, Treatment('kirchnerismo'))[T.lla]                     -20.9222      0.359    -58.352      0.000     -21.625     -20.219
+C(familia, Treatment('kirchnerismo'))[T.otros]                    -0.2340      1.037     -0.226      0.821      -2.266       1.798
+C(familia, Treatment('kirchnerismo'))[T.peronismo_federal]         0.7519      0.483      1.556      0.120      -0.195       1.699
+C(familia, Treatment('kirchnerismo'))[T.pro]                      -0.1580      0.498     -0.317      0.751      -1.134       0.818
+C(familia, Treatment('kirchnerismo'))[T.provinciales]              0.1055      0.549      0.192      0.848      -0.970       1.181
+C(familia, Treatment('kirchnerismo'))[T.ucr]                       0.4201      0.413      1.017      0.309      -0.390       1.230
+electoral                                                         -0.3154      0.214     -1.473      0.141      -0.735       0.104
+misiones                                                           1.2298      0.608      2.023      0.043       0.038       2.421
+gobierno                                                          -0.7885      0.355     -2.220      0.026      -1.485      -0.092
+==================================================================================================================================
+IRR (exp(beta)) con IC95:
+                                                                  IRR  IC95_lo  IC95_hi      p
+Intercept                                                       0.024    0.010    0.057  0.000
+C(fase, Treatment('f1_impasse'))[T.f2_relanzamiento]            1.419    0.725    2.775  0.307
+C(fase, Treatment('f1_impasse'))[T.f3_reactivacion]             1.257    0.560    2.823  0.580
+C(fase, Treatment('f1_impasse'))[T.f4_paralisis]                1.280    0.544    3.012  0.572
+C(fase, Treatment('f1_impasse'))[T.f5_cierre]                   2.057    0.888    4.767  0.092
+C(familia, Treatment('kirchnerismo'))[T.cc_ari]                 1.304    0.285    5.976  0.732
+C(familia, Treatment('kirchnerismo'))[T.izquierda_progresista]  3.588    1.521    8.462  0.004
+C(familia, Treatment('kirchnerismo'))[T.lla]                    0.000    0.000    0.000  0.000
+C(familia, Treatment('kirchnerismo'))[T.otros]                  0.791    0.104    6.039  0.821
+C(familia, Treatment('kirchnerismo'))[T.peronismo_federal]      2.121    0.823    5.469  0.120
+C(familia, Treatment('kirchnerismo'))[T.pro]                    0.854    0.322    2.266  0.751
+C(familia, Treatment('kirchnerismo'))[T.provinciales]           1.111    0.379    3.257  0.848
+C(familia, Treatment('kirchnerismo'))[T.ucr]                    1.522    0.677    3.420  0.309
+electoral                                                       0.730    0.480    1.110  0.141
+misiones                                                        3.421    1.039   11.260  0.043
+gobierno                                                        0.455    0.227    0.912  0.026
+==============================================================================
+M3 logit no-neutra a nivel proyecto (N = 558, no-neutras = 77) — coef en OR
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:              no_neutra   No. Observations:                  558
+Model:                            GLM   Df Residuals:                      548
+Model Family:                Binomial   Df Model:                            9
+Link Function:                  Logit   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -213.72
+Date:                Sun, 02 Aug 2026   Deviance:                       427.44
+Time:                        15:38:40   Pearson chi2:                     565.
+No. Iterations:                     5   Pseudo R-squ. (CS):            0.03592
+Covariance Type:              cluster                                         
+=================================================================================================================================
+                                                                    coef    std err          z      P>|z|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------------------------------------
+Intercept                                                        -2.0964      0.523     -4.011      0.000      -3.121      -1.072
+C(familia_m3, Treatment('kirchnerismo'))[T.otras]                -0.3652      0.606     -0.603      0.547      -1.553       0.822
+C(familia_m3, Treatment('kirchnerismo'))[T.peronismo_federal]     0.4701      0.609      0.772      0.440      -0.723       1.663
+C(familia_m3, Treatment('kirchnerismo'))[T.pro]                   0.4102      0.591      0.694      0.487      -0.748       1.568
+C(familia_m3, Treatment('kirchnerismo'))[T.ucr]                   1.1636      0.556      2.091      0.037       0.073       2.254
+C(fase, Treatment('f2_relanzamiento'))[T.f1_impasse]              0.0479      0.457      0.105      0.916      -0.847       0.943
+C(fase, Treatment('f2_relanzamiento'))[T.f3_reactivacion]        -0.7541      0.492     -1.532      0.126      -1.719       0.211
+C(fase, Treatment('f2_relanzamiento'))[T.f4_paralisis]           -0.1573      0.476     -0.330      0.741      -1.091       0.776
+C(fase, Treatment('f2_relanzamiento'))[T.f5_cierre]               0.0898      0.461      0.195      0.846      -0.814       0.994
+gobierno_num                                                      0.1605      0.515      0.312      0.755      -0.849       1.170
+=================================================================================================================================
+IRR (exp(beta)) con IC95:
+                                                                 IRR  IC95_lo  IC95_hi      p
+Intercept                                                      0.123    0.044    0.342  0.000
+C(familia_m3, Treatment('kirchnerismo'))[T.otras]              0.694    0.212    2.276  0.547
+C(familia_m3, Treatment('kirchnerismo'))[T.peronismo_federal]  1.600    0.485    5.276  0.440
+C(familia_m3, Treatment('kirchnerismo'))[T.pro]                1.507    0.473    4.797  0.487
+C(familia_m3, Treatment('kirchnerismo'))[T.ucr]                3.202    1.076    9.529  0.037
+C(fase, Treatment('f2_relanzamiento'))[T.f1_impasse]           1.049    0.429    2.568  0.916
+C(fase, Treatment('f2_relanzamiento'))[T.f3_reactivacion]      0.470    0.179    1.235  0.126
+C(fase, Treatment('f2_relanzamiento'))[T.f4_paralisis]         0.854    0.336    2.174  0.741
+C(fase, Treatment('f2_relanzamiento'))[T.f5_cierre]            1.094    0.443    2.702  0.846
+gobierno_num                                                   1.174    0.428    3.221  0.755

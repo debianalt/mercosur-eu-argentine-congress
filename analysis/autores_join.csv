@@ -1,0 +1,610 @@
+proyecto_id,fecha,autor,categoria,metodo_match,diputado_id,fuente_mandato,bloque,familia,distrito,region,presidencia,gobierno,tipo,dominio,orientacion,saliencia
+HCDN093102,2008-03-27,"CANTERO GUTIERREZ, ALBERTO",diputado,exacto_vigente,SUPL_CANTERO_GUTIERREZ,suplemento,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,CORDOBA,PAMPEANA,cfk_2008_2015,si,LEY,B,administrativa_neutra,relacionada
+HCDN093479,2008-04-09,"SOLANAS, RAUL PATRICIO",diputado,exacto_vigente,SUPL_SOLANAS,suplemento,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,ENTRE RIOS,PAMPEANA,cfk_2008_2015,si,LEY,C,administrativa_neutra,relacionada
+HCDN094656,2008-04-15,"FERNANDEZ DE KIRCHNER, CRISTINA",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE Y PROYECTO DE LEY,C,administrativa_neutra,relacionada
+HCDN094027,2008-04-18,"FERRO, FRANCISCO JOSE",diputado,exacto_vigente,SUPL_FERRO,suplemento,COALICIÓN CÍVICA - ARI - GEN - UPT,cc_ari,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN094366,2008-04-28,"DIAZ, SUSANA ELADIA",diputado,exacto_vigente,HCDN0739,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,TUCUMAN,NOA,cfk_2008_2015,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN094431,2008-04-30,"ROSSI, AGUSTIN OSCAR",diputado,exacto_vigente,HCDN0912,suplemento,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,SANTA FE,PAMPEANA,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN094482,2008-05-02,"FERRO, FRANCISCO JOSE",diputado,exacto_vigente,SUPL_FERRO,suplemento,COALICIÓN CÍVICA - ARI - GEN - UPT,cc_ari,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,DECLARACION,B,pro_liberalizacion,relacionada
+HCDN095325,2008-05-20,"GARCIA, SUSANA ROSA",diputado,exacto_vigente,HCDN0749,hcdn,COALICION CIVICA - ARI - GEN - UPT,cc_ari,SANTA FE,PAMPEANA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN096122,2008-06-09,"ALFARO, GERMAN ENRIQUE",diputado,exacto_vigente,HCDN0973,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,TUCUMAN,NOA,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN096123,2008-06-10,"FABRIS, LUCIANO RAFAEL",diputado,exacto_vigente,SUPL_FABRIS,suplemento,UCR,ucr,CHACO,NEA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN096387,2008-06-13,"SALIM, JUAN ARTURO",diputado,exacto_vigente,HCDN0915,suplemento,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,TUCUMAN,NOA,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN096591,2008-06-25,"FERRO, FRANCISCO JOSE",diputado,exacto_vigente,SUPL_FERRO,suplemento,COALICIÓN CÍVICA - ARI - GEN - UPT,cc_ari,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,DECLARACION,B,pro_liberalizacion,relacionada
+HCDN096787,2008-07-01,"TORRONTEGUI, MARIA ANGELICA",diputado,exacto_vigente,SUPL_TORRONTEGUI,suplemento,FREJULI - PJ,peronismo_federal,SAN LUIS,CUYO,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN097295,2008-07-25,"ALFARO, GERMAN ENRIQUE",diputado,exacto_vigente,HCDN0973,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,TUCUMAN,NOA,cfk_2008_2015,si,LEY,C,administrativa_neutra,relacionada
+HCDN097372,2008-07-29,"BONASSO, MIGUEL LUIS",diputado,exacto_vigente,HCDN0798,hcdn,DIALOGO POR BUENOS AIRES,izquierda_progresista,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN097678,2008-08-13,"MORINI, PEDRO JUAN",diputado,exacto_vigente,SUPL_MORINI,suplemento,UCR,ucr,SANTA FE,PAMPEANA,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN097850,2008-08-19,"IRRAZABAL, JUAN MANUEL",diputado,exacto_vigente,HCDN0760,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MISIONES,NEA,cfk_2008_2015,si,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN097988,2008-08-22,"OBIGLIO, JULIAN MARTIN",diputado,exacto_vigente,HCDN0960,suplemento,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN098039,2008-08-25,"RAIMUNDI, CARLOS",diputado,fallback_vigente,HCDN0132,suplemento,SOLIDARIDAD E IGUALDAD,izquierda_progresista,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN099495,2008-09-25,"IGLESIAS, FERNANDO ADOLFO",diputado,exacto_vigente,HCDN1031,hcdn,COALICION CIVICA - ARI - GEN - UPT,cc_ari,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN100142,2008-10-14,"MONTOYA, JORGE LUCIANO",diputado,exacto_vigente,HCDN0698,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,CORDOBA,PAMPEANA,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN100298,2008-10-16,"CORTINA, ROY",diputado,exacto_vigente,HCDN0984,hcdn,PARTIDO SOCIALISTA,izquierda_progresista,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,DECLARACION,D,administrativa_neutra,relacionada
+HCDN101002,2008-11-19,"LLANOS, EDITH OLGA",diputado,exacto_vigente,SUPL_LLANOS,suplemento,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,BUENOS AIRES,PAMPEANA,cfk_2008_2015,si,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN101557,2008-12-16,"SOLANAS, RAUL PATRICIO",diputado,exacto_vigente,SUPL_SOLANAS,suplemento,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,ENTRE RIOS,PAMPEANA,cfk_2008_2015,si,LEY,C,proteccionista_defensiva,relacionada
+HCDN102504,2009-02-04,"SESMA, LAURA JUDITH",diputado,exacto_vigente,SUPL_SESMA,suplemento,PARTIDO SOCIALISTA,izquierda_progresista,CORDOBA,PAMPEANA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN103082,2009-03-02,"OBIGLIO, JULIAN MARTIN",diputado,exacto_vigente,HCDN0960,suplemento,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN103693,2009-03-06,"FABRIS, LUCIANO RAFAEL",diputado,exacto_vigente,SUPL_FABRIS,suplemento,UCR,ucr,CHACO,NEA,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN104495,2009-04-05,"GALVALISI, LUIS ALBERTO",diputado,exacto_vigente,SUPL_GALVALISI,suplemento,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN104677,2009-04-14,"DAHER, ZULEMA BEATRIZ",diputado,exacto_vigente,HCDN0409,hcdn,UNION PERONISTA,peronismo_federal,SALTA,NOA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN105835,2009-05-20,"IGLESIAS, FERNANDO ADOLFO",diputado,exacto_vigente,HCDN1031,hcdn,COALICION CIVICA - ARI - GEN - UPT,cc_ari,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN106321,2009-05-29,"PINEDO, FEDERICO",diputado,exacto_vigente,HCDN0785,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN106379,2009-06-02,"DIEZ, MARIA INES",diputado,exacto_vigente,SUPL_DIEZ,suplemento,PARTIDO RENOVADOR DE SALTA,provinciales,SALTA,NOA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN107491,2009-07-13,"LEVERBERG, STELLA MARIS",diputado,exacto_vigente,HCDN1000,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MISIONES,NEA,cfk_2008_2015,si,LEY,D,administrativa_neutra,relacionada
+HCDN107687,2009-07-28,"VARGAS AIGNASSE, GERONIMO",diputado,exacto_vigente,HCDN0796,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,TUCUMAN,NOA,cfk_2008_2015,si,DECLARACION,C,proteccionista_defensiva,relacionada
+HCDN107753,2009-07-31,"OBIGLIO, JULIAN MARTIN",diputado,exacto_vigente,HCDN0960,suplemento,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,LEY,C,pro_liberalizacion,relacionada
+HCDN107798,2009-08-05,"TORRONTEGUI, MARIA ANGELICA",diputado,exacto_vigente,SUPL_TORRONTEGUI,suplemento,FREJULI - PJ,peronismo_federal,SAN LUIS,CUYO,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN108164,2009-08-13,"MOREJON, MANUEL AMOR",diputado,exacto_vigente,HCDN1008,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,CHUBUT,PATAGONIA,cfk_2008_2015,si,LEY,C,administrativa_neutra,relacionada
+HCDN109062,2009-09-23,"LEVERBERG, STELLA MARIS",diputado,exacto_vigente,HCDN1000,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MISIONES,NEA,cfk_2008_2015,si,DECLARACION,D,administrativa_neutra,relacionada
+HCDN109064,2009-09-24,"GENEM, AMANDA SUSANA",diputado,exacto_vigente,SUPL_GENEM,suplemento,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MENDOZA,CUYO,cfk_2008_2015,si,LEY,C,administrativa_neutra,relacionada
+HCDN110169,2009-11-04,"GODOY, RUPERTO EDUARDO",diputado,exacto_vigente,HCDN0755,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,SAN JUAN,CUYO,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN110192,2009-11-05,"PAROLI, RAUL OMAR",diputado,exacto_vigente,HCDN1010,hcdn,FRENTE CIVICO Y SOCIAL DE CATAMARCA,ucr,CATAMARCA,NOA,cfk_2008_2015,no,RESOLUCION,C,pro_liberalizacion,relacionada
+HCDN110418,2009-11-12,"GARCIA, SUSANA ROSA",diputado,exacto_vigente,HCDN0749,hcdn,COALICION CIVICA - ARI - GEN - UPT,cc_ari,SANTA FE,PAMPEANA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN112085,2009-11-20,"FERNANDEZ DE KIRCHNER, CRISTINA",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE Y PROYECTO DE LEY,C,pro_liberalizacion,relacionada
+HCDN110810,2009-11-25,"GARCIA, SUSANA ROSA",diputado,exacto_vigente,HCDN0749,hcdn,COALICION CIVICA - ARI - GEN - UPT,cc_ari,SANTA FE,PAMPEANA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN111105,2009-12-09,"ZANCADA, PABLO V.",diputado,fallback_vigente,SUPL_ZANCADA,suplemento,PARTIDO SOCIALISTA,izquierda_progresista,SANTA FE,PAMPEANA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN111200,2009-12-22,"ORSOLINI, PABLO EDUARDO",diputado,exacto_vigente,HCDN1196,hcdn,UCR,ucr,CHACO,NEA,cfk_2008_2015,no,RESOLUCION,B,pro_liberalizacion,relacionada
+HCDN111486,2010-02-02,"FERNANDEZ, ANIBAL DOMINGO",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE,C,administrativa_neutra,relacionada
+HCDN112186,2010-02-15,"GRIBAUDO, CHRISTIAN ALEJANDRO",diputado,exacto_vigente,HCDN1075,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN112458,2010-03-02,"ORSOLINI, PABLO EDUARDO",diputado,exacto_vigente,HCDN1196,hcdn,UCR,ucr,CHACO,NEA,cfk_2008_2015,no,RESOLUCION,B,pro_liberalizacion,relacionada
+HCDN112513,2010-03-02,"GRIBAUDO, CHRISTIAN ALEJANDRO",diputado,exacto_vigente,HCDN1075,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN114255,2010-04-07,"VILARIÑO, JOSE ANTONIO",diputado,exacto_vigente,HCDN1024,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,SALTA,NOA,cfk_2008_2015,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN114567,2010-04-16,"FERNANDEZ, ANIBAL DOMINGO",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE,C,administrativa_neutra,relacionada
+HCDN114793,2010-04-22,"PANSA, SERGIO HORACIO",diputado,exacto_vigente,HCDN1198,hcdn,PERONISMO FEDERAL,peronismo_federal,SAN LUIS,CUYO,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN115114,2010-04-27,"CHIENO, MARIA ELENA PETRONA",diputado,exacto_vigente,HCDN1157,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,CORRIENTES,NEA,cfk_2008_2015,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN115146,2010-04-28,"SABBATELLA, MARTIN",diputado,exacto_vigente,HCDN1211,hcdn,NUEVO ENCUENTRO POPULAR Y SOLIDARIO,kirchnerismo,BUENOS AIRES,PAMPEANA,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN115165,2010-04-28,"GRANADOS, DULCE",diputado,exacto_vigente,HCDN0011,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,BUENOS AIRES,PAMPEANA,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN115179,2010-04-28,"ARBO, JOSE AMEGHINO",diputado,exacto_vigente,HCDN0975,hcdn,PARTIDO LIBERAL DE CORRIENTES,provinciales,CORRIENTES,NEA,cfk_2008_2015,no,LEY,B,administrativa_neutra,relacionada
+HCDN115441,2010-05-05,"CUCCOVILLO, RICARDO OSCAR",diputado,exacto_vigente,HCDN1071,hcdn,PARTIDO SOCIALISTA,izquierda_progresista,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN116240,2010-05-11,"GAMBARO, NATALIA",diputado,exacto_vigente,HCDN1175,hcdn,PERONISMO FEDERAL,peronismo_federal,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN116114,2010-05-19,"URLICH, CARLOS",diputado,exacto_vigente,HCDN1022,hcdn,UCR,ucr,CHACO,NEA,cfk_2008_2015,no,DECLARACION,A,pro_liberalizacion,explicita
+HCDN116173,2010-05-20,"DAHER, ZULEMA BEATRIZ",diputado,exacto_vigente,HCDN0409,hcdn,PERONISMO FEDERAL,peronismo_federal,SALTA,NOA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN116344,2010-05-26,"FERNANDEZ, ANIBAL DOMINGO",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE,C,administrativa_neutra,relacionada
+HCDN116345,2010-05-26,"FERNANDEZ, ANIBAL DOMINGO",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE,C,administrativa_neutra,relacionada
+HCDN116482,2010-05-28,"MICHETTI, MARTA GABRIELA",diputado,exacto_vigente,HCDN1191,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,RESOLUCION,B,pro_liberalizacion,relacionada
+HCDN116609,2010-06-01,"FADUL, LILIANA",diputado,exacto_vigente,HCDN1164,hcdn,PARTIDO FEDERAL FUEGUINO,provinciales,TIERRA DEL FUEGO,PATAGONIA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN116670,2010-06-01,"FERNANDEZ, ANIBAL DOMINGO",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE,C,administrativa_neutra,relacionada
+HCDN116671,2010-06-01,"FERNANDEZ, ANIBAL DOMINGO",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE,C,administrativa_neutra,relacionada
+HCDN116794,2010-06-07,"MERCHAN, PAULA CECILIA",diputado,exacto_vigente,HCDN1004,hcdn,LIBRES DEL SUR,izquierda_progresista,CORDOBA,PAMPEANA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN116795,2010-06-07,"MERCHAN, PAULA CECILIA",diputado,exacto_vigente,HCDN1004,hcdn,LIBRES DEL SUR,izquierda_progresista,CORDOBA,PAMPEANA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN116799,2010-06-07,"FERNANDEZ, ANIBAL DOMINGO",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE,C,administrativa_neutra,relacionada
+HCDN117188,2010-06-14,"FERNANDEZ DE KIRCHNER, CRISTINA",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE,C,administrativa_neutra,relacionada
+HCDN117183,2010-06-15,"FERNANDEZ, ANIBAL DOMINGO",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE,C,administrativa_neutra,relacionada
+HCDN117359,2010-06-22,"CHIENO, MARIA ELENA PETRONA",diputado,exacto_vigente,HCDN1157,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,CORRIENTES,NEA,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN117459,2010-06-23,"FERNANDEZ DE KIRCHNER, CRISTINA",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE,C,administrativa_neutra,relacionada
+HCDN117694,2010-06-30,"ALONSO, GUMERSINDO FEDERICO",diputado,exacto_vigente,HCDN0733,hcdn,FRENTE CIVICO - CORDOBA,provinciales,CORDOBA,PAMPEANA,cfk_2008_2015,no,LEY,B,administrativa_neutra,relacionada
+HCDN117708,2010-06-30,"GRIBAUDO, CHRISTIAN ALEJANDRO",diputado,exacto_vigente,HCDN1075,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN118171,2010-07-13,"DAHER, ZULEMA BEATRIZ",diputado,exacto_vigente,HCDN0409,hcdn,PERONISMO FEDERAL,peronismo_federal,SALTA,NOA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN118245,2010-07-14,"FERNANDEZ BASUALDO, LUIS MARIA",diputado,exacto_vigente,HCDN0991,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,FORMOSA,NEA,cfk_2008_2015,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN118478,2010-07-28,"GARCIA, SUSANA ROSA",diputado,exacto_vigente,HCDN0749,hcdn,COALICION CIVICA,cc_ari,SANTA FE,PAMPEANA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN118523,2010-08-03,"IGLESIAS, FERNANDO ADOLFO",diputado,exacto_vigente,HCDN1031,hcdn,COALICION CIVICA,cc_ari,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN118756,2010-08-06,"FERRA DE BARTOL, MARGARITA",diputado,exacto_vigente,HCDN0879,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,SAN JUAN,CUYO,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN119348,2010-08-27,"DAMILANO GRIVARELLO, VIVIANA MONICA",diputado,exacto_vigente,HCDN0987,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,CHACO,NEA,cfk_2008_2015,si,DECLARACION,B,pro_liberalizacion,relacionada
+HCDN119870,2010-09-16,"SABBATELLA, MARTIN",diputado,exacto_vigente,HCDN1211,hcdn,NUEVO ENCUENTRO POPULAR Y SOLIDARIO,kirchnerismo,BUENOS AIRES,PAMPEANA,cfk_2008_2015,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN120081,2010-09-27,"FERNANDEZ, RODOLFO ALFREDO",diputado,exacto_vigente,HCDN1168,hcdn,UCR,ucr,CORRIENTES,NEA,cfk_2008_2015,no,LEY,B,administrativa_neutra,relacionada
+HCDN120106,2010-09-28,"WEST, MARIANO FEDERICO",diputado,exacto_vigente,HCDN0930,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,BUENOS AIRES,PAMPEANA,cfk_2008_2015,si,LEY,C,administrativa_neutra,relacionada
+HCDN120131,2010-09-29,"LANDAU, JORGE ALBERTO",diputado,exacto_vigente,HCDN0837,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,BUENOS AIRES,PAMPEANA,cfk_2008_2015,si,LEY,C,administrativa_neutra,relacionada
+HCDN120471,2010-10-14,"RIVARA, RAUL ALBERTO",diputado,exacto_vigente,HCDN1208,hcdn,PERONISMO FEDERAL,peronismo_federal,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,LEY,B,administrativa_neutra,relacionada
+HCDN120516,2010-10-15,"QUIROGA, HORACIO RODOLFO",diputado,exacto_vigente,HCDN1204,hcdn,UCR,ucr,NEUQUEN,PATAGONIA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN120625,2010-10-19,"FERNANDEZ, ANIBAL DOMINGO",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE,C,administrativa_neutra,relacionada
+HCDN121384,2010-11-19,"BONASSO, MIGUEL LUIS",diputado,exacto_vigente,HCDN0798,hcdn,DIALOGO POR BUENOS AIRES,izquierda_progresista,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN121849,2010-11-26,"TORFE, MONICA LILIANA",diputado,exacto_vigente,HCDN1041,hcdn,RENOVADOR DE SALTA,provinciales,SALTA,NOA,cfk_2008_2015,no,LEY,D,administrativa_neutra,relacionada
+HCDN123502,2011-02-02,"DAHER, ZULEMA BEATRIZ",diputado,exacto_vigente,HCDN0409,hcdn,PERONISMO FEDERAL,peronismo_federal,SALTA,NOA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN124596,2011-03-02,"LEVERBERG, STELLA MARIS",diputado,exacto_vigente,HCDN1000,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MISIONES,NEA,cfk_2008_2015,si,LEY,D,administrativa_neutra,relacionada
+HCDN124864,2011-03-03,"PINEDO, FEDERICO",diputado,exacto_vigente,HCDN0785,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN124934,2011-03-04,"VILARIÑO, JOSE ANTONIO",diputado,exacto_vigente,HCDN1024,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,SALTA,NOA,cfk_2008_2015,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN125023,2011-03-04,"IRRAZABAL, JUAN MANUEL",diputado,exacto_vigente,HCDN0760,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MISIONES,NEA,cfk_2008_2015,si,LEY,C,administrativa_neutra,relacionada
+HCDN125490,2011-03-16,"VEGA, JUAN CARLOS",diputado,exacto_vigente,HCDN1035,hcdn,COALICION CIVICA,cc_ari,CORDOBA,PAMPEANA,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN125516,2011-03-16,"SABBATELLA, MARTIN",diputado,exacto_vigente,HCDN1211,hcdn,NUEVO ENCUENTRO POPULAR Y SOLIDARIO,kirchnerismo,BUENOS AIRES,PAMPEANA,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN125597,2011-03-17,"STOLBIZER, MARGARITA ROSA",diputado,exacto_vigente,HCDN0244,hcdn,GEN,izquierda_progresista,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN125861,2011-03-28,"GUZMAN, OLGA ELIZABETH",diputado,exacto_vigente,HCDN1179,hcdn,MOV POP NEUQUINO,provinciales,NEUQUEN,PATAGONIA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN126030,2011-03-30,"MOREJON, MANUEL AMOR",diputado,exacto_vigente,HCDN1008,hcdn,PERONISTA,peronismo_federal,CHUBUT,PATAGONIA,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN126680,2011-04-05,"FERNANDEZ DE KIRCHNER, CRISTINA",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE Y PROYECTO DE LEY,C,administrativa_neutra,relacionada
+HCDN126498,2011-04-13,"IGLESIAS, FERNANDO ADOLFO",diputado,exacto_vigente,HCDN1031,hcdn,COALICION CIVICA,cc_ari,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN127202,2011-04-28,PARLAMENTARIA MIXTA REVISORA DE CUENTAS,organo,,,,,,,,cfk_2008_2015,,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN127347,2011-05-04,"GONZALEZ, NANCY SUSANA",diputado,exacto_vigente,HCDN0954,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,CHUBUT,PATAGONIA,cfk_2008_2015,si,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN127574,2011-05-09,"CUCCOVILLO, RICARDO OSCAR",diputado,exacto_vigente,HCDN1071,hcdn,PARTIDO SOCIALISTA,izquierda_progresista,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN128205,2011-06-06,"MARTINEZ, JULIO CESAR",diputado,exacto_vigente,HCDN0770,hcdn,UCR,ucr,LA RIOJA,NOA,cfk_2008_2015,no,DECLARACION,B,pro_liberalizacion,relacionada
+HCDN128911,2011-06-30,"GIL LAVEDRA, RICARDO RODOLFO",diputado,exacto_vigente,HCDN0381,hcdn,UCR,ucr,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN128990,2011-07-06,"FORTE, ULISES UMBERTO JOSE",diputado,exacto_vigente,HCDN1172,hcdn,UCR,ucr,LA PAMPA,PAMPEANA,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN129472,2011-07-18,"BONASSO, MIGUEL LUIS",diputado,exacto_vigente,HCDN0798,hcdn,DIALOGO POR BUENOS AIRES,izquierda_progresista,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN129575,2011-07-19,"OBIGLIO, JULIAN MARTIN",diputado,exacto_vigente,HCDN0960,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN129685,2011-07-22,"PEREZ, ADRIAN",diputado,exacto_vigente,HCDN0781,hcdn,COALICION CIVICA,cc_ari,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN131347,2011-09-22,"BARRANDEGUY, RAUL ENRIQUE",diputado,exacto_vigente,HCDN1147,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,ENTRE RIOS,PAMPEANA,cfk_2008_2015,si,LEY,C,administrativa_neutra,relacionada
+HCDN131385,2011-09-26,"RECALDE, HECTOR PEDRO",diputado,exacto_vigente,HCDN0910,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,BUENOS AIRES,PAMPEANA,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN131642,2011-10-13,"GODOY, RUPERTO EDUARDO",diputado,exacto_vigente,HCDN0755,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,SAN JUAN,CUYO,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN131910,2011-10-14,"FERNANDEZ DE KIRCHNER, CRISTINA",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE Y PROYECTO DE LEY,C,pro_liberalizacion,relacionada
+HCDN132152,2011-11-08,"MARTINEZ, JULIO CESAR",diputado,exacto_vigente,HCDN0770,hcdn,UCR,ucr,LA RIOJA,NOA,cfk_2008_2015,no,LEY,D,administrativa_neutra,relacionada
+HCDN132153,2011-11-08,"MARTINEZ, JULIO CESAR",diputado,exacto_vigente,HCDN0770,hcdn,UCR,ucr,LA RIOJA,NOA,cfk_2008_2015,no,LEY,D,administrativa_neutra,relacionada
+HCDN132326,2011-11-15,"FERNANDEZ DE KIRCHNER, CRISTINA",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE Y PROYECTO DE LEY,C,administrativa_neutra,relacionada
+HCDN132801,2011-11-24,"FERNANDEZ DE KIRCHNER, CRISTINA",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE Y PROYECTO DE LEY,C,administrativa_neutra,relacionada
+HCDN134378,2012-02-13,"FERNANDEZ DE KIRCHNER, CRISTINA",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE Y PROYECTO DE LEY,C,administrativa_neutra,relacionada
+HCDN133404,2012-02-22,"CASAÑAS, JUAN FRANCISCO",diputado,exacto_vigente,HCDN1154,hcdn,UCR,ucr,TUCUMAN,NOA,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN134032,2012-03-07,"ROBERTI, ALBERTO OSCAR",diputado,exacto_vigente,HCDN1297,hcdn,FRENTE PERONISTA,peronismo_federal,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,DECLARACION,D,administrativa_neutra,relacionada
+HCDN134174,2012-03-09,"FERNANDEZ, RODOLFO ALFREDO",diputado,exacto_vigente,HCDN1168,hcdn,UCR,ucr,CORRIENTES,NEA,cfk_2008_2015,no,LEY,B,administrativa_neutra,relacionada
+HCDN134289,2012-03-13,"CARRIO, ELISA MARIA AVELINA",diputado,exacto_vigente,HCDN0079,hcdn,COALICION CIVICA - ARI,cc_ari,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN134595,2012-03-16,"VILLATA, GRACIELA SUSANA",diputado,exacto_vigente,HCDN1308,hcdn,FRENTE CIVICO - CORDOBA,provinciales,CORDOBA,PAMPEANA,cfk_2008_2015,no,LEY,D,administrativa_neutra,relacionada
+HCDN134817,2012-03-20,"MICHETTI, MARTA GABRIELA",diputado,exacto_vigente,HCDN1191,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN134839,2012-03-20,"FERRARI, GUSTAVO ALFREDO HORACIO",diputado,exacto_vigente,HCDN1169,hcdn,FRENTE PERONISTA,peronismo_federal,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN135176,2012-03-27,"MARTINEZ, JULIO CESAR",diputado,exacto_vigente,HCDN0770,hcdn,UCR,ucr,LA RIOJA,NOA,cfk_2008_2015,no,DECLARACION,B,pro_liberalizacion,relacionada
+HCDN135183,2012-03-27,"MARTINEZ, JULIO CESAR",diputado,exacto_vigente,HCDN0770,hcdn,UCR,ucr,LA RIOJA,NOA,cfk_2008_2015,no,DECLARACION,B,pro_liberalizacion,relacionada
+HCDN135189,2012-03-28,"ASPIAZU, LUCIO BERNARDO",diputado,exacto_vigente,HCDN1145,hcdn,UCR,ucr,CORRIENTES,NEA,cfk_2008_2015,no,LEY,B,administrativa_neutra,relacionada
+HCDN135592,2012-04-11,"BIANCHI, IVANA MARIA",diputado,exacto_vigente,HCDN0964,hcdn,FRENTE PERONISTA,peronismo_federal,SAN LUIS,CUYO,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN135631,2012-04-11,"GONZALEZ, JUAN DANTE",diputado,exacto_vigente,HCDN0995,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MENDOZA,CUYO,cfk_2008_2015,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN135711,2012-04-13,"ATANASOF, ALFREDO NESTOR",diputado,exacto_vigente,HCDN0061,hcdn,FRENTE PERONISTA,peronismo_federal,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN136026,2012-04-25,"GONZALEZ, GLADYS ESTHER",diputado,exacto_vigente,HCDN1178,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN136138,2012-05-02,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,FRENTE PERONISTA,peronismo_federal,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN136316,2012-05-09,"GARNERO, ESTELA RAMONA",diputado,exacto_vigente,HCDN1176,hcdn,CORDOBA FEDERAL,peronismo_federal,CORDOBA,PAMPEANA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN136801,2012-05-18,"CASELLES, GRACIELA MARIA",diputado,exacto_vigente,HCDN0982,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,SAN JUAN,CUYO,cfk_2008_2015,si,DECLARACION,C,pro_liberalizacion,relacionada
+HCDN137460,2012-05-28,"BIANCHI, IVANA MARIA",diputado,exacto_vigente,HCDN0964,hcdn,FRENTE PERONISTA,peronismo_federal,SAN LUIS,CUYO,cfk_2008_2015,no,RESOLUCION,B,proteccionista_defensiva,relacionada
+HCDN137499,2012-05-29,"STOLBIZER, MARGARITA ROSA",diputado,exacto_vigente,HCDN0244,hcdn,GEN,izquierda_progresista,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN137669,2012-06-01,"NEGRI, MARIO RAUL",diputado,exacto_vigente,HCDN0035,hcdn,UCR,ucr,CORDOBA,PAMPEANA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN138359,2012-06-18,"ORSOLINI, PABLO EDUARDO",diputado,exacto_vigente,HCDN1196,hcdn,UCR,ucr,CHACO,NEA,cfk_2008_2015,no,DECLARACION,B,pro_liberalizacion,relacionada
+HCDN138521,2012-06-22,"CASAÑAS, JUAN FRANCISCO",diputado,exacto_vigente,HCDN1154,hcdn,UCR,ucr,TUCUMAN,NOA,cfk_2008_2015,no,RESOLUCION,B,pro_liberalizacion,relacionada
+HCDN139004,2012-07-03,"BULLRICH, PATRICIA",diputado,exacto_vigente,HCDN0509,hcdn,UNION POR TODOS,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN139176,2012-07-04,"BIANCHI, IVANA MARIA",diputado,exacto_vigente,HCDN0964,hcdn,FRENTE PERONISTA,peronismo_federal,SAN LUIS,CUYO,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN139210,2012-07-05,"FADUL, LILIANA",diputado,exacto_vigente,HCDN1164,hcdn,PARTIDO FEDERAL FUEGUINO,provinciales,TIERRA DEL FUEGO,PATAGONIA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN139282,2012-07-06,"ATANASOF, ALFREDO NESTOR",diputado,exacto_vigente,HCDN0061,hcdn,FRENTE PERONISTA,peronismo_federal,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN139293,2012-07-10,"MARTINEZ, JULIO CESAR",diputado,exacto_vigente,HCDN0770,hcdn,UCR,ucr,LA RIOJA,NOA,cfk_2008_2015,no,DECLARACION,C,proteccionista_defensiva,relacionada
+HCDN139890,2012-07-30,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,FRENTE PERONISTA,peronismo_federal,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN140110,2012-08-06,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,FRENTE PERONISTA,peronismo_federal,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN140295,2012-08-08,"ALVAREZ, JORGE MARIO",diputado,exacto_vigente,HCDN1141,hcdn,UCR,ucr,SANTA FE,PAMPEANA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN140390,2012-08-09,"ATANASOF, ALFREDO NESTOR",diputado,exacto_vigente,HCDN0061,hcdn,FRENTE PERONISTA,peronismo_federal,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN140555,2012-08-14,"CASAÑAS, JUAN FRANCISCO",diputado,exacto_vigente,HCDN1154,hcdn,UCR,ucr,TUCUMAN,NOA,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN140894,2012-08-23,"PINEDO, FEDERICO",diputado,exacto_vigente,HCDN0785,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN141097,2012-08-29,"MARTINEZ, JULIO CESAR",diputado,exacto_vigente,HCDN0770,hcdn,UCR,ucr,LA RIOJA,NOA,cfk_2008_2015,no,DECLARACION,C,proteccionista_defensiva,relacionada
+HCDN141495,2012-09-06,"HELLER, CARLOS",diputado,exacto_vigente,HCDN1180,hcdn,NUEVO ENCUENTRO,kirchnerismo,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN141739,2012-09-14,"MENDOZA, SANDRA MARCELA",diputado,exacto_vigente,HCDN1189,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,CHACO,NEA,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN143411,2012-09-26,PARLAMENTARIA MIXTA REVISORA DE CUENTAS,organo,,,,,,,,cfk_2008_2015,,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN142348,2012-10-02,"PANSA, SERGIO HORACIO",diputado,exacto_vigente,HCDN1198,hcdn,FRENTE PERONISTA,peronismo_federal,SAN LUIS,CUYO,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN142807,2012-10-12,"FIAD, MARIO RAYMUNDO",diputado,exacto_vigente,HCDN1170,hcdn,UCR,ucr,JUJUY,NOA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN143360,2012-10-26,"LEVERBERG, STELLA MARIS",diputado,exacto_vigente,HCDN1000,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MISIONES,NEA,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN143380,2012-10-29,"LEVERBERG, STELLA MARIS",diputado,exacto_vigente,HCDN1000,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MISIONES,NEA,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN143507,2012-10-30,"GIL LAVEDRA, RICARDO RODOLFO",diputado,exacto_vigente,HCDN0381,hcdn,UCR,ucr,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,DECLARACION,D,administrativa_neutra,relacionada
+HCDN144139,2012-11-20,"ZAMARREÑO, MARIA EUGENIA",diputado,exacto_vigente,HCDN1331,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,BUENOS AIRES,PAMPEANA,cfk_2008_2015,si,LEY,C,administrativa_neutra,relacionada
+HCDN144954,2012-12-17,"FADUL, LILIANA",diputado,exacto_vigente,HCDN1164,hcdn,PARTIDO FEDERAL FUEGUINO,provinciales,TIERRA DEL FUEGO,PATAGONIA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN144957,2012-12-17,"FADUL, LILIANA",diputado,exacto_vigente,HCDN1164,hcdn,PARTIDO FEDERAL FUEGUINO,provinciales,TIERRA DEL FUEGO,PATAGONIA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN147972,2013-02-21,"GONZALEZ, GLADYS ESTHER",diputado,exacto_vigente,HCDN1178,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN148238,2013-03-04,"LEVERBERG, STELLA MARIS",diputado,exacto_vigente,HCDN1000,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MISIONES,NEA,cfk_2008_2015,si,LEY,D,administrativa_neutra,relacionada
+HCDN148312,2013-03-04,"GARNERO, ESTELA RAMONA",diputado,exacto_vigente,HCDN1176,hcdn,CORDOBA FEDERAL,peronismo_federal,CORDOBA,PAMPEANA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN148357,2013-03-04,"LINARES, MARIA VIRGINIA",diputado,exacto_vigente,HCDN1078,hcdn,GEN,izquierda_progresista,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN148610,2013-03-06,"GONZALEZ, GLADYS ESTHER",diputado,exacto_vigente,HCDN1178,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN149356,2013-03-19,"VILLATA, GRACIELA SUSANA",diputado,exacto_vigente,HCDN1308,hcdn,FRENTE CIVICO - CORDOBA,provinciales,CORDOBA,PAMPEANA,cfk_2008_2015,no,LEY,D,administrativa_neutra,relacionada
+HCDN149359,2013-03-19,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,FRENTE PERONISTA,peronismo_federal,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN149384,2013-03-19,"PANSA, SERGIO HORACIO",diputado,exacto_vigente,HCDN1198,hcdn,FRENTE PERONISTA,peronismo_federal,SAN LUIS,CUYO,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN149401,2013-03-19,"GRANADOS, DULCE",diputado,exacto_vigente,HCDN0011,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,BUENOS AIRES,PAMPEANA,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN149952,2013-04-03,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,FRENTE PERONISTA,peronismo_federal,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN149993,2013-04-04,"MARTINEZ, SOLEDAD",diputado,exacto_vigente,HCDN1187,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN150121,2013-04-09,"BIANCHI, IVANA MARIA",diputado,exacto_vigente,HCDN0964,hcdn,FRENTE PERONISTA,peronismo_federal,SAN LUIS,CUYO,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN150294,2013-04-11,"MARTINEZ, JULIO CESAR",diputado,exacto_vigente,HCDN0770,hcdn,UCR,ucr,LA RIOJA,NOA,cfk_2008_2015,no,DECLARACION,B,pro_liberalizacion,relacionada
+HCDN150605,2013-04-17,"GARNERO, ESTELA RAMONA",diputado,exacto_vigente,HCDN1176,hcdn,CORDOBA FEDERAL,peronismo_federal,CORDOBA,PAMPEANA,cfk_2008_2015,no,DECLARACION,B,pro_liberalizacion,relacionada
+HCDN150727,2013-04-22,"GONZALEZ, JUAN DANTE",diputado,exacto_vigente,HCDN0995,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MENDOZA,CUYO,cfk_2008_2015,si,LEY,C,administrativa_neutra,relacionada
+HCDN150915,2013-04-26,"PERIE, JULIA ARGENTINA",diputado,exacto_vigente,HCDN1039,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MISIONES,NEA,cfk_2008_2015,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN151307,2013-05-03,"OBIGLIO, JULIAN MARTIN",diputado,exacto_vigente,HCDN0960,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN151308,2013-05-03,"OBIGLIO, JULIAN MARTIN",diputado,exacto_vigente,HCDN0960,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN151829,2013-05-16,"BURYAILE, RICARDO",diputado,exacto_vigente,HCDN1151,hcdn,UCR,ucr,FORMOSA,NEA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN152152,2013-05-21,"MARTINEZ, JULIO CESAR",diputado,exacto_vigente,HCDN0770,hcdn,UCR,ucr,LA RIOJA,NOA,cfk_2008_2015,no,LEY,D,administrativa_neutra,relacionada
+HCDN152570,2013-06-04,"MARTINEZ, JULIO CESAR",diputado,exacto_vigente,HCDN0770,hcdn,UCR,ucr,LA RIOJA,NOA,cfk_2008_2015,no,LEY,D,administrativa_neutra,relacionada
+HCDN152587,2013-06-04,"CASAÑAS, JUAN FRANCISCO",diputado,exacto_vigente,HCDN1154,hcdn,UCR,ucr,TUCUMAN,NOA,cfk_2008_2015,no,RESOLUCION,B,pro_liberalizacion,relacionada
+HCDN152746,2013-06-12,"ORSOLINI, PABLO EDUARDO",diputado,exacto_vigente,HCDN1196,hcdn,UCR,ucr,CHACO,NEA,cfk_2008_2015,no,DECLARACION,B,pro_liberalizacion,relacionada
+HCDN153757,2013-07-04,"DIAZ ROIG, JUAN CARLOS",diputado,exacto_vigente,HCDN0877,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,FORMOSA,NEA,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN155017,2013-08-08,"FORTE, ULISES UMBERTO JOSE",diputado,exacto_vigente,HCDN1172,hcdn,UCR,ucr,LA PAMPA,PAMPEANA,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN155365,2013-08-14,"FERNANDEZ DE KIRCHNER, CRISTINA",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE Y PROYECTO DE LEY,C,administrativa_neutra,relacionada
+HCDN156293,2013-09-12,"RIESTRA, ANTONIO SABINO",diputado,exacto_vigente,HCDN1294,hcdn,UNIDAD POPULAR,izquierda_progresista,SANTA FE,PAMPEANA,cfk_2008_2015,no,DECLARACION,D,administrativa_neutra,relacionada
+HCDN157013,2013-10-08,"MARTINEZ, JULIO CESAR",diputado,exacto_vigente,HCDN0770,hcdn,UCR,ucr,LA RIOJA,NOA,cfk_2008_2015,no,DECLARACION,B,pro_liberalizacion,relacionada
+HCDN157136,2013-10-16,"VILARIÑO, JOSE ANTONIO",diputado,exacto_vigente,HCDN1024,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,SALTA,NOA,cfk_2008_2015,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN157650,2013-11-06,"PINEDO, FEDERICO",diputado,exacto_vigente,HCDN0785,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,LEY,C,pro_liberalizacion,relacionada
+HCDN157885,2013-11-08,"VILLATA, GRACIELA SUSANA",diputado,exacto_vigente,HCDN1308,hcdn,FRENTE CIVICO - CORDOBA,provinciales,CORDOBA,PAMPEANA,cfk_2008_2015,no,LEY,D,administrativa_neutra,relacionada
+HCDN158351,2013-11-22,"VILARIÑO, JOSE ANTONIO",diputado,exacto_vigente,HCDN1024,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,SALTA,NOA,cfk_2008_2015,si,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN158573,2013-12-03,"MALDONADO, VICTOR HUGO",diputado,exacto_vigente,HCDN1277,hcdn,UCR,ucr,CHACO,NEA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN158586,2013-12-06,"PINEDO, FEDERICO",diputado,exacto_vigente,HCDN0785,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN159021,2013-12-27,"LINARES, MARIA VIRGINIA",diputado,exacto_vigente,HCDN1078,hcdn,GEN,izquierda_progresista,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN159054,2013-12-27,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,UNIR,otros,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN160298,2014-02-06,"FERNANDEZ DE KIRCHNER, CRISTINA",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE Y PROYECTO DE LEY,C,administrativa_neutra,relacionada
+HCDN159294,2014-02-14,"GRIBAUDO, CHRISTIAN ALEJANDRO",diputado,exacto_vigente,HCDN1075,hcdn,UNION PRO,pro,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN159299,2014-02-14,"ALONSO, LAURA",diputado,exacto_vigente,HCDN1139,hcdn,UNION PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN159392,2014-02-20,"MARTINEZ, OSCAR ARIEL",diputado,exacto_vigente,HCDN1278,hcdn,FRENTE RENOVADOR,peronismo_federal,SANTA FE,PAMPEANA,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN159526,2014-03-05,"LANDAU, JORGE ALBERTO",diputado,exacto_vigente,HCDN0837,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,BUENOS AIRES,PAMPEANA,cfk_2008_2015,si,LEY,C,administrativa_neutra,relacionada
+HCDN160087,2014-03-12,"RUBIN, CARLOS GUSTAVO",diputado,exacto_vigente,HCDN1370,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,CORRIENTES,NEA,cfk_2008_2015,si,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN160166,2014-03-13,"GRIBAUDO, CHRISTIAN ALEJANDRO",diputado,exacto_vigente,HCDN1075,hcdn,UNION PRO,pro,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN160240,2014-03-14,"ALONSO, LAURA",diputado,exacto_vigente,HCDN1139,hcdn,UNION PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN160759,2014-03-26,"GONZALEZ, GLADYS ESTHER",diputado,exacto_vigente,HCDN1178,hcdn,UNION PRO,pro,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN160844,2014-03-27,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,UNIR,otros,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN161629,2014-04-09,"LINARES, MARIA VIRGINIA",diputado,exacto_vigente,HCDN1078,hcdn,GEN,izquierda_progresista,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN161749,2014-04-14,"AVOSCAN, HERMAN HORACIO",diputado,exacto_vigente,HCDN1237,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,RIO NEGRO,PATAGONIA,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN161980,2014-04-15,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,UNIR,otros,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN162118,2014-04-21,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,UNIR,otros,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN162258,2014-04-23,"BULLRICH, PATRICIA",diputado,exacto_vigente,HCDN0509,hcdn,UNION PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN162712,2014-05-06,"CARRIO, ELISA MARIA AVELINA",diputado,exacto_vigente,HCDN0079,hcdn,COALICION CIVICA ARI - UNEN,cc_ari,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,LEY,B,pro_liberalizacion,relacionada
+HCDN163333,2014-05-15,"STOLBIZER, MARGARITA ROSA",diputado,exacto_vigente,HCDN0244,hcdn,GEN,izquierda_progresista,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN163550,2014-05-21,"ZAMARREÑO, MARIA EUGENIA",diputado,exacto_vigente,HCDN1331,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,BUENOS AIRES,PAMPEANA,cfk_2008_2015,si,LEY,C,administrativa_neutra,relacionada
+HCDN164071,2014-06-02,"MARTINEZ, JULIO CESAR",diputado,exacto_vigente,HCDN0770,hcdn,UCR,ucr,LA RIOJA,NOA,cfk_2008_2015,no,DECLARACION,B,pro_liberalizacion,relacionada
+HCDN164080,2014-06-03,"BIELLA CALVET, BERNARDO JOSE",diputado,exacto_vigente,HCDN1243,hcdn,UDESO SALTA,ucr,SALTA,NOA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN164240,2014-06-05,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,UNIR,otros,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN164767,2014-06-24,"GRANADOS, DULCE",diputado,exacto_vigente,HCDN0011,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,BUENOS AIRES,PAMPEANA,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN165018,2014-07-03,"FERNANDEZ MENDIA, GUSTAVO RODOLFO",diputado,exacto_vigente,HCDN1378,hcdn,PARTIDO JUSTICIALISTA LA PAMPA,peronismo_federal,LA PAMPA,PAMPEANA,cfk_2008_2015,no,RESOLUCION,C,pro_liberalizacion,relacionada
+HCDN165065,2014-07-04,"GRIBAUDO, CHRISTIAN ALEJANDRO",diputado,exacto_vigente,HCDN1075,hcdn,UNION PRO,pro,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN166003,2014-08-06,"BIELLA CALVET, BERNARDO JOSE",diputado,exacto_vigente,HCDN1243,hcdn,UDESO SALTA,ucr,SALTA,NOA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN166249,2014-08-12,"SCAGLIA, GISELA",diputado,exacto_vigente,HCDN1404,hcdn,UNION PRO,pro,SANTA FE,PAMPEANA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN166311,2014-08-13,"MARTINEZ, JULIO CESAR",diputado,exacto_vigente,HCDN0770,hcdn,UCR,ucr,LA RIOJA,NOA,cfk_2008_2015,no,DECLARACION,B,pro_liberalizacion,relacionada
+HCDN166416,2014-08-19,"BIANCHI, IVANA MARIA",diputado,exacto_vigente,HCDN0964,hcdn,COMPROMISO FEDERAL,peronismo_federal,SAN LUIS,CUYO,cfk_2008_2015,no,LEY,D,administrativa_neutra,relacionada
+HCDN166480,2014-08-20,"GIACCONE, CLAUDIA ALEJANDRA",diputado,exacto_vigente,HCDN1268,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,SANTA FE,PAMPEANA,cfk_2008_2015,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN166760,2014-08-28,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,UNIR,otros,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,C,pro_liberalizacion,relacionada
+HCDN167603,2014-09-23,"DONDA PEREZ, VICTORIA ANALIA",diputado,exacto_vigente,HCDN1073,hcdn,LIBRES DEL SUR,izquierda_progresista,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN168344,2014-10-08,"CARMONA, GUILLERMO RAMON",diputado,exacto_vigente,HCDN1247,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MENDOZA,CUYO,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN168486,2014-10-14,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,UNIR,otros,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN168549,2014-10-15,"RUBIN, CARLOS GUSTAVO",diputado,exacto_vigente,HCDN1370,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,CORRIENTES,NEA,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN168657,2014-10-20,"BIANCHI, IVANA MARIA",diputado,exacto_vigente,HCDN0964,hcdn,COMPROMISO FEDERAL,peronismo_federal,SAN LUIS,CUYO,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN169296,2014-11-04,"RIOS, LILIANA MARIA",diputado,exacto_vigente,HCDN1295,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,ENTRE RIOS,PAMPEANA,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN169904,2014-11-19,"ZIEBART, CRISTINA ISABEL",diputado,exacto_vigente,HCDN1310,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,CHUBUT,PATAGONIA,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN169915,2014-11-19,"SCHIARETTI, JUAN",diputado,exacto_vigente,HCDN0646,hcdn,UNION POR CORDOBA,peronismo_federal,CORDOBA,PAMPEANA,cfk_2008_2015,no,LEY,C,pro_liberalizacion,relacionada
+HCDN170283,2014-12-01,"NEGRI, MARIO RAUL",diputado,exacto_vigente,HCDN0035,hcdn,UCR,ucr,CORDOBA,PAMPEANA,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN170508,2014-12-03,"ALONSO, LAURA",diputado,exacto_vigente,HCDN1139,hcdn,UNION PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN171326,2014-12-19,"LEVERBERG, STELLA MARIS",diputado,exacto_vigente,HCDN1000,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MISIONES,NEA,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN171849,2015-02-04,"MARTINEZ, JULIO CESAR",diputado,exacto_vigente,HCDN0770,hcdn,UCR,ucr,LA RIOJA,NOA,cfk_2008_2015,no,LEY,D,administrativa_neutra,relacionada
+HCDN172022,2015-02-20,"GRIBAUDO, CHRISTIAN ALEJANDRO",diputado,exacto_vigente,HCDN1075,hcdn,UNION PRO,pro,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN172143,2015-03-02,"LEVERBERG, STELLA MARIS",diputado,exacto_vigente,HCDN1000,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MISIONES,NEA,cfk_2008_2015,si,LEY,D,administrativa_neutra,relacionada
+HCDN172348,2015-03-03,"PINEDO, FEDERICO",diputado,exacto_vigente,HCDN0785,hcdn,UNION PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,LEY,C,pro_liberalizacion,relacionada
+HCDN172369,2015-03-03,"GRIBAUDO, CHRISTIAN ALEJANDRO",diputado,exacto_vigente,HCDN1075,hcdn,UNION PRO,pro,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN172520,2015-03-05,"MARTINEZ, JULIO CESAR",diputado,exacto_vigente,HCDN0770,hcdn,UCR,ucr,LA RIOJA,NOA,cfk_2008_2015,no,LEY,D,administrativa_neutra,relacionada
+HCDN175477,2015-03-05,"ODARDA, MARIA MAGDALENA",senado,,,,,,,,cfk_2008_2015,,LEY,D,administrativa_neutra,relacionada
+HCDN173199,2015-03-16,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,UNIR,otros,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,LEY,D,administrativa_neutra,relacionada
+HCDN173710,2015-03-30,"GRANADOS, DULCE",diputado,exacto_vigente,HCDN0011,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,BUENOS AIRES,PAMPEANA,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN175082,2015-05-04,"MARTINEZ, JULIO CESAR",diputado,exacto_vigente,HCDN0770,hcdn,UCR,ucr,LA RIOJA,NOA,cfk_2008_2015,no,LEY,D,administrativa_neutra,relacionada
+HCDN176339,2015-05-04,"FERNANDEZ DE KIRCHNER, CRISTINA",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE Y PROYECTO DE LEY,C,administrativa_neutra,relacionada
+HCDN175251,2015-05-13,"CEJAS, JORGE ALBERTO",diputado,exacto_vigente,HCDN0983,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,RIO NEGRO,PATAGONIA,cfk_2008_2015,si,LEY,B,pro_liberalizacion,relacionada
+HCDN175574,2015-05-21,"LINARES, MARIA VIRGINIA",diputado,exacto_vigente,HCDN1078,hcdn,GEN,izquierda_progresista,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN175789,2015-05-28,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,UNIR,otros,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,C,pro_liberalizacion,relacionada
+HCDN176073,2015-06-05,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,UNIR,otros,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN177579,2015-07-08,"BIANCHI, IVANA MARIA",diputado,exacto_vigente,HCDN0964,hcdn,COMPROMISO FEDERAL,peronismo_federal,SAN LUIS,CUYO,cfk_2008_2015,no,RESOLUCION,B,proteccionista_defensiva,relacionada
+HCDN177999,2015-07-21,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,UNIR,otros,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN178222,2015-07-28,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,UNIR,otros,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN178339,2015-07-31,"PRADINES, ROBERTO ARTURO",diputado,exacto_vigente,HCDN1291,hcdn,DEMOCRATA DE MENDOZA,provinciales,MENDOZA,CUYO,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN179182,2015-08-21,"SANTIN, EDUARDO",diputado,exacto_vigente,HCDN0238,hcdn,MOVIMIENTO NACIONAL ALFONSINISTA,ucr,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN179607,2015-09-02,"PEREZ, ADRIAN",diputado,exacto_vigente,HCDN0781,hcdn,FRENTE RENOVADOR,peronismo_federal,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,A,administrativa_neutra,explicita
+HCDN179703,2015-09-07,"BIANCHI, IVANA MARIA",diputado,exacto_vigente,HCDN0964,hcdn,COMPROMISO FEDERAL,peronismo_federal,SAN LUIS,CUYO,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN179965,2015-09-17,"SORIA, MARIA EMILIA",diputado,exacto_vigente,HCDN1390,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,RIO NEGRO,PATAGONIA,cfk_2008_2015,si,LEY,D,administrativa_neutra,relacionada
+HCDN180256,2015-09-28,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,UNIR,otros,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,B,pro_liberalizacion,relacionada
+HCDN180326,2015-09-30,"SCHMIDT LIERMANN, CORNELIA",diputado,exacto_vigente,HCDN1302,hcdn,UNION PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN180951,2015-10-21,"ALFONSIN, RICARDO LUIS",diputado,exacto_vigente,HCDN1138,hcdn,UCR,ucr,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN181293,2015-11-13,"DURAND CORNEJO, GUILLERMO MARIO",diputado,exacto_vigente,HCDN1391,hcdn,CONSERVADOR POPULAR,otros,SALTA,NOA,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN182619,2016-02-16,"CARMONA, GUILLERMO RAMON",diputado,exacto_vigente,HCDN1247,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MENDOZA,CUYO,macri_2015_2019,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN182630,2016-02-16,"CARMONA, GUILLERMO RAMON",diputado,exacto_vigente,HCDN1247,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MENDOZA,CUYO,macri_2015_2019,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN182684,2016-03-01,"BIANCHI, IVANA MARIA",diputado,exacto_vigente,HCDN0964,hcdn,COMPROMISO FEDERAL,peronismo_federal,SAN LUIS,CUYO,macri_2015_2019,no,LEY,D,administrativa_neutra,relacionada
+HCDN184192,2016-04-05,"SORIA, MARIA EMILIA",diputado,exacto_vigente,HCDN1390,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,RIO NEGRO,PATAGONIA,macri_2015_2019,no,LEY,D,administrativa_neutra,relacionada
+HCDN185957,2016-04-11,"GIMENEZ, SANDRA DANIELA",senado,,,,,,,,macri_2015_2019,,LEY,C,administrativa_neutra,relacionada
+HCDN185787,2016-05-11,"CARMONA, GUILLERMO RAMON",diputado,exacto_vigente,HCDN1247,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MENDOZA,CUYO,macri_2015_2019,no,RESOLUCION,A,administrativa_neutra,explicita
+HCDN185973,2016-05-17,"CARRIO, ELISA MARIA AVELINA",diputado,exacto_vigente,HCDN0079,hcdn,COALICION CIVICA,cc_ari,CIUDAD DE BUENOS AIRES,CABA,macri_2015_2019,si,LEY,C,administrativa_neutra,relacionada
+HCDN187373,2016-06-24,"COUSINET, GRACIELA",diputado,exacto_vigente,HCDN1580,hcdn,LIBRES DEL SUR,izquierda_progresista,MENDOZA,CUYO,macri_2015_2019,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN188099,2016-07-15,"DE MENDIGUREN, JOSE IGNACIO",diputado,exacto_vigente,HCDN0668,hcdn,FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,peronismo_federal,BUENOS AIRES,PAMPEANA,macri_2015_2019,no,DECLARACION,A,administrativa_neutra,explicita
+HCDN188341,2016-07-21,"DI STEFANO, DANIEL",diputado,exacto_vigente,HCDN1481,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MISIONES,NEA,macri_2015_2019,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN189288,2016-08-11,"FRANCO, JORGE DANIEL",diputado,exacto_vigente,HCDN1480,hcdn,FRENTE DE LA CONCORDIA MISIONERO,provinciales,MISIONES,NEA,macri_2015_2019,no,DECLARACION,D,administrativa_neutra,relacionada
+HCDN189318,2016-08-12,"FERREYRA, ARACELI",diputado,exacto_vigente,HCDN1260,hcdn,PERONISMO PARA LA VICTORIA,kirchnerismo,CORRIENTES,NEA,macri_2015_2019,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN189657,2016-08-24,"LAGORIA, ELIA NELLY",diputado,exacto_vigente,HCDN1358,hcdn,TRABAJO Y DIGNIDAD,provinciales,CHUBUT,PATAGONIA,macri_2015_2019,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN190036,2016-08-30,"LUSQUIÑOS, LUIS BERNARDO",diputado,exacto_vigente,HCDN0513,hcdn,COMPROMISO FEDERAL,peronismo_federal,SAN LUIS,CUYO,macri_2015_2019,no,LEY,C,administrativa_neutra,relacionada
+HCDN191324,2016-10-03,"DONDA PEREZ, VICTORIA ANALIA",diputado,exacto_vigente,HCDN1073,hcdn,LIBRES DEL SUR,izquierda_progresista,CIUDAD DE BUENOS AIRES,CABA,macri_2015_2019,no,LEY,D,administrativa_neutra,relacionada
+HCDN193174,2016-10-06,"MACRI, MAURICIO",ejecutivo,,,,,,,,macri_2015_2019,,MENSAJE Y PROYECTO DE LEY,C,pro_liberalizacion,relacionada
+HCDN191846,2016-10-19,"HELLER, CARLOS",diputado,exacto_vigente,HCDN1180,hcdn,SOLIDARIO SI,kirchnerismo,CIUDAD DE BUENOS AIRES,CABA,macri_2015_2019,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN191903,2016-10-20,"PRETTO, PEDRO JAVIER",diputado,exacto_vigente,HCDN1509,hcdn,UNION PRO,pro,CORDOBA,PAMPEANA,macri_2015_2019,si,DECLARACION,C,pro_liberalizacion,relacionada
+HCDN191957,2016-10-21,"RUBIN, CARLOS GUSTAVO",diputado,exacto_vigente,HCDN1370,hcdn,JUSTICIALISTA,peronismo_federal,CORRIENTES,NEA,macri_2015_2019,no,LEY,D,administrativa_neutra,relacionada
+HCDN192256,2016-10-28,"PEDRINI, JUAN MANUEL",diputado,exacto_vigente,HCDN1356,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,CHACO,NEA,macri_2015_2019,no,LEY,C,administrativa_neutra,relacionada
+HCDN193748,2016-11-09,"MACRI, MAURICIO",ejecutivo,,,,,,,,macri_2015_2019,,MENSAJE Y PROYECTO DE LEY,C,administrativa_neutra,relacionada
+HCDN194197,2016-12-20,"VILLALONGA, JUAN CARLOS",diputado,exacto_vigente,HCDN1467,hcdn,UNION PRO,pro,CIUDAD DE BUENOS AIRES,CABA,macri_2015_2019,si,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN194585,2017-02-01,"HUCZAK, STELLA MARIS",diputado,exacto_vigente,HCDN1573,hcdn,UNION PRO,pro,MENDOZA,CUYO,macri_2015_2019,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN194819,2017-02-06,"MACRI, MAURICIO",ejecutivo,,,,,,,,macri_2015_2019,,MENSAJE Y PROYECTO DE LEY,C,pro_liberalizacion,relacionada
+HCDN194743,2017-02-15,"BANFI, KARINA",diputado,exacto_vigente,HCDN1447,hcdn,UCR,ucr,BUENOS AIRES,PAMPEANA,macri_2015_2019,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN194752,2017-02-15,"GAILLARD, ANA CAROLINA",diputado,exacto_vigente,HCDN1375,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,ENTRE RIOS,PAMPEANA,macri_2015_2019,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN194965,2017-03-01,"VILLALONGA, JUAN CARLOS",diputado,exacto_vigente,HCDN1467,hcdn,UNION PRO,pro,CIUDAD DE BUENOS AIRES,CABA,macri_2015_2019,si,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN196026,2017-03-22,"ESTEVEZ, GABRIELA BEATRIZ",diputado,exacto_vigente,HCDN1514,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,CORDOBA,PAMPEANA,macri_2015_2019,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN196368,2017-04-03,"CARRIZO, ANA CARLA",diputado,exacto_vigente,HCDN1361,hcdn,UCR,ucr,CIUDAD DE BUENOS AIRES,CABA,macri_2015_2019,si,LEY,C,administrativa_neutra,relacionada
+HCDN196975,2017-04-12,"BANFI, KARINA",diputado,exacto_vigente,HCDN1447,hcdn,UCR,ucr,BUENOS AIRES,PAMPEANA,macri_2015_2019,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN200747,2017-06-19,"ARGUMEDO, ALCIRA SUSANA",diputado,exacto_vigente,HCDN1144,hcdn,PROYECTO SUR - UNEN,izquierda_progresista,CIUDAD DE BUENOS AIRES,CABA,macri_2015_2019,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN202544,2017-07-14,"NAZARIO, ADRIANA MONICA",diputado,exacto_vigente,HCDN1516,hcdn,UNIDOS POR UNA NUEVA ARGENTINA,peronismo_federal,CORDOBA,PAMPEANA,macri_2015_2019,no,LEY,D,administrativa_neutra,relacionada
+HCDN204356,2017-08-11,"CARMONA, GUILLERMO RAMON",diputado,exacto_vigente,HCDN1247,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MENDOZA,CUYO,macri_2015_2019,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN204519,2017-08-16,"ESTEVEZ, GABRIELA BEATRIZ",diputado,exacto_vigente,HCDN1514,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,CORDOBA,PAMPEANA,macri_2015_2019,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN205425,2017-09-18,"ISA, EVITA NELIDA",diputado,exacto_vigente,HCDN1392,hcdn,JUSTICIALISTA,peronismo_federal,SALTA,NOA,macri_2015_2019,no,LEY,D,administrativa_neutra,relacionada
+HCDN205429,2017-09-18,"ISA, EVITA NELIDA",diputado,exacto_vigente,HCDN1392,hcdn,JUSTICIALISTA,peronismo_federal,SALTA,NOA,macri_2015_2019,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN205599,2017-09-27,"ALEGRE, GILBERTO OSCAR",diputado,exacto_vigente,HCDN1338,hcdn,FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,peronismo_federal,BUENOS AIRES,PAMPEANA,macri_2015_2019,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN211605,2018-02-21,"MERCADO, VERONICA",diputado,exacto_vigente,HCDN1470,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,CATAMARCA,NOA,macri_2015_2019,no,RESOLUCION,A,administrativa_neutra,explicita
+HCDN211972,2018-03-06,"SORIA, MARIA EMILIA",diputado,exacto_vigente,HCDN1390,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,RIO NEGRO,PATAGONIA,macri_2015_2019,no,LEY,D,administrativa_neutra,relacionada
+HCDN211995,2018-03-06,"BIANCHI, IVANA MARIA",diputado,exacto_vigente,HCDN0964,hcdn,UNIDAD JUSTICIALISTA,peronismo_federal,SAN LUIS,CUYO,macri_2015_2019,no,LEY,D,administrativa_neutra,relacionada
+HCDN212222,2018-03-08,"CARRIO, ELISA MARIA AVELINA",diputado,exacto_vigente,HCDN0079,hcdn,COALICION CIVICA,cc_ari,CIUDAD DE BUENOS AIRES,CABA,macri_2015_2019,si,LEY,C,administrativa_neutra,relacionada
+HCDN213062,2018-03-22,"ZAMARBIDE, FEDERICO RAUL",diputado,exacto_vigente,HCDN2387,hcdn,UCR,ucr,MENDOZA,CUYO,macri_2015_2019,si,LEY,D,administrativa_neutra,relacionada
+HCDN213317,2018-04-04,"DONDA PEREZ, VICTORIA ANALIA",diputado,exacto_vigente,HCDN1073,hcdn,LIBRES DEL SUR,izquierda_progresista,CIUDAD DE BUENOS AIRES,CABA,macri_2015_2019,no,LEY,D,administrativa_neutra,relacionada
+HCDN214784,2018-05-04,"HUSS, JUAN MANUEL",diputado,exacto_vigente,HCDN1522,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,ENTRE RIOS,PAMPEANA,macri_2015_2019,no,DECLARACION,A,proteccionista_defensiva,explicita
+HCDN217938,2018-06-12,"MACRI, MAURICIO",ejecutivo,,,,,,,,macri_2015_2019,,MENSAJE Y PROYECTO DE LEY,C,pro_liberalizacion,relacionada
+HCDN219257,2018-07-12,"BIANCHI, IVANA MARIA",diputado,exacto_vigente,HCDN0964,hcdn,UNIDAD JUSTICIALISTA,peronismo_federal,SAN LUIS,CUYO,macri_2015_2019,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN219343,2018-07-13,"RISTA, OLGA MARIA",diputado,exacto_vigente,HCDN1510,hcdn,UCR,ucr,CORDOBA,PAMPEANA,macri_2015_2019,si,LEY,C,administrativa_neutra,relacionada
+HCDN220013,2018-08-03,"IGLESIAS, FERNANDO ADOLFO",diputado,exacto_vigente,HCDN1031,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,macri_2015_2019,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN220111,2018-08-07,"BIANCHI, IVANA MARIA",diputado,exacto_vigente,HCDN0964,hcdn,UNIDAD JUSTICIALISTA,peronismo_federal,SAN LUIS,CUYO,macri_2015_2019,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN220959,2018-08-24,"DERNA, VERONICA",diputado,exacto_vigente,HCDN2438,hcdn,FRENTE DE LA CONCORDIA MISIONERO,provinciales,MISIONES,NEA,macri_2015_2019,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN221977,2018-09-04,"MACRI, MAURICIO",ejecutivo,,,,,,,,macri_2015_2019,,MENSAJE Y PROYECTO DE LEY,C,pro_liberalizacion,relacionada
+HCDN221790,2018-09-12,"SELVA, CARLOS AMERICO",diputado,exacto_vigente,HCDN1459,hcdn,FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,peronismo_federal,BUENOS AIRES,PAMPEANA,macri_2015_2019,no,LEY,D,administrativa_neutra,relacionada
+HCDN225245,2018-11-21,"VAZQUEZ, JUAN BENEDICTO",diputado,exacto_vigente,HCDN2425,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,SANTA CRUZ,PATAGONIA,macri_2015_2019,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN225488,2018-11-28,"MENDOZA, JOSEFINA",diputado,exacto_vigente,HCDN2433,hcdn,UCR,ucr,BUENOS AIRES,PAMPEANA,macri_2015_2019,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN225849,2018-12-10,"DOÑATE, CLAUDIO MARTIN",diputado,exacto_vigente,HCDN1483,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,RIO NEGRO,PATAGONIA,macri_2015_2019,no,LEY,D,administrativa_neutra,relacionada
+HCDN227787,2019-02-12,"CONTIGIANI, LUIS GUSTAVO",diputado,exacto_vigente,HCDN2369,hcdn,FRENTE PROGRESISTA CIVICO Y SOCIAL,izquierda_progresista,SANTA FE,PAMPEANA,macri_2015_2019,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN228132,2019-03-07,"SORIA, MARIA EMILIA",diputado,exacto_vigente,HCDN1390,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,RIO NEGRO,PATAGONIA,macri_2015_2019,no,LEY,D,administrativa_neutra,relacionada
+HCDN228169,2019-03-07,"CONTIGIANI, LUIS GUSTAVO",diputado,exacto_vigente,HCDN2369,hcdn,FRENTE PROGRESISTA CIVICO Y SOCIAL,izquierda_progresista,SANTA FE,PAMPEANA,macri_2015_2019,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN229905,2019-03-21,"NAZARIO, ADRIANA MONICA",diputado,exacto_vigente,HCDN1516,hcdn,CORDOBA FEDERAL,peronismo_federal,CORDOBA,PAMPEANA,macri_2015_2019,no,LEY,D,administrativa_neutra,relacionada
+HCDN230464,2019-03-28,"LOSPENNATO, SILVIA GABRIELA",diputado,fallback_vigente,HCDN1439,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,macri_2015_2019,si,LEY,C,administrativa_neutra,relacionada
+HCDN231767,2019-04-23,"CARMONA, GUILLERMO RAMON",diputado,exacto_vigente,HCDN1247,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MENDOZA,CUYO,macri_2015_2019,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN231932,2019-04-29,"DI STEFANO, DANIEL",diputado,exacto_vigente,HCDN1481,hcdn,FRENTE DE LA CONCORDIA MISIONERO,provinciales,MISIONES,NEA,macri_2015_2019,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN232507,2019-05-15,"GAYOL, YANINA CELESTE",diputado,exacto_vigente,HCDN1521,hcdn,PRO,pro,ENTRE RIOS,PAMPEANA,macri_2015_2019,si,RESOLUCION,B,pro_liberalizacion,relacionada
+HCDN232897,2019-05-28,"SCAGLIA, GISELA",diputado,exacto_vigente,HCDN1404,hcdn,PRO,pro,SANTA FE,PAMPEANA,macri_2015_2019,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN233773,2019-06-28,"FERNANDEZ LANGAN, EZEQUIEL",diputado,exacto_vigente,HCDN2375,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,macri_2015_2019,si,DECLARACION,A,pro_liberalizacion,explicita
+HCDN233831,2019-07-02,"VALLEJOS, FERNANDA",diputado,exacto_vigente,HCDN2424,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,BUENOS AIRES,PAMPEANA,macri_2015_2019,no,RESOLUCION,A,administrativa_neutra,explicita
+HCDN233839,2019-07-02,"CORREA, WALTER",diputado,exacto_vigente,HCDN2370,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,BUENOS AIRES,PAMPEANA,macri_2015_2019,no,DECLARACION,A,proteccionista_defensiva,explicita
+HCDN233850,2019-07-03,"ESPINOZA, FERNANDO",diputado,exacto_vigente,HCDN2430,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,BUENOS AIRES,PAMPEANA,macri_2015_2019,no,RESOLUCION,A,administrativa_neutra,explicita
+HCDN234113,2019-07-11,"DE MENDIGUREN, JOSE IGNACIO",diputado,exacto_vigente,HCDN0668,hcdn,FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,peronismo_federal,BUENOS AIRES,PAMPEANA,macri_2015_2019,no,RESOLUCION,A,administrativa_neutra,explicita
+HCDN234288,2019-07-18,"DE MENDIGUREN, JOSE IGNACIO",diputado,exacto_vigente,HCDN0668,hcdn,FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,peronismo_federal,BUENOS AIRES,PAMPEANA,macri_2015_2019,no,RESOLUCION,A,administrativa_neutra,explicita
+HCDN234291,2019-07-18,"DE MENDIGUREN, JOSE IGNACIO",diputado,exacto_vigente,HCDN0668,hcdn,FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,peronismo_federal,BUENOS AIRES,PAMPEANA,macri_2015_2019,no,RESOLUCION,A,administrativa_neutra,explicita
+HCDN234337,2019-07-23,"LEHMANN, MARIA LUCILA",diputado,exacto_vigente,HCDN2389,hcdn,COALICION CIVICA,cc_ari,SANTA FE,PAMPEANA,macri_2015_2019,si,LEY,A,administrativa_neutra,explicita
+HCDN234816,2019-08-15,"DERNA, VERONICA",diputado,exacto_vigente,HCDN2438,hcdn,FRENTE DE LA CONCORDIA MISIONERO,provinciales,MISIONES,NEA,macri_2015_2019,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN235390,2019-09-10,"STEFANI, HECTOR ANTONIO",diputado,exacto_vigente,HCDN2422,hcdn,PRO,pro,TIERRA DEL FUEGO,PATAGONIA,macri_2015_2019,si,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN236723,2019-11-13,"NEGRI, MARIO RAUL",diputado,exacto_vigente,HCDN0035,hcdn,UCR,ucr,CORDOBA,PAMPEANA,macri_2015_2019,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN236740,2019-11-14,"CARMONA, GUILLERMO RAMON",diputado,exacto_vigente,HCDN1247,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MENDOZA,CUYO,macri_2015_2019,no,LEY,C,administrativa_neutra,relacionada
+HCDN238252,2020-03-06,"AUSTIN, BRENDA LIS",diputado,exacto_vigente,HCDN1582,hcdn,UCR,ucr,CORDOBA,PAMPEANA,fernandez_2019_2023,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN239876,2020-04-27,"IGLESIAS, FERNANDO ADOLFO",diputado,exacto_vigente,HCDN1031,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,fernandez_2019_2023,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN239932,2020-04-29,"LENA, GABRIELA",diputado,exacto_vigente,HCDN2771,hcdn,UCR,ucr,ENTRE RIOS,PAMPEANA,fernandez_2019_2023,no,DECLARACION,C,pro_liberalizacion,relacionada
+HCDN239939,2020-04-29,"ENRIQUEZ, JORGE RICARDO",diputado,exacto_vigente,HCDN2435,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,fernandez_2019_2023,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN240035,2020-05-04,"IGLESIAS, FERNANDO ADOLFO",diputado,exacto_vigente,HCDN1031,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,fernandez_2019_2023,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN240232,2020-05-08,"MOISES, MARIA CAROLINA",diputado,exacto_vigente,HCDN0903,hcdn,FRENTE DE TODOS,kirchnerismo,JUJUY,NOA,fernandez_2019_2023,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN240236,2020-05-08,"LOSPENNATO, SILVIA GABRIELA",diputado,fallback_vigente,HCDN1439,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,fernandez_2019_2023,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN240694,2020-05-20,"MENNA, GUSTAVO",diputado,exacto_vigente,HCDN2394,hcdn,UCR,ucr,CHUBUT,PATAGONIA,fernandez_2019_2023,no,LEY,D,administrativa_neutra,relacionada
+HCDN240718,2020-05-20,"SUAREZ LASTRA, FACUNDO",diputado,exacto_vigente,HCDN2423,hcdn,UCR,ucr,CIUDAD DE BUENOS AIRES,CABA,fernandez_2019_2023,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN240808,2020-05-22,"BRITEZ, MARIA CRISTINA",diputado,exacto_vigente,HCDN1479,hcdn,FRENTE DE TODOS,kirchnerismo,MISIONES,NEA,fernandez_2019_2023,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN240951,2020-05-26,"SUAREZ LASTRA, FACUNDO",diputado,exacto_vigente,HCDN2423,hcdn,UCR,ucr,CIUDAD DE BUENOS AIRES,CABA,fernandez_2019_2023,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN240998,2020-05-27,"CAPARROS, MABEL LUISA",diputado,exacto_vigente,HCDN0543,hcdn,FRENTE DE TODOS,kirchnerismo,TIERRA DEL FUEGO,PATAGONIA,fernandez_2019_2023,si,LEY,D,administrativa_neutra,relacionada
+HCDN241784,2020-06-17,"ZAMARBIDE, FEDERICO RAUL",diputado,exacto_vigente,HCDN2387,hcdn,UCR,ucr,MENDOZA,CUYO,fernandez_2019_2023,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN241903,2020-06-22,"GARCIA, XIMENA",diputado,exacto_vigente,HCDN2814,hcdn,UCR,ucr,SANTA FE,PAMPEANA,fernandez_2019_2023,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN241999,2020-06-24,"MARZIOTTA, GISELA",diputado,exacto_vigente,HCDN2860,hcdn,FRENTE DE TODOS,kirchnerismo,CIUDAD DE BUENOS AIRES,CABA,fernandez_2019_2023,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN242884,2020-07-23,"ARCE, MARIO HORACIO",diputado,exacto_vigente,HCDN2355,hcdn,UCR,ucr,FORMOSA,NEA,fernandez_2019_2023,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN243046,2020-07-29,"MARZIOTTA, GISELA",diputado,exacto_vigente,HCDN2860,hcdn,FRENTE DE TODOS,kirchnerismo,CIUDAD DE BUENOS AIRES,CABA,fernandez_2019_2023,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN243060,2020-07-30,"FERNANDEZ, ALBERTO",ejecutivo,,,,,,,,fernandez_2019_2023,,MENSAJE Y PROYECTO DE LEY,C,administrativa_neutra,relacionada
+HCDN243113,2020-08-03,"BARBARO, HECTOR ""CACHO""",diputado,exacto_vigente,HCDN2770,hcdn,FRENTE DE TODOS,kirchnerismo,MISIONES,NEA,fernandez_2019_2023,si,LEY,C,pro_liberalizacion,relacionada
+HCDN243542,2020-08-13,"RICCARDO, JOSE LUIS",diputado,exacto_vigente,HCDN1397,hcdn,UCR,ucr,SAN LUIS,CUYO,fernandez_2019_2023,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN244122,2020-08-31,"MENDOZA, JOSEFINA",diputado,exacto_vigente,HCDN2433,hcdn,UCR,ucr,BUENOS AIRES,PAMPEANA,fernandez_2019_2023,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN244575,2020-09-21,"SORIA, MARTIN",diputado,exacto_vigente,HCDN2773,hcdn,FRENTE DE TODOS,kirchnerismo,RIO NEGRO,PATAGONIA,fernandez_2019_2023,si,LEY,D,administrativa_neutra,relacionada
+HCDN245559,2020-10-19,"MOISES, MARIA CAROLINA",diputado,exacto_vigente,HCDN0903,hcdn,FRENTE DE TODOS,kirchnerismo,JUJUY,NOA,fernandez_2019_2023,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN245700,2020-10-22,"GODOY, LUCAS JAVIER",diputado,exacto_vigente,HCDN2751,hcdn,FRENTE DE TODOS,kirchnerismo,SALTA,NOA,fernandez_2019_2023,si,DECLARACION,D,administrativa_neutra,relacionada
+HCDN246224,2020-11-11,"AUSTIN, BRENDA LIS",diputado,exacto_vigente,HCDN1582,hcdn,UCR,ucr,CORDOBA,PAMPEANA,fernandez_2019_2023,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN246299,2020-11-12,"FERNANDEZ, ALBERTO",ejecutivo,,,,,,,,fernandez_2019_2023,,MENSAJE Y PROYECTO DE LEY,C,pro_liberalizacion,relacionada
+HCDN246498,2020-11-20,"GINOCCHIO, SILVANA MICAELA",diputado,exacto_vigente,HCDN2382,hcdn,FRENTE DE TODOS,kirchnerismo,CATAMARCA,NOA,fernandez_2019_2023,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN246939,2020-12-15,"MOISES, MARIA CAROLINA",diputado,exacto_vigente,HCDN0903,hcdn,FRENTE DE TODOS,kirchnerismo,JUJUY,NOA,fernandez_2019_2023,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN247042,2020-12-22,"VALLEJOS, FERNANDA",diputado,exacto_vigente,HCDN2424,hcdn,FRENTE DE TODOS,kirchnerismo,BUENOS AIRES,PAMPEANA,fernandez_2019_2023,si,LEY,D,administrativa_neutra,relacionada
+HCDN247175,2021-01-18,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,fernandez_2019_2023,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN247751,2021-03-02,"BRITEZ, MARIA CRISTINA",diputado,exacto_vigente,HCDN1479,hcdn,FRENTE DE TODOS,kirchnerismo,MISIONES,NEA,fernandez_2019_2023,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN247897,2021-03-05,"BERISSO, HERNAN",diputado,exacto_vigente,HCDN2360,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,fernandez_2019_2023,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN247925,2021-03-08,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,fernandez_2019_2023,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN247984,2021-03-09,"PASTORI, LUIS MARIO",diputado,exacto_vigente,HCDN1386,hcdn,UCR,ucr,MISIONES,NEA,fernandez_2019_2023,no,RESOLUCION,C,pro_liberalizacion,relacionada
+HCDN248067,2021-03-10,"CARRIZO, ANA CARLA",diputado,exacto_vigente,HCDN1361,hcdn,UCR,ucr,CIUDAD DE BUENOS AIRES,CABA,fernandez_2019_2023,no,LEY,C,administrativa_neutra,relacionada
+HCDN248421,2021-03-15,"VIVERO, CARLOS ALBERTO",diputado,exacto_vigente,HCDN2772,hcdn,FRENTE DE TODOS,kirchnerismo,NEUQUEN,PATAGONIA,fernandez_2019_2023,si,LEY,D,administrativa_neutra,relacionada
+HCDN248559,2021-03-15,"SAPAG, ALMA LILIANA",diputado,exacto_vigente,HCDN2418,hcdn,MOV POP NEUQUINO,provinciales,NEUQUEN,PATAGONIA,fernandez_2019_2023,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN248541,2021-03-16,"IGLESIAS, FERNANDO ADOLFO",diputado,exacto_vigente,HCDN1031,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,fernandez_2019_2023,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN248717,2021-03-18,"FREGONESE, ALICIA",diputado,exacto_vigente,HCDN2379,hcdn,PRO,pro,ENTRE RIOS,PAMPEANA,fernandez_2019_2023,no,LEY,D,administrativa_neutra,relacionada
+HCDN249099,2021-03-26,"SCAGLIA, GISELA",diputado,exacto_vigente,HCDN1404,hcdn,PRO,pro,SANTA FE,PAMPEANA,fernandez_2019_2023,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN249106,2021-03-29,"LEHMANN, MARIA LUCILA",diputado,exacto_vigente,HCDN2389,hcdn,COALICION CIVICA,cc_ari,SANTA FE,PAMPEANA,fernandez_2019_2023,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN249311,2021-04-05,"IGLESIAS, FERNANDO ADOLFO",diputado,exacto_vigente,HCDN1031,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,fernandez_2019_2023,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN250115,2021-04-29,"SELVA, CARLOS AMERICO",diputado,exacto_vigente,HCDN1459,hcdn,FRENTE DE TODOS,kirchnerismo,BUENOS AIRES,PAMPEANA,fernandez_2019_2023,si,LEY,D,administrativa_neutra,relacionada
+HCDN250322,2021-05-06,"ZAMARBIDE, FEDERICO RAUL",diputado,exacto_vigente,HCDN2387,hcdn,UCR,ucr,MENDOZA,CUYO,fernandez_2019_2023,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN250338,2021-05-07,"GINOCCHIO, SILVANA MICAELA",diputado,exacto_vigente,HCDN2382,hcdn,FRENTE DE TODOS,kirchnerismo,CATAMARCA,NOA,fernandez_2019_2023,si,RESOLUCION,C,pro_liberalizacion,relacionada
+HCDN254666,2021-12-02,"FERNANDEZ, ALBERTO",ejecutivo,,,,,,,,fernandez_2019_2023,,MENSAJE Y PROYECTO DE LEY,C,administrativa_neutra,relacionada
+HCDN254965,2021-12-16,"FERNANDEZ, ALBERTO",ejecutivo,,,,,,,,fernandez_2019_2023,,MENSAJE Y PROYECTO DE LEY,C,pro_liberalizacion,relacionada
+HCDN255053,2021-12-30,"CAMAÑO, GRACIELA",diputado,exacto_vigente,HCDN0173,hcdn,IDENTIDAD BONAERENSE,peronismo_federal,BUENOS AIRES,PAMPEANA,fernandez_2019_2023,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN255610,2022-03-02,"CAMAÑO, GRACIELA",diputado,exacto_vigente,HCDN0173,hcdn,IDENTIDAD BONAERENSE,peronismo_federal,BUENOS AIRES,PAMPEANA,fernandez_2019_2023,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN255994,2022-03-04,"BARBARO, HECTOR ""CACHO""",diputado,exacto_vigente,HCDN2770,hcdn,FRENTE DE TODOS,kirchnerismo,MISIONES,NEA,fernandez_2019_2023,si,LEY,C,pro_liberalizacion,relacionada
+HCDN256171,2022-03-08,"GINOCCHIO, SILVANA MICAELA",diputado,exacto_vigente,HCDN2382,hcdn,FRENTE DE TODOS,kirchnerismo,CATAMARCA,NOA,fernandez_2019_2023,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN256173,2022-03-08,"GINOCCHIO, SILVANA MICAELA",diputado,exacto_vigente,HCDN2382,hcdn,FRENTE DE TODOS,kirchnerismo,CATAMARCA,NOA,fernandez_2019_2023,si,RESOLUCION,C,pro_liberalizacion,relacionada
+HCDN256896,2022-03-25,"MARZIOTTA, GISELA",diputado,exacto_vigente,HCDN2860,hcdn,FRENTE DE TODOS,kirchnerismo,CIUDAD DE BUENOS AIRES,CABA,fernandez_2019_2023,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN257849,2022-04-19,"SELVA, CARLOS AMERICO",diputado,exacto_vigente,HCDN1459,hcdn,FRENTE DE TODOS,kirchnerismo,BUENOS AIRES,PAMPEANA,fernandez_2019_2023,si,LEY,D,administrativa_neutra,relacionada
+HCDN258681,2022-05-05,"FERNANDEZ, ALBERTO",ejecutivo,,,,,,,,fernandez_2019_2023,,MENSAJE Y PROYECTO DE LEY,C,pro_liberalizacion,relacionada
+HCDN259263,2022-06-07,"FERNANDEZ, ALBERTO",ejecutivo,,,,,,,,fernandez_2019_2023,,MENSAJE Y PROYECTO DE LEY,C,pro_liberalizacion,relacionada
+HCDN259901,2022-06-29,"IGLESIAS, FERNANDO ADOLFO",diputado,exacto_vigente,HCDN1031,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,fernandez_2019_2023,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN261866,2022-08-09,"DEL PLA, ROMINA",diputado,exacto_vigente,HCDN2373,hcdn,PARTIDO OBRERO FRENTE DE IZQUIERDA Y DE TRABAJADORES UNIDAD,izquierda_progresista,BUENOS AIRES,PAMPEANA,fernandez_2019_2023,no,LEY,D,administrativa_neutra,relacionada
+HCDN262768,2022-09-07,"FAGIOLI, FEDERICO",diputado,exacto_vigente,HCDN2844,hcdn,FRENTE DE TODOS,kirchnerismo,BUENOS AIRES,PAMPEANA,fernandez_2019_2023,si,DECLARACION,D,administrativa_neutra,relacionada
+HCDN265161,2022-12-14,"ZUVIC, MARIANA",diputado,exacto_vigente,HCDN2823,hcdn,COALICION CIVICA,cc_ari,CIUDAD DE BUENOS AIRES,CABA,fernandez_2019_2023,no,LEY,C,administrativa_neutra,relacionada
+HCDN265449,2022-12-29,"PEDRINI, JUAN MANUEL",diputado,exacto_vigente,HCDN1356,hcdn,FRENTE DE TODOS,kirchnerismo,CHACO,NEA,fernandez_2019_2023,si,LEY,D,administrativa_neutra,relacionada
+HCDN265992,2023-03-01,"GINOCCHIO, SILVANA MICAELA",diputado,exacto_vigente,HCDN2382,hcdn,FRENTE DE TODOS,kirchnerismo,CATAMARCA,NOA,fernandez_2019_2023,si,LEY,C,pro_liberalizacion,relacionada
+HCDN266678,2023-03-21,"CARRIZO, SOLEDAD",diputado,exacto_vigente,HCDN1365,hcdn,UCR,ucr,CORDOBA,PAMPEANA,fernandez_2019_2023,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN268434,2023-05-10,"FERNANDEZ, ALBERTO",ejecutivo,,,,,,,,fernandez_2019_2023,,MENSAJE Y PROYECTO DE LEY,C,administrativa_neutra,relacionada
+HCDN269241,2023-06-14,"FERNANDEZ, ALBERTO",ejecutivo,,,,,,,,fernandez_2019_2023,,MENSAJE Y PROYECTO DE LEY,C,pro_liberalizacion,relacionada
+HCDN271050,2023-09-27,"ESTEVEZ, ENRIQUE",diputado,exacto_vigente,HCDN2756,hcdn,SOCIALISTA,izquierda_progresista,SANTA FE,PAMPEANA,fernandez_2019_2023,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN272773,2024-03-04,"FERRARO, MAXIMILIANO",diputado,exacto_vigente,HCDN2787,hcdn,HACEMOS COALICIÓN FEDERAL,peronismo_federal,CIUDAD DE BUENOS AIRES,CABA,milei_2023_2025,no,LEY,D,administrativa_neutra,relacionada
+HCDN272886,2024-03-04,"PASSO, MARCELA FABIANA",diputado,exacto_vigente,HCDN1460,hcdn,UNIÓN POR LA PATRIA,kirchnerismo,BUENOS AIRES,PAMPEANA,milei_2023_2025,no,LEY,D,administrativa_neutra,relacionada
+HCDN273811,2024-03-21,"PICAT, LUIS ALBINO",diputado,exacto_vigente,HCDN3051,hcdn,UCR - UNIÓN CÍVICA RADICAL,ucr,CORDOBA,PAMPEANA,milei_2023_2025,no,RESOLUCION,D,proteccionista_defensiva,relacionada
+HCDN274720,2024-04-23,"DEL PLA, ROMINA",diputado,exacto_vigente,HCDN2373,hcdn,FRENTE DE IZQUIERDA Y DE TRABAJADORES UNIDAD,izquierda_progresista,BUENOS AIRES,PAMPEANA,milei_2023_2025,no,LEY,D,administrativa_neutra,relacionada
+HCDN275190,2024-05-08,"ESTEVEZ, GABRIELA BEATRIZ",diputado,exacto_vigente,HCDN1514,hcdn,UNIÓN POR LA PATRIA,kirchnerismo,CORDOBA,PAMPEANA,milei_2023_2025,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN275603,2024-05-30,"LOPEZ, JUAN MANUEL",diputado,exacto_vigente,HCDN2401,hcdn,COALICION CIVICA,cc_ari,BUENOS AIRES,PAMPEANA,milei_2023_2025,no,LEY,C,administrativa_neutra,relacionada
+HCDN275895,2024-06-06,"LOSPENNATO, SILVIA",diputado,exacto_vigente,HCDN1439,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,milei_2023_2025,no,LEY,C,administrativa_neutra,relacionada
+HCDN276142,2024-06-18,"OUTES, PABLO",diputado,exacto_vigente,HCDN3100,hcdn,INNOVACIÓN FEDERAL,provinciales,SALTA,NOA,milei_2023_2025,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN276520,2024-07-08,"MONZON, ROXANA",diputado,exacto_vigente,HCDN3045,hcdn,UNIÓN POR LA PATRIA,kirchnerismo,BUENOS AIRES,PAMPEANA,milei_2023_2025,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN276651,2024-07-11,"CORREA LLANO, FACUNDO",diputado,exacto_vigente,HCDN3072,hcdn,LA LIBERTAD AVANZA,lla,MENDOZA,CUYO,milei_2023_2025,si,LEY,C,administrativa_neutra,relacionada
+HCDN276664,2024-07-11,"TONIOLLI, EDUARDO",diputado,exacto_vigente,HCDN2889,hcdn,UNIÓN POR LA PATRIA,kirchnerismo,SANTA FE,PAMPEANA,milei_2023_2025,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN276698,2024-07-12,"SORIA, MARTIN",diputado,exacto_vigente,HCDN2773,hcdn,UNIÓN POR LA PATRIA,kirchnerismo,RIO NEGRO,PATAGONIA,milei_2023_2025,no,LEY,D,administrativa_neutra,relacionada
+HCDN277611,2024-08-26,"FERRARO, MAXIMILIANO",diputado,exacto_vigente,HCDN2787,hcdn,COALICION CIVICA,cc_ari,CIUDAD DE BUENOS AIRES,CABA,milei_2023_2025,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN278325,2024-09-20,"BENEDETTI, ATILIO",diputado,exacto_vigente,HCDN1148,hcdn,UCR - UNIÓN CÍVICA RADICAL,ucr,ENTRE RIOS,PAMPEANA,milei_2023_2025,no,RESOLUCION,D,pro_liberalizacion,explicita
+HCDN278458,2024-09-24,"FREITES, ANDREA",diputado,exacto_vigente,HCDN3087,hcdn,UNIÓN POR LA PATRIA,kirchnerismo,TIERRA DEL FUEGO,PATAGONIA,milei_2023_2025,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN278505,2024-09-26,"CAFIERO, SANTIAGO",diputado,exacto_vigente,HCDN2831,hcdn,UNIÓN POR LA PATRIA,kirchnerismo,BUENOS AIRES,PAMPEANA,milei_2023_2025,no,RESOLUCION,A,administrativa_neutra,explicita
+HCDN278510,2024-09-26,"MIRABELLA, ROBERTO",diputado,exacto_vigente,HCDN2738,hcdn,UNIÓN POR LA PATRIA,kirchnerismo,SANTA FE,PAMPEANA,milei_2023_2025,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN278513,2024-09-26,"MIRABELLA, ROBERTO",diputado,exacto_vigente,HCDN2738,hcdn,UNIÓN POR LA PATRIA,kirchnerismo,SANTA FE,PAMPEANA,milei_2023_2025,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN278840,2024-10-08,"SELVA, SABRINA",diputado,exacto_vigente,HCDN3054,hcdn,UNIÓN POR LA PATRIA,kirchnerismo,BUENOS AIRES,PAMPEANA,milei_2023_2025,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN278878,2024-10-10,"PAULON, ESTEBAN",diputado,exacto_vigente,HCDN3108,hcdn,ENCUENTRO FEDERAL,izquierda_progresista,SANTA FE,PAMPEANA,milei_2023_2025,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN278891,2024-10-14,"BERTOLDI, TANYA",diputado,exacto_vigente,HCDN2907,hcdn,UNIÓN POR LA PATRIA,kirchnerismo,NEUQUEN,PATAGONIA,milei_2023_2025,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN279089,2024-10-21,"YUTROVIC, CAROLINA",diputado,exacto_vigente,HCDN2856,hcdn,UNIÓN POR LA PATRIA,kirchnerismo,TIERRA DEL FUEGO,PATAGONIA,milei_2023_2025,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN279503,2024-11-08,"OUTES, PABLO",diputado,exacto_vigente,HCDN3100,hcdn,INNOVACIÓN FEDERAL,provinciales,SALTA,NOA,milei_2023_2025,no,LEY,D,administrativa_neutra,relacionada
+HCDN279961,2024-11-28,"LEDESMA, TOMAS",diputado,exacto_vigente,HCDN2886,hcdn,UNIÓN POR LA PATRIA,kirchnerismo,ENTRE RIOS,PAMPEANA,milei_2023_2025,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN280298,2024-12-06,"COBOS, JULIO",diputado,exacto_vigente,HCDN1066,hcdn,UCR - UNIÓN CÍVICA RADICAL,ucr,MENDOZA,CUYO,milei_2023_2025,no,RESOLUCION,A,pro_liberalizacion,explicita
+HCDN280323,2024-12-09,"IGLESIAS, FERNANDO ADOLFO",diputado,exacto_vigente,HCDN1031,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,milei_2023_2025,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN280442,2024-12-17,"PAULON, ESTEBAN",diputado,exacto_vigente,HCDN3108,hcdn,ENCUENTRO FEDERAL,izquierda_progresista,SANTA FE,PAMPEANA,milei_2023_2025,no,RESOLUCION,A,administrativa_neutra,explicita
+HCDN280654,2025-01-23,"ROMERO, JORGE ANTONIO",diputado,exacto_vigente,HCDN2412,hcdn,UNIÓN POR LA PATRIA,kirchnerismo,CORRIENTES,NEA,milei_2023_2025,no,DECLARACION,C,proteccionista_defensiva,relacionada
+HCDN282180,2025-03-05,"AVEIRO, MARTIN",diputado,exacto_vigente,HCDN3028,hcdn,UNIÓN POR LA PATRIA,kirchnerismo,MENDOZA,CUYO,milei_2023_2025,no,DECLARACION,D,administrativa_neutra,relacionada
+HCDN282328,2025-03-07,"TETAZ, MARTIN ALBERTO",diputado,exacto_vigente,HCDN2943,hcdn,UCR - UNIÓN CÍVICA RADICAL,ucr,CIUDAD DE BUENOS AIRES,CABA,milei_2023_2025,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN283344,2025-03-28,"BRAMBILLA, SOFIA",diputado,exacto_vigente,HCDN2361,hcdn,PRO,pro,CORRIENTES,NEA,milei_2023_2025,no,RESOLUCION,D,pro_liberalizacion,explicita
+HCDN283348,2025-03-28,"BRAMBILLA, SOFIA",diputado,exacto_vigente,HCDN2361,hcdn,PRO,pro,CORRIENTES,NEA,milei_2023_2025,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN283543,2025-04-03,"PAULON, ESTEBAN",diputado,exacto_vigente,HCDN3108,hcdn,ENCUENTRO FEDERAL,izquierda_progresista,SANTA FE,PAMPEANA,milei_2023_2025,no,RESOLUCION,A,administrativa_neutra,explicita
+HCDN283621,2025-04-04,"PAULON, ESTEBAN",diputado,exacto_vigente,HCDN3108,hcdn,ENCUENTRO FEDERAL,izquierda_progresista,SANTA FE,PAMPEANA,milei_2023_2025,no,RESOLUCION,A,administrativa_neutra,explicita
+HCDN284239,2025-04-30,"BIASI, VANINA",diputado,exacto_vigente,HCDN3141,hcdn,PARTIDO OBRERO -FRENTE DE IZQUIERDA Y DE TRABAJADORES -UNIDA,izquierda_progresista,CIUDAD DE BUENOS AIRES,CABA,milei_2023_2025,no,LEY,D,administrativa_neutra,relacionada
+HCDN285678,2025-06-23,"BANFI, KARINA",diputado,exacto_vigente,HCDN1447,hcdn,UCR - UNIÓN CÍVICA RADICAL,ucr,BUENOS AIRES,PAMPEANA,milei_2023_2025,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN285950,2025-07-03,"MILMAN, GERARDO",diputado,exacto_vigente,HCDN1192,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,milei_2023_2025,no,DECLARACION,C,pro_liberalizacion,relacionada
+HCDN287093,2025-08-29,"POKOIK, LORENA",diputado,exacto_vigente,HCDN3082,hcdn,UNIÓN POR LA PATRIA,kirchnerismo,CIUDAD DE BUENOS AIRES,CABA,milei_2023_2025,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN287183,2025-09-03,"IGLESIAS, FERNANDO ADOLFO",diputado,exacto_vigente,HCDN1031,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,milei_2023_2025,no,RESOLUCION,A,pro_liberalizacion,explicita
+HCDN287405,2025-09-11,"CAFIERO, SANTIAGO",diputado,exacto_vigente,HCDN2831,hcdn,UNIÓN POR LA PATRIA,kirchnerismo,BUENOS AIRES,PAMPEANA,milei_2023_2025,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN287914,2025-10-02,"VANCSIK, DANIEL",diputado,exacto_vigente,HCDN3031,hcdn,INNOVACIÓN FEDERAL,provinciales,MISIONES,NEA,milei_2023_2025,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN288546,2025-11-17,"GIUDICI, SILVANA",diputado,exacto_vigente,HCDN3043,hcdn,LA LIBERTAD AVANZA,lla,CIUDAD DE BUENOS AIRES,CABA,milei_2023_2025,si,LEY,C,administrativa_neutra,relacionada
+HCDN288857,2025-12-02,"LOSPENNATO, SILVIA",diputado,exacto_vigente,HCDN1439,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,milei_2023_2025,no,LEY,C,administrativa_neutra,relacionada
+HCDN180275,2015-09-15,PARLAMENTARIA MIXTA REVISORA DE CUENTAS,organo,,,,,,,,cfk_2008_2015,,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN164307,2014-06-09,"MARTINEZ, JULIO CESAR",diputado,exacto_vigente,HCDN0770,hcdn,UCR,ucr,LA RIOJA,NOA,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN115461,2010-05-05,"SABBATELLA, MARTIN",diputado,exacto_vigente,HCDN1211,hcdn,NUEVO ENCUENTRO POPULAR Y SOLIDARIO,kirchnerismo,BUENOS AIRES,PAMPEANA,cfk_2008_2015,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN129732,2011-07-28,"GRIBAUDO, CHRISTIAN ALEJANDRO",diputado,exacto_vigente,HCDN1075,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN119747,2010-09-10,"BULLRICH, PATRICIA",diputado,exacto_vigente,HCDN0509,hcdn,COALICION CIVICA,cc_ari,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN159802,2014-03-07,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,UNIR,otros,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,A,administrativa_neutra,explicita
+HCDN135856,2012-04-19,"ALONSO, GUMERSINDO FEDERICO",diputado,exacto_vigente,HCDN0733,hcdn,FRENTE CIVICO - CORDOBA,provinciales,CORDOBA,PAMPEANA,cfk_2008_2015,no,LEY,B,administrativa_neutra,relacionada
+HCDN191159,2016-09-27,"NAZARIO, ADRIANA MONICA",diputado,exacto_vigente,HCDN1516,hcdn,UNIDOS POR UNA NUEVA ARGENTINA,peronismo_federal,CORDOBA,PAMPEANA,macri_2015_2019,no,RESOLUCION,B,pro_liberalizacion,relacionada
+HCDN137942,2012-06-07,"BIANCHI, IVANA MARIA",diputado,exacto_vigente,HCDN0964,hcdn,FRENTE PERONISTA,peronismo_federal,SAN LUIS,CUYO,cfk_2008_2015,no,RESOLUCION,B,pro_liberalizacion,relacionada
+HCDN113854,2010-03-25,"GRIBAUDO, CHRISTIAN ALEJANDRO",diputado,exacto_vigente,HCDN1075,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN249071,2021-03-26,"LEHMANN, MARIA LUCILA",diputado,exacto_vigente,HCDN2389,hcdn,COALICION CIVICA,cc_ari,SANTA FE,PAMPEANA,fernandez_2019_2023,no,LEY,A,administrativa_neutra,explicita
+HCDN138999,2012-07-02,"ATANASOF, ALFREDO NESTOR",diputado,exacto_vigente,HCDN0061,hcdn,FRENTE PERONISTA,peronismo_federal,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,DECLARACION,B,proteccionista_defensiva,relacionada
+HCDN248945,2021-03-23,"FERNANDEZ LANGAN, EZEQUIEL",diputado,exacto_vigente,HCDN2375,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,fernandez_2019_2023,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN240730,2020-05-20,"ZUVIC, MARIANA",diputado,exacto_vigente,HCDN2823,hcdn,COALICION CIVICA,cc_ari,CIUDAD DE BUENOS AIRES,CABA,fernandez_2019_2023,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN096506,2008-06-23,"IGLESIAS, FERNANDO ADOLFO",diputado,exacto_vigente,HCDN1031,hcdn,COALICION CIVICA - ARI - GEN - UPT,cc_ari,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN256577,2022-03-17,"FERNANDEZ, CARLOS ALBERTO",diputado,exacto_vigente,HCDN2985,hcdn,FRENTE DE LA CONCORDIA MISIONERO,provinciales,MISIONES,NEA,fernandez_2019_2023,no,LEY,C,pro_liberalizacion,relacionada
+HCDN183148,2016-03-08,"CARMONA, GUILLERMO RAMON",diputado,exacto_vigente,HCDN1247,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MENDOZA,CUYO,macri_2015_2019,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN095433,2008-05-22,"GENEM, AMANDA SUSANA",diputado,exacto_vigente,SUPL_GENEM,suplemento,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MENDOZA,CUYO,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN240504,2020-05-14,"DE LAMADRID, ALVARO",diputado,exacto_vigente,HCDN2794,hcdn,UCR,ucr,CIUDAD DE BUENOS AIRES,CABA,fernandez_2019_2023,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN279302,2024-10-30,"MORCHIO, FRANCISCO",diputado,exacto_vigente,HCDN3046,hcdn,ENCUENTRO FEDERAL,peronismo_federal,ENTRE RIOS,PAMPEANA,milei_2023_2025,no,DECLARACION,D,pro_liberalizacion,relacionada
+HCDN116235,2010-05-11,"MICHETTI, MARTA GABRIELA",diputado,exacto_vigente,HCDN1191,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN165073,2014-07-04,"SCAGLIA, GISELA",diputado,exacto_vigente,HCDN1404,hcdn,UNION PRO,pro,SANTA FE,PAMPEANA,cfk_2008_2015,no,DECLARACION,B,pro_liberalizacion,relacionada
+HCDN128198,2011-06-06,"MARTINEZ, JULIO CESAR",diputado,exacto_vigente,HCDN0770,hcdn,UCR,ucr,LA RIOJA,NOA,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN184957,2016-04-22,"NEGRI, MARIO RAUL",diputado,exacto_vigente,HCDN0035,hcdn,UCR,ucr,CORDOBA,PAMPEANA,macri_2015_2019,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN103073,2009-03-02,"OBIGLIO, JULIAN MARTIN",diputado,exacto_vigente,HCDN0960,suplemento,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN141219,2012-08-02,"FERNANDEZ DE KIRCHNER, CRISTINA",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE Y PROYECTO DE LEY,C,administrativa_neutra,relacionada
+HCDN163318,2014-05-15,"HARISPE, GASTON",diputado,exacto_vigente,HCDN1325,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,BUENOS AIRES,PAMPEANA,cfk_2008_2015,si,LEY,C,proteccionista_defensiva,relacionada
+HCDN272142,2023-12-07,"MARTINEZ, ALVARO",diputado,exacto_vigente,HCDN2938,hcdn,LA UNIÓN MENDOCINA,provinciales,MENDOZA,CUYO,fernandez_2019_2023,no,DECLARACION,A,pro_liberalizacion,explicita
+HCDN118043,2010-07-08,"CHIENO, MARIA ELENA PETRONA",diputado,exacto_vigente,HCDN1157,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,CORRIENTES,NEA,cfk_2008_2015,si,LEY,C,administrativa_neutra,relacionada
+HCDN240130,2020-05-06,"IGLESIAS, FERNANDO ADOLFO",diputado,exacto_vigente,HCDN1031,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,fernandez_2019_2023,no,RESOLUCION,C,pro_liberalizacion,relacionada
+HCDN100321,2008-10-20,"OBIGLIO, JULIAN MARTIN",diputado,exacto_vigente,HCDN0960,suplemento,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN135883,2012-04-19,"CHIENO, MARIA ELENA PETRONA",diputado,exacto_vigente,HCDN1157,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,CORRIENTES,NEA,cfk_2008_2015,si,RESOLUCION,C,pro_liberalizacion,relacionada
+HCDN279193,2024-10-25,"RUIZ, YAMILA",diputado,exacto_vigente,HCDN3036,hcdn,INNOVACIÓN FEDERAL,provinciales,MISIONES,NEA,milei_2023_2025,no,DECLARACION,D,administrativa_neutra,relacionada
+HCDN160768,2014-03-26,"GRANADOS, DULCE",diputado,exacto_vigente,HCDN0011,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,BUENOS AIRES,PAMPEANA,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN239935,2020-04-29,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,fernandez_2019_2023,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN118755,2010-08-06,"FERRA DE BARTOL, MARGARITA",diputado,exacto_vigente,HCDN0879,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,SAN JUAN,CUYO,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN230709,2019-04-03,"CARRIZO, ANA CARLA",diputado,exacto_vigente,HCDN1361,hcdn,EVOLUCION RADICAL,ucr,CIUDAD DE BUENOS AIRES,CABA,macri_2015_2019,si,LEY,C,administrativa_neutra,relacionada
+HCDN120895,2010-11-03,"MERLO, MARIO RAUL",diputado,exacto_vigente,HCDN1005,hcdn,PERONISMO FEDERAL,peronismo_federal,SAN LUIS,CUYO,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN278623,2024-10-03,"BALLEJOS, NANCY",diputado,exacto_vigente,HCDN3143,hcdn,PRO,pro,ENTRE RIOS,PAMPEANA,milei_2023_2025,no,RESOLUCION,D,administrativa_neutra,explicita
+HCDN178970,2015-08-18,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,UNIR,otros,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN139913,2012-07-31,"PINEDO, FEDERICO",diputado,exacto_vigente,HCDN0785,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN164745,2014-06-24,"EHCOSOR, MARIA AZUCENA",diputado,exacto_vigente,HCDN1341,hcdn,FRENTE RENOVADOR,peronismo_federal,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN110216,2009-11-06,"IGLESIAS, FERNANDO ADOLFO",diputado,exacto_vigente,HCDN1031,hcdn,COALICION CIVICA - ARI - GEN - UPT,cc_ari,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN109227,2009-10-02,"IGLESIAS, FERNANDO ADOLFO",diputado,exacto_vigente,HCDN1031,hcdn,COALICION CIVICA - ARI - GEN - UPT,cc_ari,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN135802,2012-04-17,"BARRANDEGUY, RAUL ENRIQUE",diputado,exacto_vigente,HCDN1147,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,ENTRE RIOS,PAMPEANA,cfk_2008_2015,si,RESOLUCION,B,proteccionista_defensiva,relacionada
+HCDN163289,2014-05-15,"CASAÑAS, JUAN FRANCISCO",diputado,exacto_vigente,HCDN1154,hcdn,UCR,ucr,TUCUMAN,NOA,cfk_2008_2015,no,RESOLUCION,B,pro_liberalizacion,relacionada
+HCDN113433,2010-03-16,"FERNANDEZ, ANIBAL DOMINGO",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE,C,administrativa_neutra,relacionada
+HCDN172021,2015-02-20,"GRIBAUDO, CHRISTIAN ALEJANDRO",diputado,exacto_vigente,HCDN1075,hcdn,UNION PRO,pro,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN256120,2022-03-07,"GINOCCHIO, SILVANA MICAELA",diputado,exacto_vigente,HCDN2382,hcdn,FRENTE DE TODOS,kirchnerismo,CATAMARCA,NOA,fernandez_2019_2023,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN170519,2014-12-03,"NEGRI, MARIO RAUL",diputado,exacto_vigente,HCDN0035,hcdn,UCR,ucr,CORDOBA,PAMPEANA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN198423,2017-05-15,"SORIA, MARIA EMILIA",diputado,exacto_vigente,HCDN1390,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,RIO NEGRO,PATAGONIA,macri_2015_2019,no,LEY,D,administrativa_neutra,relacionada
+HCDN180647,2015-10-08,"CARRIZO, ANA CARLA",diputado,exacto_vigente,HCDN1361,hcdn,SUMA + UNEN,ucr,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN258590,2022-05-05,"FERNANDEZ, ALBERTO",ejecutivo,,,,,,,,fernandez_2019_2023,,MENSAJE Y PROYECTO DE LEY,C,administrativa_neutra,relacionada
+HCDN138017,2012-06-11,"ATANASOF, ALFREDO NESTOR",diputado,exacto_vigente,HCDN0061,hcdn,FRENTE PERONISTA,peronismo_federal,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN212433,2018-03-09,"CARMONA, GUILLERMO RAMON",diputado,exacto_vigente,HCDN1247,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MENDOZA,CUYO,macri_2015_2019,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN252245,2021-07-16,"BRITEZ, MARIA CRISTINA",diputado,exacto_vigente,HCDN1479,hcdn,FRENTE DE TODOS,kirchnerismo,MISIONES,NEA,fernandez_2019_2023,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN165669,2014-07-21,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,UNIR,otros,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN197648,2017-04-26,"DE MENDIGUREN, JOSE IGNACIO",diputado,exacto_vigente,HCDN0668,hcdn,FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,peronismo_federal,BUENOS AIRES,PAMPEANA,macri_2015_2019,no,DECLARACION,A,administrativa_neutra,explicita
+HCDN234074,2019-07-05,"MERCADO, VERONICA",diputado,exacto_vigente,HCDN1470,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,CATAMARCA,NOA,macri_2015_2019,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN162482,2014-04-29,"PEREZ, ADRIAN",diputado,exacto_vigente,HCDN0781,hcdn,FRENTE RENOVADOR,peronismo_federal,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN189424,2016-08-17,"CICILIANI, ALICIA MABEL",diputado,exacto_vigente,HCDN1158,hcdn,PARTIDO SOCIALISTA,izquierda_progresista,SANTA FE,PAMPEANA,macri_2015_2019,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN164273,2014-06-06,"GRIBAUDO, CHRISTIAN ALEJANDRO",diputado,exacto_vigente,HCDN1075,hcdn,UNION PRO,pro,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN138970,2012-06-29,"FERRARI, GUSTAVO ALFREDO HORACIO",diputado,exacto_vigente,HCDN1169,hcdn,FRENTE PERONISTA,peronismo_federal,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN249585,2021-04-14,"GONZALEZ, ALVARO GUSTAVO",diputado,fallback_vigente,HCDN1466,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,fernandez_2019_2023,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN138968,2012-06-29,"ALONSO, LAURA",diputado,exacto_vigente,HCDN1139,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN126681,2011-04-05,"FERNANDEZ DE KIRCHNER, CRISTINA",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE Y PROYECTO DE LEY,C,administrativa_neutra,relacionada
+HCDN247756,2021-03-02,"BRITEZ, MARIA CRISTINA",diputado,exacto_vigente,HCDN1479,hcdn,FRENTE DE TODOS,kirchnerismo,MISIONES,NEA,fernandez_2019_2023,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN138496,2012-06-21,"FORTE, ULISES UMBERTO JOSE",diputado,exacto_vigente,HCDN1172,hcdn,UCR,ucr,LA PAMPA,PAMPEANA,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN098025,2008-08-25,"GALANTINI, EDUARDO LEONEL",diputado,exacto_vigente,SUPL_GALANTINI,suplemento,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,CORRIENTES,NEA,cfk_2008_2015,si,LEY,C,administrativa_neutra,relacionada
+HCDN274683,2024-04-22,"PASSO, MARCELA FABIANA",diputado,exacto_vigente,HCDN1460,hcdn,UNIÓN POR LA PATRIA,kirchnerismo,BUENOS AIRES,PAMPEANA,milei_2023_2025,no,LEY,C,administrativa_neutra,relacionada
+HCDN280432,2024-12-16,"IGLESIAS, FERNANDO ADOLFO",diputado,exacto_vigente,HCDN1031,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,milei_2023_2025,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN172368,2015-03-03,"GRIBAUDO, CHRISTIAN ALEJANDRO",diputado,exacto_vigente,HCDN1075,hcdn,UNION PRO,pro,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN096121,2008-06-10,"ALFARO, GERMAN ENRIQUE",diputado,exacto_vigente,HCDN0973,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,TUCUMAN,NOA,cfk_2008_2015,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN166202,2014-08-11,"GALLARDO, MIRIAM GRACIELA",diputado,exacto_vigente,HCDN1174,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,TUCUMAN,NOA,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN159857,2014-03-07,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,UNIR,otros,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN245513,2020-10-16,"GINOCCHIO, SILVANA MICAELA",diputado,exacto_vigente,HCDN2382,hcdn,FRENTE DE TODOS,kirchnerismo,CATAMARCA,NOA,fernandez_2019_2023,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN255775,2022-03-02,"GARCIA, XIMENA",diputado,exacto_vigente,HCDN2814,hcdn,UCR,ucr,SANTA FE,PAMPEANA,fernandez_2019_2023,no,LEY,D,administrativa_neutra,relacionada
+HCDN118763,2010-08-06,"GODOY, RUPERTO EDUARDO",diputado,exacto_vigente,HCDN0755,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,SAN JUAN,CUYO,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN163481,2014-05-20,"FERNANDEZ MENDIA, GUSTAVO RODOLFO",diputado,exacto_vigente,HCDN1378,hcdn,PARTIDO JUSTICIALISTA LA PAMPA,peronismo_federal,LA PAMPA,PAMPEANA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN188079,2016-07-14,"GAILLARD, ANA CAROLINA",diputado,exacto_vigente,HCDN1375,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,ENTRE RIOS,PAMPEANA,macri_2015_2019,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN158374,2013-11-26,"BIANCHI, IVANA MARIA",diputado,exacto_vigente,HCDN0964,hcdn,COMPROMISO FEDERAL,peronismo_federal,SAN LUIS,CUYO,cfk_2008_2015,no,RESOLUCION,B,pro_liberalizacion,relacionada
+HCDN245430,2020-10-15,"MARZIOTTA, GISELA",diputado,exacto_vigente,HCDN2860,hcdn,FRENTE DE TODOS,kirchnerismo,CIUDAD DE BUENOS AIRES,CABA,fernandez_2019_2023,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN113530,2010-03-17,"FADUL, LILIANA",diputado,exacto_vigente,HCDN1164,hcdn,PARTIDO FEDERAL FUEGUINO,provinciales,TIERRA DEL FUEGO,PATAGONIA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN153172,2013-06-28,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,FRENTE PERONISTA,peronismo_federal,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN127925,2011-05-20,"GONZALEZ, JUAN DANTE",diputado,exacto_vigente,HCDN0995,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MENDOZA,CUYO,cfk_2008_2015,si,LEY,C,administrativa_neutra,relacionada
+HCDN240918,2020-05-26,"ZAMARBIDE, FEDERICO RAUL",diputado,exacto_vigente,HCDN2387,hcdn,UCR,ucr,MENDOZA,CUYO,fernandez_2019_2023,no,LEY,D,administrativa_neutra,relacionada
+HCDN110209,2009-11-06,"IGLESIAS, FERNANDO ADOLFO",diputado,exacto_vigente,HCDN1031,hcdn,COALICION CIVICA - ARI - GEN - UPT,cc_ari,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN228260,2019-03-08,"CARRIO, ELISA MARIA AVELINA",diputado,exacto_vigente,HCDN0079,hcdn,COALICION CIVICA,cc_ari,CIUDAD DE BUENOS AIRES,CABA,macri_2015_2019,si,LEY,C,administrativa_neutra,relacionada
+HCDN234969,2019-08-23,"AUSTIN, BRENDA LIS",diputado,exacto_vigente,HCDN1582,hcdn,UCR,ucr,CORDOBA,PAMPEANA,macri_2015_2019,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN143137,2012-10-09,"FERNANDEZ DE KIRCHNER, CRISTINA",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE Y PROYECTO DE LEY,C,administrativa_neutra,relacionada
+HCDN173050,2015-03-12,"BIANCHI, IVANA MARIA",diputado,exacto_vigente,HCDN0964,hcdn,COMPROMISO FEDERAL,peronismo_federal,SAN LUIS,CUYO,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN284689,2025-05-15,"CAFIERO, SANTIAGO",diputado,exacto_vigente,HCDN2831,hcdn,UNIÓN POR LA PATRIA,kirchnerismo,BUENOS AIRES,PAMPEANA,milei_2023_2025,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN119301,2010-08-26,"FERNANDEZ BASUALDO, LUIS MARIA",diputado,exacto_vigente,HCDN0991,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,FORMOSA,NEA,cfk_2008_2015,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN148611,2013-03-06,"GONZALEZ, GLADYS ESTHER",diputado,exacto_vigente,HCDN1178,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN159844,2014-03-07,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,UNIR,otros,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN269876,2023-07-17,"IGLESIAS, FERNANDO ADOLFO",diputado,exacto_vigente,HCDN1031,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,fernandez_2019_2023,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN117533,2010-06-24,"MARTINEZ, JULIO CESAR",diputado,exacto_vigente,HCDN0770,hcdn,UCR,ucr,LA RIOJA,NOA,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN158614,2013-12-09,"LARROQUE, ANDRES",diputado,exacto_vigente,HCDN1275,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,si,LEY,C,administrativa_neutra,relacionada
+HCDN247464,2021-02-08,"BERISSO, HERNAN",diputado,exacto_vigente,HCDN2360,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,fernandez_2019_2023,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN282068,2025-03-05,"LOSPENNATO, SILVIA",diputado,exacto_vigente,HCDN1439,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,milei_2023_2025,no,LEY,C,administrativa_neutra,relacionada
+HCDN108046,2009-08-11,"IRRAZABAL, JUAN MANUEL",diputado,exacto_vigente,HCDN0760,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MISIONES,NEA,cfk_2008_2015,si,LEY,C,administrativa_neutra,relacionada
+HCDN276407,2024-07-02,"PAULON, ESTEBAN",diputado,exacto_vigente,HCDN3108,hcdn,HACEMOS COALICIÓN FEDERAL,izquierda_progresista,SANTA FE,PAMPEANA,milei_2023_2025,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN274013,2024-03-26,"MARZIOTTA, GISELA",diputado,exacto_vigente,HCDN2860,hcdn,UNIÓN POR LA PATRIA,kirchnerismo,CIUDAD DE BUENOS AIRES,CABA,milei_2023_2025,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN120125,2010-09-28,"LEVERBERG, STELLA MARIS",diputado,exacto_vigente,HCDN1000,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MISIONES,NEA,cfk_2008_2015,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN276011,2024-06-11,"REYES, ROXANA NAHIR",diputado,exacto_vigente,HCDN2410,hcdn,UCR - UNIÓN CÍVICA RADICAL,ucr,SANTA CRUZ,PATAGONIA,milei_2023_2025,no,LEY,D,administrativa_neutra,relacionada
+HCDN189972,2016-08-29,"CONTI, DIANA BEATRIZ",diputado,exacto_vigente,HCDN0181,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,BUENOS AIRES,PAMPEANA,macri_2015_2019,no,LEY,C,administrativa_neutra,relacionada
+HCDN129020,2011-06-17,"FERNANDEZ DE KIRCHNER, CRISTINA",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE Y PROYECTO DE LEY,C,pro_liberalizacion,relacionada
+HCDN261828,2022-08-08,"LOSPENNATO, SILVIA GABRIELA",diputado,fallback_vigente,HCDN1439,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,fernandez_2019_2023,no,LEY,C,administrativa_neutra,relacionada
+HCDN159685,2014-03-06,"BIANCHI, IVANA MARIA",diputado,exacto_vigente,HCDN0964,hcdn,COMPROMISO FEDERAL,peronismo_federal,SAN LUIS,CUYO,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN193888,2016-12-06,"GAILLARD, ANA CAROLINA",diputado,exacto_vigente,HCDN1375,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,ENTRE RIOS,PAMPEANA,macri_2015_2019,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN182867,2016-03-02,"ABRAHAM, ALEJANDRO",diputado,exacto_vigente,HCDN1382,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MENDOZA,CUYO,macri_2015_2019,no,RESOLUCION,B,pro_liberalizacion,relacionada
+HCDN194286,2016-12-05,"MACRI, MAURICIO",ejecutivo,,,,,,,,macri_2015_2019,,MENSAJE Y PROYECTO DE LEY,C,administrativa_neutra,relacionada
+HCDN159226,2014-02-13,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,UNIR,otros,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN117910,2010-07-07,"LLERA, TIMOTEO",diputado,exacto_vigente,HCDN1038,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MISIONES,NEA,cfk_2008_2015,si,RESOLUCION,C,pro_liberalizacion,relacionada
+HCDN257123,2022-03-30,"TORELLO, PABLO",diputado,exacto_vigente,HCDN1449,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,fernandez_2019_2023,no,RESOLUCION,C,pro_liberalizacion,relacionada
+HCDN137940,2012-06-07,"BIANCHI, IVANA MARIA",diputado,exacto_vigente,HCDN0964,hcdn,FRENTE PERONISTA,peronismo_federal,SAN LUIS,CUYO,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN183165,2016-03-08,"CARMONA, GUILLERMO RAMON",diputado,exacto_vigente,HCDN1247,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MENDOZA,CUYO,macri_2015_2019,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN132762,2011-12-07,"LANDAU, JORGE ALBERTO",diputado,exacto_vigente,HCDN0837,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,BUENOS AIRES,PAMPEANA,cfk_2008_2015,si,LEY,C,administrativa_neutra,relacionada
+HCDN160209,2014-03-14,"PINEDO, FEDERICO",diputado,exacto_vigente,HCDN0785,hcdn,UNION PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN136286,2012-05-08,"DIAZ ROIG, JUAN CARLOS",diputado,exacto_vigente,HCDN0877,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,FORMOSA,NEA,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN140017,2012-08-02,"CARDELLI, JORGE JUSTO",diputado,exacto_vigente,HCDN1152,hcdn,MOVIMIENTO PROYECTO SUR,izquierda_progresista,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN096880,2008-07-02,"BIANCHI, IVANA MARIA",diputado,exacto_vigente,HCDN0964,hcdn,FRENTE JUSTICIA UNION Y LIBERTAD - FREJULI,peronismo_federal,SAN LUIS,CUYO,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN246260,2020-11-12,"IGLESIAS, FERNANDO ADOLFO",diputado,exacto_vigente,HCDN1031,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,fernandez_2019_2023,no,DECLARACION,A,pro_liberalizacion,explicita
+HCDN106750,2009-06-11,"GENEM, AMANDA SUSANA",diputado,exacto_vigente,SUPL_GENEM,suplemento,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MENDOZA,CUYO,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN121112,2010-11-15,"MICHETTI, MARTA GABRIELA",diputado,exacto_vigente,HCDN1191,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,LEY,C,administrativa_neutra,relacionada
+HCDN098070,2008-08-26,"FADEL, PATRICIA SUSANA",diputado,exacto_vigente,HCDN0741,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,MENDOZA,CUYO,cfk_2008_2015,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN185932,2016-05-16,"GAILLARD, ANA CAROLINA",diputado,exacto_vigente,HCDN1375,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,ENTRE RIOS,PAMPEANA,macri_2015_2019,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN194015,2016-12-14,"RECALDE, HECTOR PEDRO",diputado,exacto_vigente,HCDN0910,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,BUENOS AIRES,PAMPEANA,macri_2015_2019,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN230484,2019-03-28,"FRANCO, JORGE DANIEL",diputado,exacto_vigente,HCDN1480,hcdn,FRENTE DE LA CONCORDIA MISIONERO,provinciales,MISIONES,NEA,macri_2015_2019,no,DECLARACION,C,administrativa_neutra,relacionada
+HCDN179505,2015-08-31,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,UNIR,otros,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,A,pro_liberalizacion,explicita
+HCDN113414,2010-03-16,"GRIBAUDO, CHRISTIAN ALEJANDRO",diputado,exacto_vigente,HCDN1075,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN153101,2013-06-26,"MARTINEZ, JULIO CESAR",diputado,exacto_vigente,HCDN0770,hcdn,UCR,ucr,LA RIOJA,NOA,cfk_2008_2015,no,DECLARACION,B,pro_liberalizacion,relacionada
+HCDN234111,2019-07-11,"DE MENDIGUREN, JOSE IGNACIO",diputado,exacto_vigente,HCDN0668,hcdn,FEDERAL UNIDOS POR UNA NUEVA ARGENTINA,peronismo_federal,BUENOS AIRES,PAMPEANA,macri_2015_2019,no,RESOLUCION,A,administrativa_neutra,explicita
+HCDN267575,2023-04-17,"LOSPENNATO, SILVIA GABRIELA",diputado,fallback_vigente,HCDN1439,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,fernandez_2019_2023,no,LEY,C,administrativa_neutra,relacionada
+HCDN259872,2022-06-28,"PASSO, MARCELA FABIANA",diputado,exacto_vigente,HCDN1460,hcdn,FRENTE DE TODOS,kirchnerismo,BUENOS AIRES,PAMPEANA,fernandez_2019_2023,si,LEY,C,administrativa_neutra,relacionada
+HCDN239936,2020-04-29,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,fernandez_2019_2023,no,RESOLUCION,C,administrativa_neutra,explicita
+HCDN176604,2015-06-17,"GAILLARD, ANA CAROLINA",diputado,exacto_vigente,HCDN1375,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,ENTRE RIOS,PAMPEANA,cfk_2008_2015,si,DECLARACION,C,administrativa_neutra,relacionada
+HCDN132802,2011-11-24,"FERNANDEZ DE KIRCHNER, CRISTINA",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE Y PROYECTO DE LEY,C,administrativa_neutra,relacionada
+HCDN127977,2011-05-24,"GRIBAUDO, CHRISTIAN ALEJANDRO",diputado,exacto_vigente,HCDN1075,hcdn,PRO,pro,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,B,administrativa_neutra,relacionada
+HCDN117390,2010-06-19,"FERNANDEZ, ANIBAL DOMINGO",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE,C,administrativa_neutra,relacionada
+HCDN134268,2012-02-13,PARLAMENTARIA MIXTA REVISORA DE CUENTAS,organo,,,,,,,,cfk_2008_2015,,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN144945,2012-12-14,"LINARES, MARIA VIRGINIA",diputado,exacto_vigente,HCDN1078,hcdn,GEN,izquierda_progresista,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN279051,2024-10-18,"MORCHIO, FRANCISCO",diputado,exacto_vigente,HCDN3046,hcdn,ENCUENTRO FEDERAL,peronismo_federal,ENTRE RIOS,PAMPEANA,milei_2023_2025,no,RESOLUCION,D,administrativa_neutra,relacionada
+HCDN147990,2013-02-18,"ATANASOF, ALFREDO NESTOR",diputado,exacto_vigente,HCDN0061,hcdn,FRENTE PERONISTA,peronismo_federal,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,DECLARACION,B,proteccionista_defensiva,relacionada
+HCDN197176,2017-04-07,"LOSPENNATO, SILVIA GABRIELA",diputado,fallback_vigente,HCDN1439,hcdn,UNION PRO,pro,BUENOS AIRES,PAMPEANA,macri_2015_2019,si,LEY,C,administrativa_neutra,relacionada
+HCDN263132,2022-09-20,"IGLESIAS, FERNANDO ADOLFO",diputado,exacto_vigente,HCDN1031,hcdn,PRO,pro,CIUDAD DE BUENOS AIRES,CABA,fernandez_2019_2023,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN117460,2010-06-23,"FERNANDEZ, ANIBAL DOMINGO",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE,C,administrativa_neutra,relacionada
+HCDN159429,2014-02-28,"ASSEFF, ALBERTO",diputado,exacto_vigente,HCDN1236,hcdn,UNIR,otros,BUENOS AIRES,PAMPEANA,cfk_2008_2015,no,RESOLUCION,A,administrativa_neutra,explicita
+HCDN120492,2010-10-14,"GODOY, RUPERTO EDUARDO",diputado,exacto_vigente,HCDN0755,hcdn,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,SAN JUAN,CUYO,cfk_2008_2015,si,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN105698,2009-05-14,"SANTANDER, MARIO ARMANDO",diputado,exacto_vigente,SUPL_SANTANDER,suplemento,FRENTE PARA LA VICTORIA - PJ,kirchnerismo,LA RIOJA,NOA,cfk_2008_2015,si,DECLARACION,C,pro_liberalizacion,relacionada
+HCDN202533,2017-07-14,"CARRIO, ELISA MARIA AVELINA",diputado,exacto_vigente,HCDN0079,hcdn,COALICION CIVICA,cc_ari,CIUDAD DE BUENOS AIRES,CABA,macri_2015_2019,si,LEY,C,administrativa_neutra,relacionada
+HCDN282710,2025-03-17,"QUETGLAS, FABIO JOSE",diputado,exacto_vigente,HCDN2406,hcdn,UCR - UNIÓN CÍVICA RADICAL,ucr,BUENOS AIRES,PAMPEANA,milei_2023_2025,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN109680,2009-10-26,"IGLESIAS, FERNANDO ADOLFO",diputado,exacto_vigente,HCDN1031,hcdn,COALICION CIVICA - ARI - GEN - UPT,cc_ari,CIUDAD DE BUENOS AIRES,CABA,cfk_2008_2015,no,RESOLUCION,C,administrativa_neutra,relacionada
+HCDN120077,2010-09-24,"FERNANDEZ, ANIBAL DOMINGO",ejecutivo,,,,,,,,cfk_2008_2015,,MENSAJE,C,administrativa_neutra,relacionada

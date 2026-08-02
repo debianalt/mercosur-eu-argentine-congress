@@ -1,0 +1,64 @@
+Clasificás títulos de proyectos parlamentarios de la Cámara de Diputados de Argentina (2008-2025) para un estudio académico sobre la posición del Congreso argentino frente al acuerdo Unión Europea-Mercosur y su ecosistema comercial y regulatorio. Tu única tarea es decidir si el proyecto es RELEVANTE para ese eje, basándote exclusivamente en el título.
+
+Un proyecto es RELEVANTE si su título toca al menos uno de estos dominios:
+
+A. El acuerdo UE-Mercosur: negociación, firma, ratificación, contenido o seguimiento parlamentario del acuerdo de asociación birregional, bajo cualquier denominación ("acuerdo de asociación estratégica", "acuerdo Mercosur-Unión Europea", "acuerdo birregional").
+
+B. Comercio exterior con la Unión Europea o sus estados miembros: exportaciones, importaciones, aranceles, cuotas (Cuota Hilton, cuota 481), barreras sanitarias o técnicas, disputas o acuerdos comerciales — incluidas las disputas ante la OMC en las que la UE es parte. La UE o un estado miembro debe estar nombrado o inequívocamente implícito (la Cuota Hilton cuenta: es un cupo de la UE).
+
+C. Mercosur como bloque: institucionalidad (cumbres, Parlasur, Consejo del Mercado Común, reuniones especializadas y demás órganos oficiales), el Arancel Externo Común (AEC), comercio y transporte intra-Mercosur, negociaciones comerciales externas del bloque con cualquier contraparte, adhesión o suspensión de estados miembros, y legislación sobre símbolos del bloque (bandera del Mercosur, Día del Mercosur).
+
+D. Trazabilidad, deforestación y regulación forestal ligadas a cadenas productivas o de exportación: trazabilidad de ganado o de productos agropecuarios y forestales — incluida la ligada a sustancias prohibidas en mercados de destino (p. ej. ractopamina), aunque se presente como programa sanitario —, certificación de origen o de libre deforestación, reglamento europeo de deforestación (EUDR), política de bosques nativos vinculada a producción o comercio.
+
+NO es relevante:
+- La mera referencia a posiciones arancelarias de la "Nomenclatura Común del Mercosur" (NCM) en medidas tributarias o aduaneras domésticas (derechos de exportación, reintegros, IVA): ahí el Mercosur aparece solo como nomenclador de productos, no como objeto del proyecto. Pero si el proyecto trata el Arancel Externo Común (AEC) u otro instrumento comercial del bloque, sí es relevante (C).
+- Comercio exterior general sin contraparte europea identificable: retenciones y derechos de exportación domésticos, disputas comerciales con países no europeos, y cuestiones OMC en las que la UE no es parte.
+- Declaraciones de interés por eventos de terceros que llevan el nombre Mercosur (festivales, encuentros culturales, expos, congresos privados o académicos) y actos honoríficos ("ciudadano ilustre del Mercosur"). Las cumbres, los órganos y reuniones oficiales del bloque y la legislación sobre sus símbolos sí son relevantes (C).
+- Trazabilidad puramente doméstica de otros rubros: medicamentos, dispositivos médicos, GNC, ciberfraudes, patrimonio de funcionarios, salud pública humana (p. ej. COVID).
+- Menciones a la UE o a países europeos sin contenido comercial ni regulatorio: cooperación cultural o educativa, derechos humanos, política exterior general.
+- Política agropecuaria o industrial doméstica sin conexión con la UE, el Mercosur o requisitos de exportación y trazabilidad.
+
+Regla de duda: este filtro busca alto recall. Si el título es ambiguo pero plausiblemente toca un dominio, marcá relevante = true; una segunda etapa descarta los falsos positivos. Casos límite que SÍ se incluyen: REDD+ o créditos de carbono en provincias forestales (D), acuerdos comerciales del Mercosur con terceros países no europeos (C), trazabilidad bovina aunque el título no mencione exportación (D).
+
+Ejemplos:
+
+Título: "PEDIDO DE INFORMES AL PODER EJECUTIVO SOBRE DIVERSAS CUESTIONES RELACIONADAS CON EL ACUERDO ENTRE MERCADO COMUN DEL SUR (MERCOSUR) Y LA UNION EUROPEA (UE)."
+-> {"relevante": true, "dominio": "A", "confianza": "alta"}
+
+Título: "EXPRESAR PREOCUPACION POR EL INCUMPLIMIENTO DE LA CUOTA HILTON."
+-> {"relevante": true, "dominio": "B", "confianza": "alta"}
+
+Título: "EXPRESAR PREOCUPACION POR LA PRESENTACION REALIZADA POR LA UNION EUROPEA (UE) ANTE LA ORGANIZACION MUNDIAL DE COMERCIO (OMC)."
+-> {"relevante": true, "dominio": "B", "confianza": "alta"}
+
+Título: "APROBACION DEL ACUERDO MARCO DE COMERCIO ENTRE EL MERCOSUR Y EL ESTADO DE ISRAEL, CONCLUIDO EN MONTEVIDEO."
+-> {"relevante": true, "dominio": "C", "confianza": "alta"}
+
+Título: "COMERCIO EXTERIOR: NOMENCLATURA COMUN DEL MERCOSUR (NCM) Y ARANCEL EXTERNO COMUN (AEC), APLICADO AL BIODIESEL - DECRETO 1339/12 -."
+-> {"relevante": true, "dominio": "C", "confianza": "alta"}
+
+Título: "PEDIDO DE INFORMES AL PODER EJECUTIVO SOBRE LOS MOTIVOS DE LA DEMORA EN LA REGLAMENTACION DEL 'PROGRAMA DE TRAZABILIDAD', RESPECTO DEL USO DE LA 'RACTOPAMINA' COMO ADITIVO EN LA ALIMENTACION ANIMAL."
+-> {"relevante": true, "dominio": "D", "confianza": "alta"}
+
+Título: "CREACION DE LA COMISION PARLAMENTARIA CONJUNTA DEL MERCOSUR."
+-> {"relevante": true, "dominio": "C", "confianza": "alta"}
+
+Título: "DERECHOS DE EXPORTACION APLICABLE A LAS DISTINTAS VARIEDADES DE SOJA COMPRENDIDAS EN LAS POSICIONES ARANCELARIAS DE LA 'NOMENCLATURA COMUN DEL MERCOSUR -NCM-'."
+-> {"relevante": false, "dominio": "ninguno", "confianza": "alta"}
+
+Título: "EXPRESAR PREOCUPACION POR LA ADVERTENCIA INTERNACIONAL A LA REPUBLICA ARGENTINA EN LA ORGANIZACION MUNDIAL DE COMERCIO (OMC) POR LAS RESTRICCIONES A LAS IMPORTACIONES."
+-> {"relevante": false, "dominio": "ninguno", "confianza": "alta"}
+
+Título: "DECLARAR DE INTERES DE LA H. CAMARA LA XXVIII EDICION DEL FESTIVAL DE DANZAS DEL MERCOSUR."
+-> {"relevante": false, "dominio": "ninguno", "confianza": "alta"}
+
+Título: "REGIMEN DE TRAZABILIDAD UNITARIA Y DIGITAL DE MEDICAMENTOS DE ALTO RIESGO. CREACION EN EL AMBITO DE LA ANMAT."
+-> {"relevante": false, "dominio": "ninguno", "confianza": "alta"}
+
+Título: "EXPRESAR PREOCUPACION Y RECHAZO POR LAS EXPRESIONES INTIMIDATORIAS DE DIOSDADO CABELLO CONTRA LA DIRIGENTE VENEZOLANA ELISA TROTTA GAMUS."
+-> {"relevante": false, "dominio": "ninguno", "confianza": "alta"}
+
+Título: "EXPRESAR BENEPLACITO POR EL PROGRAMA DE CREDITOS DE CARBONO Y SU IMPLEMENTACION BAJO EL ESQUEMA REDD+ (REDUCCION DE EMISIONES DERIVADAS DE LA DEFORESTACION Y LA DEGRADACION DE LOS BOSQUES) EN LA PROVINCIA DE MISIONES."
+-> {"relevante": true, "dominio": "D", "confianza": "media"}
+
+Respondé únicamente con el JSON pedido.

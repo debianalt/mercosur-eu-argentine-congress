@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "The Argentine Congress and the European Union deforestation regime, 2008-2025: annotated corpus and replication materials"
+message: "If you use this dataset, please cite it as below."
+type: dataset
+authors:
+  - family-names: "Gómez"
+    given-names: "Raimundo Elías"
+    orcid: "https://orcid.org/0000-0002-4468-9618"
+    affiliation: "Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) / Facultad de Humanidades y Ciencias Sociales, Universidad Nacional de Misiones (UNaM)"
+abstract: "Annotated corpus of the complete record of the Argentine Chamber of Deputies (2008-2025, 110,500 tabled items) identifying and coding the 609 items that engage the European Union-Mercosur agreement and the European Union Deforestation Regulation. Includes the frozen codebook, the 400-title gold standard with case-by-case adjudication, the frozen prompts and model parameters, derived analysis tables and the scripts that reproduce every figure and table."
+keywords:
+  - deforestation regulation
+  - forest governance
+  - legislative agendas
+  - extraterritorial environmental governance
+  - Argentina
+  - European Union
+  - text as data
+license: CC-BY-4.0

@@ -1,0 +1,401 @@
+orden,proyecto_id,relevante_manual,dominio_manual,tema_manual,orientacion_manual,saliencia_manual,flag_revision,notas
+1,HCDN096128,false,ninguno,,,,no,
+2,HCDN258880,false,ninguno,,,,no,
+3,HCDN180275,true,D,eudr_trazabilidad_forestal,administrativa_neutra,relacionada,no,auditoria SENASA incluye trazabilidad ganadera
+4,HCDN190953,false,ninguno,,,,no,
+5,HCDN165644,false,ninguno,,,,no,
+6,HCDN093150,false,ninguno,,,,no,
+7,HCDN094169,false,ninguno,,,,no,retenciones domesticas a exportacion de carnes
+8,HCDN214241,false,ninguno,,,,no,
+9,HCDN200287,false,ninguno,,,,no,
+10,HCDN149257,false,ninguno,,,,no,
+11,HCDN282348,false,ninguno,,,,no,
+12,HCDN142034,false,ninguno,,,,no,
+13,HCDN163486,false,ninguno,,,,no,
+14,HCDN249454,false,ninguno,,,,no,aranceles de nomenclador prestacional (no tarifario)
+15,HCDN164307,true,B,comercio_ue_sectorial,administrativa_neutra,relacionada,no,
+16,HCDN272141,false,ninguno,,,,no,barrera sanitaria interna Patagonia sin eje UE
+17,HCDN115461,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,continuidad del bloque
+18,HCDN129732,true,B,comercio_ue_sectorial,administrativa_neutra,relacionada,no,
+19,HCDN113390,false,ninguno,,,,no,
+20,HCDN119747,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,gestion ante Parlasur con objeto AMIA; politica no comercial del bloque
+21,HCDN192422,false,ninguno,,,,no,
+22,HCDN259351,false,ninguno,,,,no,
+23,HCDN168478,false,ninguno,,,,no,
+24,HCDN125475,false,ninguno,,,,no,
+25,HCDN150092,false,ninguno,,,,no,
+26,HCDN159802,true,A,acuerdo_ue_mercosur,administrativa_neutra,explicita,no,
+27,HCDN139309,false,ninguno,,,,si,despidos en biocombustibles en era antidumping UE; titulo sin UE (sonda recall)
+28,HCDN153653,false,ninguno,,,,no,
+29,HCDN135856,true,B,comercio_ue_sectorial,administrativa_neutra,relacionada,no,regimen distributivo de cupo UE
+30,HCDN176187,false,ninguno,,,,no,
+31,HCDN191159,true,B,comercio_ue_sectorial,pro_liberalizacion,relacionada,no,celebra anulacion de derechos UE al biodiesel
+32,HCDN137942,true,B,comercio_ue_sectorial,pro_liberalizacion,relacionada,no,
+33,HCDN113854,true,B,comercio_ue_sectorial,administrativa_neutra,relacionada,no,
+34,HCDN138539,false,ninguno,,,,no,expo de terceros
+35,HCDN249071,true,A,acuerdo_ue_mercosur,administrativa_neutra,explicita,no,
+36,HCDN282629,false,ninguno,,,,no,
+37,HCDN204995,false,ninguno,,,,no,contraparte EEUU
+38,HCDN138999,true,B,comercio_ue_sectorial,proteccionista_defensiva,relacionada,si,tema general no sectorial; valencia contra presion UE inferida
+39,HCDN140332,false,ninguno,,,,no,
+40,HCDN113704,false,ninguno,,,,si,cierre exportador domestico de carne (sonda recall)
+41,HCDN132016,false,ninguno,,,,no,
+42,HCDN240112,false,ninguno,,,,no,
+43,HCDN248945,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,familia aniversario del bloque (frontera documentada)
+44,HCDN153809,false,ninguno,,,,no,
+45,HCDN209202,false,ninguno,,,,si,exportacion de biodiesel sin contraparte en era antidumping (sonda recall)
+46,HCDN240730,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,declaracion del bloque + CMC pesca
+47,HCDN126742,false,ninguno,,,,no,
+48,HCDN247131,false,ninguno,,,,no,
+49,HCDN096506,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,controversias ambientales del bloque via Parlatino
+50,HCDN095278,false,ninguno,,,,no,seminario academico de terceros
+51,HCDN256577,true,C,mercosur_institucional,pro_liberalizacion,relacionada,si,AEC alicuota diferenciada; orientacion = pide bajar arancel
+52,HCDN155723,false,ninguno,,,,no,
+53,HCDN282486,false,ninguno,,,,no,
+54,HCDN183148,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+55,HCDN095433,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+56,HCDN250690,false,ninguno,,,,si,cierre exportaciones carne 2021 afecto Hilton; titulo sin UE (sonda recall)
+57,HCDN240504,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+58,HCDN279302,true,D,eudr_trazabilidad_forestal,pro_liberalizacion,relacionada,si,registro SENASA export UE; orientacion = defiende acceso exportador
+59,HCDN241505,false,ninguno,,,,no,
+60,HCDN116235,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,armonizacion ambiental del bloque
+61,HCDN115412,false,ninguno,,,,no,
+62,HCDN118582,false,ninguno,,,,no,
+63,HCDN165073,true,B,comercio_ue_sectorial,pro_liberalizacion,relacionada,no,
+64,HCDN128198,true,B,comercio_ue_sectorial,administrativa_neutra,relacionada,no,
+65,HCDN184957,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,familia aniversario
+66,HCDN103073,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,adhesion de Venezuela
+67,HCDN141219,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,Codigo Aduanero del Mercosur (CMC)
+68,HCDN148668,false,ninguno,,,,no,
+69,HCDN163318,true,C,mercosur_institucional,proteccionista_defensiva,relacionada,si,reserva de cargas intra-Mercosur; orientacion inferida
+70,HCDN173621,false,ninguno,,,,no,
+71,HCDN211982,false,ninguno,,,,no,
+72,HCDN272142,true,A,acuerdo_ue_mercosur,pro_liberalizacion,explicita,no,
+73,HCDN118043,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,integracion productiva citricola
+74,HCDN099003,false,ninguno,,,,no,
+75,HCDN234151,false,ninguno,,,,si,Cumbre de Mujeres en Vera Cruz: evento de terceros (vs REM oficial)
+76,HCDN240130,true,C,mercosur_institucional,pro_liberalizacion,relacionada,no,rechaza retiro de negociaciones comerciales
+77,HCDN286008,false,ninguno,,,,no,
+78,HCDN112556,false,ninguno,,,,no,
+79,HCDN200178,false,ninguno,,,,no,
+80,HCDN100321,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,integracion fronteriza
+81,HCDN275239,false,ninguno,,,,no,
+82,HCDN135883,true,C,mercosur_institucional,pro_liberalizacion,relacionada,no,acuerdo comercial Mercosur-OLP
+83,HCDN279193,true,D,eudr_trazabilidad_forestal,administrativa_neutra,relacionada,si,REDD+ caso limite del codebook
+84,HCDN160768,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,familia Dia del Mercosur
+85,HCDN247912,false,ninguno,,,,no,Brexit-Malvinas: politica exterior
+86,HCDN239935,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+87,HCDN212787,false,ninguno,,,,no,
+88,HCDN179759,false,ninguno,,,,no,
+89,HCDN118755,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,IPPDH organo del bloque; contenido DDHH
+90,HCDN230709,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+91,HCDN120895,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+92,HCDN116668,false,ninguno,,,,no,
+93,HCDN278623,true,D,eudr_trazabilidad_forestal,administrativa_neutra,explicita,no,EUDR explicito
+94,HCDN204712,false,ninguno,,,,no,contraparte EEUU
+95,HCDN178970,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,fin de la union aduanera
+96,HCDN286280,false,ninguno,,,,no,titulo insuficiente
+97,HCDN139913,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,vulneracion de tratados del bloque; orientacion indeterminable
+98,HCDN243812,false,ninguno,,,,no,
+99,HCDN164745,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+100,HCDN115917,false,ninguno,,,,no,
+101,HCDN248077,false,ninguno,,,,no,
+102,HCDN141855,false,ninguno,,,,no,
+103,HCDN161347,false,ninguno,,,,no,
+104,HCDN110216,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,agencia ambiental del bloque
+105,HCDN244584,false,ninguno,,,,no,
+106,HCDN109227,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,clausula democratica / Ushuaia
+107,HCDN273565,false,ninguno,,,,no,
+108,HCDN135802,true,B,comercio_ue_sectorial,proteccionista_defensiva,relacionada,si,disputa YPF-Repsol con Espana/UE; frontera inversion-comercio
+109,HCDN163289,true,B,comercio_ue_sectorial,pro_liberalizacion,relacionada,no,
+110,HCDN113433,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,DIE instrumento arancelario del bloque
+111,HCDN193318,false,ninguno,,,,no,NCM dolomita
+112,HCDN268996,false,ninguno,,,,no,
+113,HCDN120696,false,ninguno,,,,no,
+114,HCDN288510,false,ninguno,,,,no,
+115,HCDN243038,false,ninguno,,,,no,
+116,HCDN259104,false,ninguno,,,,no,
+117,HCDN287673,false,ninguno,,,,no,
+118,HCDN248436,false,ninguno,,,,no,
+119,HCDN172021,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,suspension de Venezuela
+120,HCDN256120,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,familia aniversario
+121,HCDN098216,false,ninguno,,,,no,
+122,HCDN248035,false,ninguno,,,,no,biocombustibles domestico
+123,HCDN235630,false,ninguno,,,,no,
+124,HCDN159723,false,ninguno,,,,no,acuerdo con empresa privada
+125,HCDN131080,true,D,eudr_trazabilidad_forestal,administrativa_neutra,relacionada,si,proyecto binacional deforestacion; conservacion sin cadena productiva
+126,HCDN101234,false,ninguno,,,,no,
+127,HCDN170519,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,Dia del Mercosur Ciudadano (Parlasur)
+128,HCDN165580,false,ninguno,,,,no,
+129,HCDN273216,false,ninguno,,,,no,
+130,HCDN198423,true,D,eudr_trazabilidad_forestal,administrativa_neutra,relacionada,no,trazabilidad de fruta
+131,HCDN124398,false,ninguno,,,,no,
+132,HCDN117904,false,ninguno,,,,no,
+133,HCDN180647,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+134,HCDN258590,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,indicaciones geograficas del bloque
+135,HCDN138017,true,B,comercio_ue_sectorial,administrativa_neutra,relacionada,si,disputa UE-Argentina general no sectorial
+136,HCDN212433,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+137,HCDN252245,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,disciplina negociadora del bloque; valencia ambigua
+138,HCDN165669,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+139,HCDN278885,false,ninguno,,,,no,
+140,HCDN197648,true,A,acuerdo_ue_mercosur,administrativa_neutra,explicita,no,
+141,HCDN268328,false,ninguno,,,,no,
+142,HCDN218021,false,ninguno,,,,no,
+143,HCDN258652,false,ninguno,,,,no,
+144,HCDN211870,false,ninguno,,,,no,
+145,HCDN251418,false,ninguno,,,,no,
+146,HCDN163265,false,ninguno,,,,no,
+147,HCDN252195,false,ninguno,,,,no,biocombustibles domestico
+148,HCDN234074,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,TLC Mercosur-EEUU negociacion externa del bloque
+149,HCDN126291,false,ninguno,,,,no,
+150,HCDN218449,false,ninguno,,,,no,
+151,HCDN162482,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+152,HCDN251306,false,ninguno,,,,no,
+153,HCDN189424,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+154,HCDN164273,true,B,comercio_ue_sectorial,administrativa_neutra,relacionada,no,
+155,HCDN153152,false,ninguno,,,,no,libro
+156,HCDN138970,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,control al canciller por Cumbre Social del bloque
+157,HCDN096963,false,ninguno,,,,no,
+158,HCDN249585,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,familia aniversario
+159,HCDN258650,false,ninguno,,,,no,NCM tabaco
+160,HCDN208932,false,ninguno,,,,no,
+161,HCDN143682,false,ninguno,,,,no,
+162,HCDN138968,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,idem orden 156
+163,HCDN126681,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,protocolo educativo del bloque
+164,HCDN100400,false,ninguno,,,,no,
+165,HCDN218467,false,ninguno,,,,no,
+166,HCDN197487,false,ninguno,,,,no,
+167,HCDN187586,false,ninguno,,,,no,
+168,HCDN247756,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,Parlasur; contenido salud
+169,HCDN111180,false,ninguno,,,,no,
+170,HCDN138496,true,B,comercio_ue_sectorial,administrativa_neutra,relacionada,no,
+171,HCDN215181,false,ninguno,,,,no,
+172,HCDN098025,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,guarani lengua oficial
+173,HCDN246572,false,ninguno,,,,no,
+174,HCDN189016,false,ninguno,,,,no,
+175,HCDN192670,false,ninguno,,,,no,
+176,HCDN274683,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,regimen Cooperativas del Mercosur (CMC 54/15)
+177,HCDN280432,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,cumbre; contenido seguridad
+178,HCDN140778,false,ninguno,,,,no,precio interno biodiesel
+179,HCDN159738,false,ninguno,,,,no,
+180,HCDN110181,false,ninguno,,,,no,
+181,HCDN172368,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+182,HCDN179932,false,ninguno,,,,no,
+183,HCDN096121,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,cumbre oficial
+184,HCDN152266,false,ninguno,,,,si,caida exportaciones carne (sonda recall)
+185,HCDN263289,false,ninguno,,,,no,
+186,HCDN136754,false,ninguno,,,,no,jornada IPCVA evento
+187,HCDN166202,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,presidencia pro tempore
+188,HCDN254964,false,ninguno,,,,no,derechos de exportacion domesticos via NCM
+189,HCDN105403,false,ninguno,,,,no,
+190,HCDN159857,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,familia Dia del Mercosur
+191,HCDN245779,false,ninguno,,,,no,NCM uvas
+192,HCDN100998,false,ninguno,,,,si,exportacion carne frigorificos 2008 (sonda recall)
+193,HCDN164592,false,ninguno,,,,no,
+194,HCDN169913,false,ninguno,,,,no,retenciones carne via NCM
+195,HCDN254384,false,ninguno,,,,no,biocombustibles domestico
+196,HCDN245513,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,familia aniversario
+197,HCDN127658,false,ninguno,,,,no,tasas SENASA
+198,HCDN190817,false,ninguno,,,,no,
+199,HCDN255775,true,D,eudr_trazabilidad_forestal,administrativa_neutra,relacionada,si,trazabilidad pesca: rubro no listado en codebook
+200,HCDN113266,false,ninguno,,,,no,
+201,HCDN275238,false,ninguno,,,,no,
+202,HCDN245089,false,ninguno,,,,no,
+203,HCDN103226,false,ninguno,,,,no,
+204,HCDN150918,false,ninguno,,,,no,
+205,HCDN168178,false,ninguno,,,,no,
+206,HCDN120878,false,ninguno,,,,si,jornadas tecnicas de trazabilidad: evento de terceros (regla eventos)
+207,HCDN118763,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,CMC + cumbre San Juan
+208,HCDN117405,false,ninguno,,,,no,
+209,HCDN163481,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,zona franca Decision 8/94
+210,HCDN188079,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,Ouro Preto presidencia CMC
+211,HCDN117823,false,ninguno,,,,no,
+212,HCDN158374,true,B,comercio_ue_sectorial,pro_liberalizacion,relacionada,no,restriccion de Espana al biodiesel
+213,HCDN181520,false,ninguno,,,,no,
+214,HCDN230098,false,ninguno,,,,no,
+215,HCDN287642,false,ninguno,,,,no,NCM plata
+216,HCDN198269,false,ninguno,,,,no,
+217,HCDN180660,false,ninguno,,,,no,encuentros de terceros
+218,HCDN283435,false,ninguno,,,,no,contraparte EEUU
+219,HCDN245430,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,leyenda Ano del Mercosur (simbolos)
+220,HCDN113530,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,accion politica del bloque (hidrocarburos Malvinas)
+221,HCDN153172,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+222,HCDN247458,false,ninguno,,,,no,
+223,HCDN127925,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,bandera del Mercosur
+224,HCDN240918,true,D,eudr_trazabilidad_forestal,administrativa_neutra,relacionada,si,trazabilidad agroquimicos: frame ambiental / cadena agro
+225,HCDN110209,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,agencia ambiental del bloque
+226,HCDN228260,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+227,HCDN255849,false,ninguno,,,,no,
+228,HCDN234969,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,bloque + Amazonia/deforestacion
+229,HCDN143137,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,Ushuaia II
+230,HCDN244847,false,ninguno,,,,no,
+231,HCDN252573,false,ninguno,,,,no,
+232,HCDN107475,false,ninguno,,,,no,
+233,HCDN173050,true,B,comercio_ue_sectorial,administrativa_neutra,relacionada,no,
+234,HCDN108166,false,ninguno,,,,no,trazabilidad salud
+235,HCDN270527,false,ninguno,,,,no,
+236,HCDN190844,false,ninguno,,,,no,
+237,HCDN150776,false,ninguno,,,,no,
+238,HCDN143491,false,ninguno,,,,si,congreso de terceros con acto de la RECM; predomina evento
+239,HCDN127032,false,ninguno,,,,no,precios domesticos
+240,HCDN266547,false,ninguno,,,,si,mesa redonda de terceros sobre el FCCP
+241,HCDN284689,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,cumbres de cancilleres
+242,HCDN119301,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,certamen del Mercosur Educativo (programa oficial)
+243,HCDN271797,false,ninguno,,,,no,
+244,HCDN195122,false,ninguno,,,,no,
+245,HCDN148611,true,B,comercio_ue_sectorial,administrativa_neutra,relacionada,no,
+246,HCDN096491,false,ninguno,,,,no,
+247,HCDN159844,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,guarani lengua oficial
+248,HCDN164747,false,ninguno,,,,no,
+249,HCDN233395,false,ninguno,,,,no,premio en Espana sin eje comercial
+250,HCDN185145,false,ninguno,,,,no,
+251,HCDN202569,false,ninguno,,,,no,
+252,HCDN274587,false,ninguno,,,,no,
+253,HCDN104006,false,ninguno,,,,no,
+254,HCDN093042,false,ninguno,,,,no,conflicto campo 2008 domestico
+255,HCDN269876,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,Parlasur
+256,HCDN117533,true,B,comercio_ue_sectorial,administrativa_neutra,relacionada,no,
+257,HCDN158614,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+258,HCDN284871,false,ninguno,,,,si,IPCVA promocion de carne; titulo sin UE (sonda)
+259,HCDN247464,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,familia aniversario
+260,HCDN282068,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+261,HCDN192135,false,ninguno,,,,no,
+262,HCDN212538,false,ninguno,,,,no,
+263,HCDN108046,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+264,HCDN244879,false,ninguno,,,,no,
+265,HCDN276407,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,ausencia en cumbre
+266,HCDN141083,false,ninguno,,,,no,precios y aranceles domesticos biocombustibles
+267,HCDN189782,false,ninguno,,,,no,
+268,HCDN155686,false,ninguno,,,,no,feria de terceros
+269,HCDN187916,false,ninguno,,,,no,conferencia de terceros
+270,HCDN104635,false,ninguno,,,,no,
+271,HCDN274013,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,familia Dia del Mercosur
+272,HCDN120125,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,reuniones ministeriales oficiales
+273,HCDN245349,false,ninguno,,,,no,
+274,HCDN124985,false,ninguno,,,,no,expo apicola de terceros
+275,HCDN121385,false,ninguno,,,,no,
+276,HCDN276011,true,D,eudr_trazabilidad_forestal,administrativa_neutra,relacionada,si,trazabilidad pesca
+277,HCDN189972,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+278,HCDN129020,true,C,mercosur_institucional,pro_liberalizacion,relacionada,no,acuerdo comercial Mercosur-SACU
+279,HCDN166107,false,ninguno,,,,no,
+280,HCDN261828,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+281,HCDN096218,false,ninguno,,,,no,
+282,HCDN159685,true,B,comercio_ue_sectorial,administrativa_neutra,relacionada,no,
+283,HCDN193888,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+284,HCDN219225,false,ninguno,,,,no,
+285,HCDN180540,false,ninguno,,,,no,
+286,HCDN283902,false,ninguno,,,,no,ruta con nombre Mercosur; objeto vial domestico
+287,HCDN182867,true,B,comercio_ue_sectorial,pro_liberalizacion,relacionada,no,acceso ganaderia mendocina a Hilton
+288,HCDN194286,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,acuerdo juridico del bloque
+289,HCDN159226,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,familia Dia del Mercosur
+290,HCDN181042,false,ninguno,,,,no,
+291,HCDN119624,false,ninguno,,,,no,NCM papel prensa
+292,HCDN270853,false,ninguno,,,,no,
+293,HCDN117910,true,C,mercosur_institucional,pro_liberalizacion,relacionada,no,urge ratificar TLC Mercosur-Israel
+294,HCDN098101,false,ninguno,,,,no,
+295,HCDN278772,false,ninguno,,,,no,aranceles universitarios
+296,HCDN112993,false,ninguno,,,,no,regimen domestico de carnes
+297,HCDN190691,false,ninguno,,,,si,proteccionismo importador cerdo/pollo/citricos sin contraparte UE
+298,HCDN279476,false,ninguno,,,,no,
+299,HCDN196397,false,ninguno,,,,no,forestacion vial domestica
+300,HCDN121377,false,ninguno,,,,no,
+301,HCDN257123,true,C,mercosur_institucional,pro_liberalizacion,relacionada,si,DIE 0% fertilizantes: instrumento del bloque; pide bajar arancel
+302,HCDN137940,true,B,comercio_ue_sectorial,administrativa_neutra,relacionada,no,
+303,HCDN183165,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+304,HCDN214778,false,ninguno,,,,no,
+305,HCDN132762,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+306,HCDN160209,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,AEC-biodiesel derogacion; direccion no inferible del titulo
+307,HCDN177132,false,ninguno,,,,no,
+308,HCDN108239,false,ninguno,,,,no,
+309,HCDN140422,false,ninguno,,,,no,
+310,HCDN221707,false,ninguno,,,,no,
+311,HCDN157572,false,ninguno,,,,no,
+312,HCDN253286,false,ninguno,,,,no,
+313,HCDN269572,false,ninguno,,,,no,
+314,HCDN266645,false,ninguno,,,,no,juicio politico sin objeto comercial en titulo
+315,HCDN231591,false,ninguno,,,,no,
+316,HCDN140738,false,ninguno,,,,no,precio interno biodiesel
+317,HCDN152479,false,ninguno,,,,no,
+318,HCDN147883,false,ninguno,,,,no,
+319,HCDN249717,false,ninguno,,,,no,
+320,HCDN136286,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,certamen Mercosur Educativo
+321,HCDN168588,false,ninguno,,,,no,
+322,HCDN140017,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,incorporacion de Venezuela
+323,HCDN096880,true,B,comercio_ue_sectorial,administrativa_neutra,relacionada,no,cortes carnicos a la UE
+324,HCDN246260,true,A,acuerdo_ue_mercosur,pro_liberalizacion,explicita,no,
+325,HCDN106750,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,inclusion de Venezuela
+326,HCDN149236,false,ninguno,,,,no,
+327,HCDN121112,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+328,HCDN098070,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,Union de Parlamentarios del Mercosur
+329,HCDN185932,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,competencia de comision para el bloque
+330,HCDN194015,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,exclusion de Venezuela
+331,HCDN092720,false,ninguno,,,,no,
+332,HCDN230484,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,comite tecnico oficial del bloque
+333,HCDN179505,true,A,acuerdo_ue_mercosur,pro_liberalizacion,explicita,no,celebra reactivacion de negociaciones Mercosur-UE
+334,HCDN282844,false,ninguno,,,,no,corredor vial con nombre Mercosur
+335,HCDN144595,false,ninguno,,,,no,
+336,HCDN105686,false,ninguno,,,,no,
+337,HCDN105203,false,ninguno,,,,no,
+338,HCDN183876,false,ninguno,,,,no,
+339,HCDN256314,false,ninguno,,,,no,
+340,HCDN167194,false,ninguno,,,,no,encuentros de terceros
+341,HCDN113414,true,B,comercio_ue_sectorial,administrativa_neutra,relacionada,si,cierre exportador con referencia a la Cuota Hilton
+342,HCDN173920,false,ninguno,,,,no,retenciones domesticas
+343,HCDN153101,true,B,comercio_ue_sectorial,pro_liberalizacion,relacionada,no,
+344,HCDN272938,false,ninguno,,,,no,
+345,HCDN125815,false,ninguno,,,,no,expo de terceros
+346,HCDN234111,true,A,acuerdo_ue_mercosur,administrativa_neutra,explicita,no,
+347,HCDN267575,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+348,HCDN120954,false,ninguno,,,,no,
+349,HCDN259872,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,CMC 54/15
+350,HCDN239936,true,C,mercosur_institucional,administrativa_neutra,explicita,no,retiro de negociaciones; menciona acuerdo UE concluido
+351,HCDN141455,false,ninguno,,,,no,trazabilidad salud
+352,HCDN104435,false,ninguno,,,,si,autorizacion frigorificos exportar (sonda)
+353,HCDN176604,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,ministros de salud del bloque
+354,HCDN245785,false,ninguno,,,,no,
+355,HCDN132802,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,acuerdo de cooperacion del bloque
+356,HCDN288221,false,ninguno,,,,no,
+357,HCDN167641,false,ninguno,,,,no,
+358,HCDN127977,true,B,comercio_ue_sectorial,administrativa_neutra,relacionada,no,
+359,HCDN159784,false,ninguno,,,,no,
+360,HCDN117390,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,directiva CCM
+361,HCDN100966,false,ninguno,,,,no,
+362,HCDN134268,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,auditoria del circuito de informacion del Mercosur
+363,HCDN262503,false,ninguno,,,,si,autorizaciones export carne (sonda)
+364,HCDN137358,false,ninguno,,,,no,
+365,HCDN144945,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,paridad en Parlasur
+366,HCDN097309,false,ninguno,,,,no,
+367,HCDN279051,true,D,eudr_trazabilidad_forestal,administrativa_neutra,relacionada,no,trazabilidad bovina (ejemplo del codebook)
+368,HCDN134813,false,ninguno,,,,no,
+369,HCDN205338,false,ninguno,,,,no,
+370,HCDN238276,false,ninguno,,,,no,
+371,HCDN147990,true,B,comercio_ue_sectorial,proteccionista_defensiva,relacionada,si,OMC con UE parte; defiende medidas argentinas
+372,HCDN197176,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+373,HCDN263132,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+374,HCDN265398,false,ninguno,,,,no,
+375,HCDN284458,false,ninguno,,,,no,
+376,HCDN162709,false,ninguno,,,,no,biocombustibles domestico
+377,HCDN265993,false,ninguno,,,,no,autoridades de mesa; no Parlasur
+378,HCDN098531,false,ninguno,,,,no,
+379,HCDN117460,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,directiva CCM
+380,HCDN104211,false,ninguno,,,,no,precios domesticos carne
+381,HCDN198263,false,ninguno,,,,no,
+382,HCDN258555,false,ninguno,,,,no,
+383,HCDN159429,true,A,acuerdo_ue_mercosur,administrativa_neutra,explicita,no,
+384,HCDN150226,false,ninguno,,,,no,
+385,HCDN120492,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,EFSUR organismo asociado
+386,HCDN105698,true,C,mercosur_institucional,pro_liberalizacion,relacionada,si,SML facilita comercio intra-bloque
+387,HCDN107736,false,ninguno,,,,no,
+388,HCDN202533,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,
+389,HCDN185739,false,ninguno,,,,no,
+390,HCDN243127,false,ninguno,,,,no,
+391,HCDN172169,false,ninguno,,,,no,
+392,HCDN282710,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,Parlasur viaticos
+393,HCDN273731,false,ninguno,,,,no,biocombustibles domestico
+394,HCDN109680,true,C,mercosur_institucional,administrativa_neutra,relacionada,si,Parlasur; contenido armamentos
+395,HCDN134592,false,ninguno,,,,no,
+396,HCDN107841,false,ninguno,,,,no,congreso de terceros
+397,HCDN222075,false,ninguno,,,,no,
+398,HCDN120077,true,C,mercosur_institucional,administrativa_neutra,relacionada,no,Decision CMC sobre AEC/DIE
+399,HCDN214023,false,ninguno,,,,no,
+400,HCDN242032,false,ninguno,,,,no,

@@ -1,0 +1,6 @@
+diputado_id,nombre,familia,nota
+HCDN3108,PAULON ESTEBAN,izquierda_progresista,PS; bloques mixtos Hacemos por Nuestro Pais 2023-24 y Encuentro Federal 2024-25
+HCDN2891,FEIN MONICA,izquierda_progresista,PS; bloque mixto Encuentro Federal 2024-25
+HCDN0990,FEIN MONICA HAYDE,izquierda_progresista,PS; override a nivel persona (no-op en anios de bloque socialista)
+HCDN2925,STOLBIZER MARGARITA,izquierda_progresista,GEN; bloque mixto Encuentro Federal 2021-23 y 2024-25
+HCDN0244,STOLBIZER MARGARITA ROSA,izquierda_progresista,GEN; override a nivel persona (no-op en anios de bloque GEN)

@@ -1,0 +1,16 @@
+caso,proyecto_id,fallo_adjudicador,regla_establecida
+D1,HCDN118755,relevante_C,organos y programas oficiales del bloque son C sin restriccion de materia (DDHH incluido)
+D2,HCDN135802,relevante_B,disputas economicas con la UE o sus miembros entran por regla de duda aunque sean de inversion
+D3,HCDN198423,relevante_D,trazabilidad agroalimentaria de cadenas exportadoras es D sin importar el rubro
+D4,HCDN126681,relevante_C,instrumentos formales del bloque son C aunque la materia no sea comercial
+D5,HCDN255775,relevante_D,idem D3 (pesca)
+D6,HCDN120878,no_relevante,eventos de terceros excluidos aunque el tema sea del eje
+D7,HCDN240918,relevante_D,trazabilidad de insumos de la cadena agro es D (regla de duda)
+D8,HCDN143491,no_relevante,evento de terceros predomina sobre mencion accesoria de organo (RECM)
+D9,HCDN266547,no_relevante,evento de terceros sobre un organo sigue siendo evento de terceros
+D10,HCDN119301,relevante_C,actividades de programas oficiales del bloque (Mercosur Educativo) son C
+D11,HCDN276011,relevante_D,idem D5
+D12,HCDN283902,no_relevante,el toponimo Ruta/Corredor del Mercosur no hace relevancia
+D13,HCDN257123,relevante_C,operar el DIE/AEC es instrumento del bloque; distinto de la trampa NCM-nomenclador
+D14,HCDN136286,relevante_C,idem D10
+D15,HCDN282844,no_relevante,idem D12

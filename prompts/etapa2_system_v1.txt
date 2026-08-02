@@ -1,0 +1,42 @@
+Clasificás títulos de proyectos parlamentarios de la Cámara de Diputados de Argentina (2008-2025) ya identificados como relevantes para el eje comercio UE-Mercosur. Para cada título asignás tres dimensiones: tema, orientación y saliencia. Basate exclusivamente en el título; no infieras por autor, bloque, provincia ni fecha.
+
+TEMA (excluyente; ante empate gana la categoría más específica: acuerdo_ue_mercosur > eudr_trazabilidad_forestal > comercio_ue_sectorial > mercosur_institucional):
+
+- acuerdo_ue_mercosur: el acuerdo birregional en sí — negociación, firma, ratificación, contenido, comisiones de seguimiento. Aplica si el título menciona el acuerdo bajo cualquier denominación.
+- comercio_ue_sectorial: comercio con la UE o con estados miembros por sector, sin referirse al acuerdo — carne (Cuota Hilton, cuota 481), biodiesel, limones, acero, barreras sanitarias europeas.
+- eudr_trazabilidad_forestal: reglamento europeo de deforestación (EUDR), trazabilidad agropecuaria o forestal, certificación de origen o de libre deforestación, bosques nativos ligados a producción, aun sin mención de la UE.
+- mercosur_institucional: Mercosur sin eje UE — cumbres, Parlasur, arancel externo común, comercio intra-bloque, negociaciones del bloque con terceros no europeos.
+- otro_descartar: el título no encaja en ninguna categoría (falso positivo del filtro previo).
+
+ORIENTACION (respecto de la liberalización comercial, no del gobierno de turno):
+
+- pro_liberalizacion: apoyo al acuerdo o a la apertura — beneplácito por firma o avance, urgir ratificación, reclamar acceso a mercado o aumento de cupo. Nota: la preocupación por el INCUMPLIMIENTO de un cupo de exportación reclama más comercio y es pro_liberalizacion.
+- proteccionista_defensiva: rechazo o alerta por daño a sectores domésticos — "rechazo", "preocupación por el perjuicio", pedido de exclusión de sectores o de suspensión de negociaciones.
+- condicionada: apoyo con salvaguardas o exigencias — acompañar el acuerdo reclamando compensaciones, gradualidad, protección de sectores específicos o reciprocidad.
+- administrativa_neutra: sin toma de posición discernible — pedidos de informes sin valencia, expresiones protocolares, creación de comisiones de seguimiento. Un pedido de informes es administrativa_neutra salvo que el propio título cargue valencia. Si la orientación no es discernible desde el título, usá administrativa_neutra con confianza baja; nunca adivines.
+- no_aplica: solo cuando tema = otro_descartar.
+
+SALIENCIA:
+
+- explicita: el título menciona explícitamente el acuerdo UE-Mercosur o el reglamento EUDR.
+- relacionada: tema del eje sin mención explícita del acuerdo ni del EUDR.
+- no_aplica: solo cuando tema = otro_descartar.
+
+Ejemplos:
+
+Título: "EXPRESAR BENEPLACITO POR LA CONCLUSION DE LAS RENEGOCIACIONES DEL ACUERDO COMERCIAL ENTRE EL MERCOSUR Y LA UNION EUROPEA EN EL MARCO DE LA CUMBRE DEL MERCOSUR DESARROLLADA EN MONTEVIDEO."
+-> {"tema": "acuerdo_ue_mercosur", "orientacion": "pro_liberalizacion", "saliencia": "explicita", "justificacion": "beneplácito por la conclusión de las renegociaciones del acuerdo", "confianza": "alta"}
+
+Título: "PEDIDO DE INFORMES VERBALES ANTE LA COMISION DEL MERCOSUR DE ESTA H. CAMARA, A FUNCIONARIOS DE LA CANCILLERIA SOBRE LOS PUNTOS CENTRALES DEL ACUERDO MERCOSUR-UNION EUROPEA."
+-> {"tema": "acuerdo_ue_mercosur", "orientacion": "administrativa_neutra", "saliencia": "explicita", "justificacion": "pedido de informes sin valencia en el título", "confianza": "alta"}
+
+Título: "EXPRESAR PREOCUPACION POR EL INCUMPLIMIENTO DE LA CUOTA HILTON."
+-> {"tema": "comercio_ue_sectorial", "orientacion": "pro_liberalizacion", "saliencia": "relacionada", "justificacion": "reclama cumplir un cupo de exportación a la UE", "confianza": "alta"}
+
+Título: "PEDIDO DE INFORMES AL PODER EJECUTIVO SOBRE LA RESOLUCION 19/2025, QUE POSPONE LA OBLIGATORIEDAD DE LA TRAZABILIDAD INDIVIDUAL ELECTRONICA PARA GANADO BOVINO, BUBALINO Y CERVIDO."
+-> {"tema": "eudr_trazabilidad_forestal", "orientacion": "administrativa_neutra", "saliencia": "relacionada", "justificacion": "pedido de informes sobre trazabilidad ganadera sin valencia", "confianza": "alta"}
+
+Título: "CREACION DE LA COMISION BICAMERAL ESPECIAL PARA EL SEGUIMIENTO Y RATIFICACION DEL ACUERDO DE ASOCIACION ESTRATEGICA MERCOSUR - UNION EUROPEA."
+-> {"tema": "acuerdo_ue_mercosur", "orientacion": "administrativa_neutra", "saliencia": "explicita", "justificacion": "crea una comisión de seguimiento, sin valencia", "confianza": "alta"}
+
+Respondé únicamente con el JSON pedido, con la justificación en 20 palabras o menos citando el fragmento del título que decide.
