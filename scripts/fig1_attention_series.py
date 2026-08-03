@@ -28,19 +28,21 @@ por las etiquetas directas sobre las barras.
 """
 
 import csv
+from collections import Counter, defaultdict
 from pathlib import Path
 
 import matplotlib.pyplot as plt
 
 BASE = Path(__file__).resolve().parents[1]
 SERIE = BASE / "analisis" / "serie_atencion.csv"
+MARCO = BASE / "analisis" / "marco_items.csv"
 DESTINO = BASE / "manuscript" / "figures" / "Figure_1.png"
 
 COLORES = {"A": "#1f5c99", "B": "#c25e1e", "C": "#3f8f5f", "D": "#c9a227"}
 TRAMAS = {"A": "", "B": "///", "C": "...", "D": "xxx"}
 ETIQUETAS = {"A": "A  Explicit agreement", "B": "B  Sectoral trade with the EU",
              "C": "C  Mercosur as an institution",
-             "D": "D  Traceability and forest regulation"}
+             "D": "D  Forest and traceability regulation"}
 TINTA = "#444444"
 HITOS = {2010: "Madrid summit", 2016: "exchange of offers",
          2019: "political agreement", 2024: "close of negotiations"}
@@ -72,11 +74,32 @@ def main():
             ax1.annotate(str(total), (a, total), textcoords="offset points",
                          xytext=(0, 3), ha="center", fontsize=PT_ANOT, color=TINTA)
 
-    tasa = [float(r["tasa_1000"]) for r in filas]
-    ax2.plot(anios, tasa, color="#2a78d6", linewidth=2, marker="o", markersize=4)
-    ax2.set_ylabel("Relevant items per 1,000\nitems tabled", fontsize=PT_EJE,
-                   color=TINTA)
-    ax2.set_ylim(0, max(tasa) * 1.25)
+    # Panel inferior: cuanto del dominio D engancha realmente con el regimen
+    # europeo. Es el panel que sostiene el argumento de ausencia.
+    marco = defaultdict(Counter)
+    with open(MARCO, encoding="utf-8") as f:
+        for r in csv.DictReader(f):
+            if r["dominio"] == "D":
+                marco[int(r["anio"])][r["marco"]] += 1
+    dom_otro = [marco[a]["domestico"] + marco[a]["externo"] + marco[a]["ue_otro"]
+                for a in anios]
+    dom_eudr = [marco[a]["eudr"] for a in anios]
+
+    ax2.bar(anios, dom_otro, width=0.75, color=COLORES["D"], edgecolor="white",
+            linewidth=1.4, hatch=TRAMAS["D"],
+            label="Other forest and traceability items")
+    ax2.bar(anios, dom_eudr, bottom=dom_otro, width=0.75, color="#8c1d1d",
+            edgecolor="white", linewidth=1.4,
+            label="Engaging the EU deforestation regime")
+    for a, d, e in zip(anios, dom_otro, dom_eudr):
+        if e:
+            ax2.annotate(str(e), (a, d + e), textcoords="offset points",
+                         xytext=(0, 3), ha="center", fontsize=PT_ANOT,
+                         color="#8c1d1d", fontweight="bold")
+    ax2.set_ylabel("Domain D items", fontsize=PT_EJE, color=TINTA)
+    ax2.legend(fontsize=PT_LEYENDA, frameon=False, loc="upper left",
+               labelcolor=TINTA)
+    ax2.margins(y=0.30)
 
     for ax in (ax1, ax2):
         for a in HITOS:
@@ -93,7 +116,7 @@ def main():
                      ha="center", va="bottom", fontsize=PT_ANOT, color="#777777")
 
     electorales = [a for a in anios if a % 2 == 1]
-    ax2.plot(electorales, [0.06] * len(electorales), linestyle="none", marker="^",
+    ax2.plot(electorales, [0] * len(electorales), linestyle="none", marker="^",
              markersize=5, markerfacecolor="none", markeredgecolor="#999999",
              clip_on=False)
 

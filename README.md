@@ -25,6 +25,9 @@ gold/
   gold_adjudication.csv     The 15 disagreements, adjudicated case by case,
                             with the rule each one established.
   gold_disagreements.csv    Full disagreement detail.
+  marco_D_manual.csv        Hand-coding of the frame for all 152 forest-domain
+                            items, with the lexical rule's code, the final hand
+                            code and a per-item adjudication note.
 prompts/                    Frozen prompts, model identifiers, output schemas
                             and run parameters. See prompts/README.md.
 analysis/                   Derived tables and complete model output.
@@ -58,16 +61,22 @@ The recall of the keyword screen was measured rather than assumed. Of 8,229 titl
 
 Every relevant item was then reviewed by the author, working in tiers ordered by risk. Forty items carried at least one correction, 6.5 per cent of those reviewed.
 
+The frame classification that separates the European deforestation regime from other external references and from domestic instruments has two layers. A documented lexical rule assigns a frame to every relevant item, and the author hand-coded all 152 forest-domain items against the frame definitions. Agreement between rule and coder is 147 of 152, 96.7 per cent, with Cohen's κ = 0.878; the hand codes are final. Each disagreement carries a written reason in `gold/marco_D_manual.csv`, documented against public administrative records (Boletín Oficial and the SENASA normative digest).
+
 ## Reproducing the analysis
 
 ```
 python scripts/analisis_seccion4.py      # descriptive tables and the join
 python scripts/analisis_seccion45.py     # panel and count models
+python scripts/analisis_marco.py         # frame layer: lexical rule + hand codes
+python scripts/analisis_comisiones.py    # committee referral profiles
+python scripts/analisis_control.py       # the two control series
+python scripts/analisis_robustez.py      # robustness of the count models
 python scripts/fig1_attention_series.py  # Figure 1
 python scripts/analisis_bosque_atencion.py   # forest comparison
 ```
 
-Run the first two in that order: the second consumes the output of the first. The scripts expect the Chamber source files, which are redistributed by their publisher rather than here, and the forest script expects the external land-cover layers described below.
+Run the first two in that order: the second consumes the output of the first, and the frame and figure scripts consume outputs of both. The scripts expect the Chamber source files, which are redistributed by their publisher rather than here, and the forest script expects the external land-cover layers described below.
 
 ## External data sources
 
@@ -75,7 +84,7 @@ Forest loss is taken from Global Forest Change (Hansen et al. 2013, doi:10.1126/
 
 ## Limitations that bear on reuse
 
-The Chamber publishes titles and metadata but not full texts, so classification operates on summaries. The register covers the lower chamber; Senate items appear only when transmitted to it. Reliability was established independently for relevance and not for the finer dimensions, and the expert review was conducted with the assigned codes visible, which does not correct for anchoring toward the proposed label. The category of conditional support returns no cases, which is a finding rather than a coding gap, but users building on the scheme should be aware of it.
+The Chamber publishes titles and metadata but not full texts, so classification operates on summaries. The register covers the lower chamber; Senate items appear only when transmitted to it. Reliability was established independently for relevance and not for the finer dimensions, and the expert review was conducted with the assigned codes visible, which does not correct for anchoring toward the proposed label. The hand-coding of the frame was likewise conducted with the rule's assignments visible, and its agreement with the lexical rule is a consistency check, not an independent reliability estimate. The category of conditional support returns no cases, which is a finding rather than a coding gap, but users building on the scheme should be aware of it.
 
 ## Licence
 
