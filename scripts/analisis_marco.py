@@ -135,6 +135,20 @@ def main():
     desacuerdos = [manual[p] for p in sorted(ids_D)
                    if manual[p]["marco_regla"] != manual[p]["marco_manual"]]
 
+    # ---------- segunda codificacion ciega (LLM en sesion fresca, 3-ago-2026):
+    # solo titulos y definiciones, sin regla ni codigos manuales a la vista ----
+    blind = {r["proyecto_id"]: r for r in csv.DictReader(
+        open(BASE / "gold" / "marco_D_blind2.csv", encoding="utf-8"))}
+    assert set(blind) == ids_D, "gold/marco_D_blind2.csv no cubre exactamente el dominio D"
+    pares_b = [(manual[p]["marco_manual"], blind[p]["marco_blind2"])
+               for p in sorted(ids_D)]
+    acuerdo_b = sum(1 for a, b in pares_b if a == b)
+    kappa_b = kappa_cohen(pares_b)
+    des_b = [p for p in sorted(ids_D)
+             if manual[p]["marco_manual"] != blind[p]["marco_blind2"]]
+    des_regimen = [p for p in des_b if "eudr" in
+                   (manual[p]["marco_manual"], blind[p]["marco_blind2"])]
+
     with open(OUT / "marco_items.csv", "w", encoding="utf-8", newline="") as f:
         w = csv.DictWriter(f, fieldnames=["proyecto_id", "anio", "tipo", "dominio",
                                           "saliencia", "marco", "marco_regla",
@@ -167,6 +181,17 @@ def main():
     for d in desacuerdos:
         inf.append(f"- **{d['proyecto_id']}** ({d['anio']}, {d['tipo']}): "
                    f"{d['marco_regla']} -> **{d['marco_manual']}**. {d['nota']}")
+    inf += ["", "## Segunda codificacion ciega", "",
+            f"LLM en sesion fresca (3-ago-2026, cuatro tandas), solo titulos y "
+            f"definiciones del instrumento. **Acuerdo con los codigos manuales: "
+            f"{acuerdo_b}/{len(pares_b)} ({100*acuerdo_b/len(pares_b):.1f}%), "
+            f"kappa de Cohen = {kappa_b:.3f}.** Desacuerdos que tocan el marco "
+            f"eudr: {len(des_regimen)}.", ""]
+    for p in des_b:
+        inf.append(f"- **{p}**: manual {manual[p]['marco_manual']} vs ciego "
+                   f"{blind[p]['marco_blind2']} (duda del ciego: "
+                   f"{blind[p]['duda_blind2'] or 'sin nota'}). El codigo manual "
+                   f"queda: protocolo declarado antes de la segunda pasada.")
     inf += ["", "## Marco por dominio (codigo final)", "",
            "| Dominio | " + " | ".join(marcos) + " | total |", "|" + "---|" * (len(marcos) + 2)]
     for d in sorted(cruz):

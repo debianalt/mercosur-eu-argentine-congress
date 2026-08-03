@@ -28,6 +28,8 @@ gold/
   marco_D_manual.csv        Hand-coding of the frame for all 152 forest-domain
                             items, with the lexical rule's code, the final hand
                             code and a per-item adjudication note.
+  marco_D_blind2.csv        Blind second annotation of the same 152 items, with
+                            the annotator's doubt notes.
 prompts/                    Frozen prompts, model identifiers, output schemas
                             and run parameters. See prompts/README.md.
 analysis/                   Derived tables and complete model output.
@@ -61,7 +63,7 @@ The recall of the keyword screen was measured rather than assumed. Of 8,229 titl
 
 Every relevant item was then reviewed by the author, working in tiers ordered by risk. Forty items carried at least one correction, 6.5 per cent of those reviewed.
 
-The frame classification that separates the European deforestation regime from other external references and from domestic instruments has two layers. A documented lexical rule assigns a frame to every relevant item, and the author hand-coded all 152 forest-domain items against the frame definitions. Agreement between rule and coder is 147 of 152, 96.7 per cent, with Cohen's κ = 0.878; the hand codes are final. Each disagreement carries a written reason in `gold/marco_D_manual.csv`, documented against public administrative records (Boletín Oficial and the SENASA normative digest).
+The frame classification that separates the European deforestation regime from other external references and from domestic instruments has three passes. A documented lexical rule assigns a frame to every relevant item, and the author hand-coded all 152 forest-domain items against the frame definitions. Agreement between rule and coder is 147 of 152, 96.7 per cent, with Cohen's κ = 0.878; the hand codes are final. Each disagreement carries a written reason in `gold/marco_D_manual.csv`, documented against public administrative records (Boletín Oficial and the SENASA normative digest). A second annotator, a large language model in a fresh session (Claude Fable 5, Anthropic, 3 August 2026, four batches) given only the item identifiers, years, types, titles and the frame definitions, then coded the 152 items blind to both earlier assignments. Agreement with the hand codes is 149 of 152, 98.0 per cent, with Cohen's κ = 0.926, and the assignment of the regime category is identical across coders; the blind codes and doubt notes are in `gold/marco_D_blind2.csv`.
 
 ## Reproducing the analysis
 
