@@ -71,8 +71,11 @@ def main():
         base = [b + v for b, v in zip(base, vals)]
     for a, total in zip(anios, base):
         if a in DESTACAR:
+            # 2010 y 2024 caen sobre una linea de hito y la etiqueta queda
+            # partida al medio: se corren a la izquierda de la linea.
+            dx = -9 if a in HITOS else 0
             ax1.annotate(str(total), (a, total), textcoords="offset points",
-                         xytext=(0, 3), ha="center", fontsize=PT_ANOT, color=TINTA)
+                         xytext=(dx, 3), ha="center", fontsize=PT_ANOT, color=TINTA)
 
     # Panel inferior: cuanto del dominio D engancha realmente con el regimen
     # europeo. Es el panel que sostiene el argumento de ausencia.
@@ -81,19 +84,28 @@ def main():
         for r in csv.DictReader(f):
             if r["dominio"] == "D":
                 marco[int(r["anio"])][r["marco"]] += 1
-    dom_otro = [marco[a]["domestico"] + marco[a]["externo"] + marco[a]["ue_otro"]
-                for a in anios]
+    # Tres estratos, no dos: mostrar solo "regimen vs resto" ensena la ausencia
+    # pero esconde la otra mitad del argumento, que el resto es domestico.
+    # Gris #8a8a8a para el estrato externo: en grises queda en luminancia
+    # intermedia entre el oro (claro) y el borgona (oscuro), y no toca la
+    # paleta categorica validada del panel superior.
+    dom_dom = [marco[a]["domestico"] for a in anios]
+    dom_ext = [marco[a]["externo"] + marco[a]["ue_otro"] for a in anios]
     dom_eudr = [marco[a]["eudr"] for a in anios]
 
-    ax2.bar(anios, dom_otro, width=0.75, color=COLORES["D"], edgecolor="white",
+    ax2.bar(anios, dom_dom, width=0.75, color=COLORES["D"], edgecolor="white",
             linewidth=1.4, hatch=TRAMAS["D"],
-            label="Other forest and traceability items")
-    ax2.bar(anios, dom_eudr, bottom=dom_otro, width=0.75, color="#8c1d1d",
+            label="No external referent (domestic instruments)")
+    ax2.bar(anios, dom_ext, bottom=dom_dom, width=0.75, color="#8a8a8a",
+            edgecolor="white", linewidth=1.4, hatch="\\\\\\",
+            label="External referent, not the European regime")
+    base_eudr = [d + e for d, e in zip(dom_dom, dom_ext)]
+    ax2.bar(anios, dom_eudr, bottom=base_eudr, width=0.75, color="#8c1d1d",
             edgecolor="white", linewidth=1.4,
             label="Engaging the EU deforestation regime")
-    for a, d, e in zip(anios, dom_otro, dom_eudr):
+    for a, b, e in zip(anios, base_eudr, dom_eudr):
         if e:
-            ax2.annotate(str(e), (a, d + e), textcoords="offset points",
+            ax2.annotate(str(e), (a, b + e), textcoords="offset points",
                          xytext=(0, 3), ha="center", fontsize=PT_ANOT,
                          color="#8c1d1d", fontweight="bold")
     ax2.set_ylabel("Domain D items", fontsize=PT_EJE, color=TINTA)
@@ -115,10 +127,11 @@ def main():
                      xytext=(0, 4 + 12 * (i % 2)), textcoords="offset points",
                      ha="center", va="bottom", fontsize=PT_ANOT, color="#777777")
 
-    electorales = [a for a in anios if a % 2 == 1]
-    ax2.plot(electorales, [0] * len(electorales), linestyle="none", marker="^",
-             markersize=5, markerfacecolor="none", markeredgecolor="#999999",
-             clip_on=False)
+    # Los anios electorales iban con triangulos grises sin relleno sobre la
+    # linea del eje: se pisaban con las etiquetas rotadas y desaparecian en
+    # impresion. Van en la propia etiqueta de anio, en negrita, que sobrevive
+    # la escala de grises y no agrega un elemento que colisione.
+    electorales = {a for a in anios if a % 2 == 1}
 
     ax1.set_ylabel("Relevant items", fontsize=PT_EJE, color=TINTA)
     ax1.legend(fontsize=PT_LEYENDA, frameon=False, loc="upper right",
@@ -126,6 +139,10 @@ def main():
     ax1.margins(y=0.18)  # aire para las anotaciones de hito
     ax2.set_xticks(anios)
     ax2.set_xticklabels(anios, rotation=45)
+    for etiqueta, a in zip(ax2.get_xticklabels(), anios):
+        if a in electorales:
+            etiqueta.set_fontweight("bold")
+            etiqueta.set_color("#111111")
 
     DESTINO.parent.mkdir(parents=True, exist_ok=True)
     fig.savefig(DESTINO, dpi=300, bbox_inches="tight", facecolor="white")

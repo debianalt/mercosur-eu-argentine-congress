@@ -32,7 +32,10 @@ gold/
                             the annotator's doubt notes.
 prompts/                    Frozen prompts, model identifiers, output schemas
                             and run parameters. See prompts/README.md.
-analysis/                   Derived tables and complete model output.
+analysis/                   Derived tables and complete model output, including
+                            control_destinos.csv, the item-level list of the
+                            third control series on non-European destination
+                            markets, with the mode of engagement of each item.
 scripts/                    Python scripts that produce everything in analysis/.
 ```
 
@@ -72,7 +75,7 @@ python scripts/analisis_seccion4.py      # descriptive tables and the join
 python scripts/analisis_seccion45.py     # panel and count models
 python scripts/analisis_marco.py         # frame layer: lexical rule + hand codes
 python scripts/analisis_comisiones.py    # committee referral profiles
-python scripts/analisis_control.py       # the two control series
+python scripts/analisis_control.py       # the three control series
 python scripts/analisis_robustez.py      # robustness of the count models
 python scripts/fig1_attention_series.py  # Figure 1
 python scripts/analisis_bosque_atencion.py   # forest comparison

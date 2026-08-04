@@ -8,27 +8,32 @@ Panel: 5660 legislador-anios; items D = 150; sin DECLARACION = 139
   Misiones   IRR  3.42  IC95 [ 1.04,  11.26]  p = 0.043
   Patagonia  IRR  2.22  IC95 [ 1.03,   4.77]  p = 0.042
   NEA        IRR  1.85  IC95 [ 0.79,   4.33]  p = 0.159
+  Izq.progr. IRR  4.55  IC95 [ 1.99,  10.39]  p = 0.000
 
 --- R1 sin DECLARACION ---
   Misiones   IRR  2.61  IC95 [ 0.66,  10.30]  p = 0.170
   Patagonia  IRR  2.47  IC95 [ 1.14,   5.36]  p = 0.022
   NEA        IRR  1.65  IC95 [ 0.67,   4.07]  p = 0.275
+  Izq.progr. IRR  4.58  IC95 [ 1.91,  10.96]  p = 0.001
 
 --- R2 efectos fijos de anio ---
   Misiones        —                              
   Patagonia  IRR  2.26  IC95 [ 0.85,   6.01]  p = 0.101
   NEA        IRR  1.84  IC95 [ 0.63,   5.35]  p = 0.264
+  Izq.progr. IRR  3.73  IC95 [ 0.00,    inf]  p = 1.000
   [Misiones no estimable: NaN, inf or invalid value detected in weights, estimation infeasible. — con efectos fijos de anio y un evento raro, los anios sin items D quedan sin variacion y el ajuste no converge]
 
 --- R3 binomial negativa ---
   Misiones   IRR  3.59  IC95 [ 1.03,  12.50]  p = 0.044
   Patagonia  IRR  2.25  IC95 [ 1.04,   4.87]  p = 0.040
   NEA        IRR  1.88  IC95 [ 0.79,   4.46]  p = 0.153
+  Izq.progr. IRR  4.64  IC95 [ 2.02,  10.67]  p = 0.000
 
 --- R4 cluster por distrito ---
   Misiones   IRR  3.42  IC95 [ 2.23,   5.25]  p = 0.000
   Patagonia  IRR  2.22  IC95 [ 1.12,   4.40]  p = 0.023
   NEA        IRR  1.85  IC95 [ 0.77,   4.42]  p = 0.169
+  Izq.progr. IRR  4.55  IC95 [ 1.93,  10.71]  p = 0.001
 
 ==============================================================================
 ROBUSTEZ — ano electoral (todos los dominios, M1)
@@ -36,7 +41,10 @@ ROBUSTEZ — ano electoral (todos los dominios, M1)
 
   Base (la del cuerpo)         electoral  IRR  0.67  IC95 [ 0.56,   0.80]  p = 0.000
                                gobierno   IRR  0.51  IC95 [ 0.32,   0.81]  p = 0.005
+                               izq.progr. IRR  0.85  IC95 [ 0.44,   1.65]  p = 0.628
   R3 binomial negativa         electoral  IRR  0.66  IC95 [ 0.55,   0.80]  p = 0.000
                                gobierno   IRR  0.52  IC95 [ 0.33,   0.81]  p = 0.004
+                               izq.progr. IRR  0.89  IC95 [ 0.46,   1.73]  p = 0.734
   R4 cluster por distrito      electoral  IRR  0.67  IC95 [ 0.57,   0.78]  p = 0.000
                                gobierno   IRR  0.51  IC95 [ 0.35,   0.73]  p = 0.000
+                               izq.progr. IRR  0.85  IC95 [ 0.53,   1.36]  p = 0.493

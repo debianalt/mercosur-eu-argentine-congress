@@ -32,6 +32,11 @@ OUT = BASE / "analisis"
 BASE_FORMULA = ("{y} ~ C(fase, Treatment('f1_impasse')) + electoral + "
                 "C(familia, Treatment('kirchnerismo')) + {geo} + gobierno")
 
+# la familia partidaria ya entra en BASE_FORMULA; el termino de izquierda
+# progresista es el mayor del modelo forestal y el cuerpo lo reporta, asi que
+# tiene que pasar por la misma bateria que el resto de las estimaciones.
+TERM_IZQ = "C(familia, Treatment('kirchnerismo'))[T.izquierda_progresista]"
+
 
 def irr(res, termino):
     if termino not in res.params.index:
@@ -108,13 +113,15 @@ def main():
             m_reg = ajustar(panel, y, geo_reg, fam, cluster, extra)
             v_pat = irr(m_reg, "C(region, Treatment('PAMPEANA'))[T.PATAGONIA]")
             v_nea = irr(m_reg, "C(region, Treatment('PAMPEANA'))[T.NEA]")
+            v_izq = irr(m_reg, TERM_IZQ)
         except Exception as e:                                   # noqa: BLE001
-            v_pat = v_nea = None
+            v_pat = v_nea = v_izq = None
             nota += f"\n  [region no estimable: {e}]"
         lineas += [f"--- {etiqueta} ---",
                    f"  Misiones   {fmt(v_mis)}",
                    f"  Patagonia  {fmt(v_pat)}",
-                   f"  NEA        {fmt(v_nea)}"]
+                   f"  NEA        {fmt(v_nea)}",
+                   f"  Izq.progr. {fmt(v_izq)}"]
         if nota:
             lineas.append(nota)
         lineas.append("")
@@ -130,6 +137,7 @@ def main():
         m = ajustar(panel, "n_rel", geo_reg, fam, cluster, extra)
         lineas.append(f"  {etiqueta:28s} electoral  {fmt(irr(m, 'electoral'))}")
         lineas.append(f"  {'':28s} gobierno   {fmt(irr(m, 'gobierno'))}")
+        lineas.append(f"  {'':28s} izq.progr. {fmt(irr(m, TERM_IZQ))}")
 
     texto = "\n".join(lineas) + "\n"
     (OUT / "robustez_seccion45.txt").write_text(texto, encoding="utf-8")
