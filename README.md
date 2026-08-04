@@ -79,6 +79,7 @@ python scripts/analisis_control.py       # the three control series
 python scripts/analisis_robustez.py      # robustness of the count models
 python scripts/fig1_attention_series.py  # Figure 1
 python scripts/analisis_bosque_atencion.py   # forest comparison
+python scripts/control_textos.py         # full-text retrieval and screen (S17; needs PyMuPDF)
 ```
 
 Run the first two in that order: the second consumes the output of the first, and the frame and figure scripts consume outputs of both. The scripts expect the Chamber source files, which are redistributed by their publisher rather than here, and the forest script expects the external land-cover layers described below.
@@ -89,7 +90,7 @@ Forest loss is taken from Global Forest Change (Hansen et al. 2013, doi:10.1126/
 
 ## Limitations that bear on reuse
 
-The Chamber publishes titles and metadata but not full texts, so classification operates on summaries. The register covers the lower chamber; Senate items appear only when transmitted to it. Reliability was established independently for relevance and not for the finer dimensions, and the expert review was conducted with the assigned codes visible, which does not correct for anchoring toward the proposed label. The hand-coding of the frame was likewise conducted with the rule's assignments visible, and its agreement with the lexical rule is a consistency check, not an independent reliability estimate. The category of conditional support returns no cases, which is a finding rather than a coding gap, but users building on the scheme should be aware of it.
+The register publishes titles and metadata but not full texts, so classification operates on summaries. Full texts were later retrieved item by item for 552 of the 609 relevant items and screened against the classification (`scripts/control_textos.py`, S17 of the supplementary material); no item coded to the domestic frame engages the regulation in its body. The register covers the lower chamber; Senate items appear only when transmitted to it. Reliability was established independently for relevance and not for the finer dimensions, and the expert review was conducted with the assigned codes visible, which does not correct for anchoring toward the proposed label. The hand-coding of the frame was likewise conducted with the rule's assignments visible, and its agreement with the lexical rule is a consistency check, not an independent reliability estimate. The category of conditional support returns no cases, which is a finding rather than a coding gap, but users building on the scheme should be aware of it.
 
 ## Licence
 
